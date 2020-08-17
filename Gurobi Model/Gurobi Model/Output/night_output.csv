@@ -1,0 +1,160 @@
+,Ori_Hub,Dest_Hub,Nights
+0,Araba (Vitoria)-ES,Brüssel-BE,1.0
+1,Araba (Vitoria)-ES,Eindhoven-Noord-NL,1.0
+2,Araba (Vitoria)-ES,Lisboa-PT,1.0
+3,Araba (Vitoria)-ES,Slough-GB,1.0
+4,Barcelona-ES,Helsingborg-SE,2.0
+5,Barcelona-ES,Hub Wien I-AT,1.0
+6,Barcelona-ES,PZ 77 (Lahr)-DE,1.0
+7,Bettembourg-LU,Ljubljana-SI,1.0
+8,Brno-CZ,Budapest OLK-HU,-0.0
+9,Brno-CZ,Hagenbrunn-AT,-0.0
+10,Brno-CZ,Ivanka pri Dunaji-SK,-0.0
+11,Brüssel-BE,Araba (Vitoria)-ES,1.0
+12,Brüssel-BE,Combs la ville-FR,-0.0
+13,Brüssel-BE,Eindhoven-Noord-NL,-0.0
+14,Brüssel-BE,Kolding-DK,1.0
+15,Brüssel-BE,PZ 47 (Krefeld)-DE,-0.0
+16,Brüssel-BE,PZ 67 (Speyer)-DE,-0.0
+17,Brüssel-BE,PZ 77 (Lahr)-DE,-0.0
+18,Brüssel-BE,PZ 93 (Regensburg)-DE,1.0
+19,Brüssel-BE,Poznań-PL,1.0
+20,Brüssel-BE,Slough-GB,-0.0
+21,Brüssel-BE,Wals-AT,1.0
+22,Budapest OLK-HU,Brno-CZ,-0.0
+23,Budapest OLK-HU,Hub Wien I-AT,-0.0
+24,Budapest OLK-HU,Ivanka pri Dunaji-SK,-0.0
+25,Budapest OLK-HU,PZ 90 (Feucht/Nürnberg)-DE,1.0
+26,Budapest OLK-HU,PZ 93 (Regensburg)-DE,1.0
+27,Budapest OLK-HU,Wrocław-PL,1.0
+28,Eindhoven-Noord-NL,Araba (Vitoria)-ES,1.0
+29,Eindhoven-Noord-NL,Bettembourg-LU,-0.0
+30,Eindhoven-Noord-NL,Brüssel-BE,-0.0
+31,Eindhoven-Noord-NL,Budapest OLK-HU,1.0
+32,Eindhoven-Noord-NL,Combs la ville-FR,-0.0
+33,Eindhoven-Noord-NL,Dublin-IE,1.0
+34,Eindhoven-Noord-NL,Ivanka pri Dunaji-SK,1.0
+35,Eindhoven-Noord-NL,Kaunas-LT,1.0
+36,Eindhoven-Noord-NL,Kolding-DK,-0.0
+37,Eindhoven-Noord-NL,Krupka 1-CZ,1.0
+38,Eindhoven-Noord-NL,Lieto (Turku)-FL,2.0
+39,Eindhoven-Noord-NL,Lisboa-PT,2.0
+40,Eindhoven-Noord-NL,Ljubljana-SI,1.0
+41,Eindhoven-Noord-NL,PZ 47 (Krefeld)-DE,-0.0
+42,Eindhoven-Noord-NL,Slough-GB,1.0
+43,Eindhoven-Noord-NL,Spata-GR,2.0
+44,Eindhoven-Noord-NL,Wals-AT,1.0
+45,Göteborg-SE,Oslo-NO,1.0
+46,Hagenbrunn-AT,Brno-CZ,-0.0
+47,Hagenbrunn-AT,Zabrze-PL,-0.0
+48,Helsingborg-SE,Barcelona-ES,2.0
+49,Helsingborg-SE,Brno-CZ,1.0
+50,Helsingborg-SE,Poznań-PL,1.0
+51,Hub Wien I-AT,Brno-CZ,-0.0
+52,Hub Wien I-AT,Budapest OLK-HU,-0.0
+53,Hub Wien I-AT,Ivanka pri Dunaji-SK,-0.0
+54,Hub Wien I-AT,Ljubljana-SI,-0.0
+55,Hub Wien I-AT,Oradea-RO,1.0
+56,Hub Wien I-AT,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+57,Hub Wien I-AT,Sofia-BG,1.0
+58,Hub Wien I-AT,Zagreb-HR,-0.0
+59,Ivanka pri Dunaji-SK,Brno-CZ,-0.0
+60,Kaunas-LT,Lieto (Turku)-FL,1.0
+61,Kolding-DK,Malmö-SE,-0.0
+62,Krupka 1-CZ,Eindhoven-Noord-NL,1.0
+63,Krupka 1-CZ,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+64,Krupka 1-CZ,PZ 15 (Rüdersdorf)-DE,-0.0
+65,Lieto (Turku)-FL,Brüssel-BE,2.0
+66,Lieto (Turku)-FL,Eindhoven-Noord-NL,2.0
+67,Lieto (Turku)-FL,Helsingborg-SE,1.0
+68,Lieto (Turku)-FL,Kolding-DK,1.0
+69,Lieto (Turku)-FL,PZ 21 (Hamburg)-DE,2.0
+70,Lieto (Turku)-FL,Stockholm - Västberga-SE,1.0
+71,Lisboa-PT,Eindhoven-Noord-NL,2.0
+72,Lisboa-PT,PZ 50 (Köln)-DE,2.0
+73,Lisboa-PT,PZ 77 (Lahr)-DE,2.0
+74,Lisboa-PT,PZ 90 (Feucht/Nürnberg)-DE,2.0
+75,Lisboa-PT,Slough-GB,2.0
+76,Ljubljana-SI,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+77,Ljubljana-SI,Wernberg-AT,-0.0
+78,Malmö-SE,Eindhoven-Noord-NL,1.0
+79,Malmö-SE,Kolding-DK,-0.0
+80,Malmö-SE,Krupka 1-CZ,1.0
+81,Malmö-SE,PZ 21 (Hamburg)-DE,-0.0
+82,Malmö-SE,Slough-GB,1.0
+83,Malmö-SE,Wals-AT,1.0
+84,Ostrava-CZ,Zabrze-PL,-0.0
+85,PZ 04 (Radefeld/Leipzig)-DE,Krupka 1-CZ,-0.0
+86,PZ 15 (Rüdersdorf)-DE,Malmö-SE,1.0
+87,PZ 15 (Rüdersdorf)-DE,Poznań-PL,-0.0
+88,PZ 21 (Hamburg)-DE,Kolding-DK,-0.0
+89,PZ 21 (Hamburg)-DE,Oslo-NO,1.0
+90,PZ 24 (Neumünster)-DE,Malmö-SE,-0.0
+91,PZ 47 (Krefeld)-DE,Brüssel-BE,-0.0
+92,PZ 47 (Krefeld)-DE,Eindhoven-Noord-NL,-0.0
+93,PZ 47 (Krefeld)-DE,Slough-GB,1.0
+94,PZ 50 (Köln)-DE,Bettembourg-LU,-0.0
+95,PZ 50 (Köln)-DE,Combs la ville-FR,-0.0
+96,PZ 50 (Köln)-DE,Helsingborg-SE,1.0
+97,PZ 50 (Köln)-DE,Lisboa-PT,2.0
+98,PZ 67 (Speyer)-DE,Plzen 1-CZ,-0.0
+99,PZ 77 (Lahr)-DE,Barcelona-ES,1.0
+100,PZ 90 (Feucht/Nürnberg)-DE,Brüssel-BE,-0.0
+101,PZ 90 (Feucht/Nürnberg)-DE,Budapest OLK-HU,1.0
+102,PZ 90 (Feucht/Nürnberg)-DE,Eindhoven-Noord-NL,-0.0
+103,PZ 90 (Feucht/Nürnberg)-DE,Hub Wien I-AT,-0.0
+104,PZ 90 (Feucht/Nürnberg)-DE,Oradea-RO,1.0
+105,PZ 90 (Feucht/Nürnberg)-DE,Poznań-PL,-0.0
+106,PZ 90 (Feucht/Nürnberg)-DE,Sofia-BG,1.0
+107,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR,-0.0
+108,PZ 93 (Regensburg)-DE,Budapest OLK-HU,1.0
+109,PZ 93 (Regensburg)-DE,Ivanka pri Dunaji-SK,-0.0
+110,PZ 93 (Regensburg)-DE,Ljubljana-SI,-0.0
+111,PZ 93 (Regensburg)-DE,Sofia-BG,1.0
+112,PZ 93 (Regensburg)-DE,Wals-AT,-0.0
+113,Plzen 1-CZ,Barcelona-ES,1.0
+114,Poznań-PL,Brüssel-BE,1.0
+115,Poznań-PL,Dublin-IE,2.0
+116,Poznań-PL,Eindhoven-Noord-NL,1.0
+117,Poznań-PL,Kaunas-LT,1.0
+118,Poznań-PL,Kolding-DK,-0.0
+119,Poznań-PL,Malmö-SE,1.0
+120,Poznań-PL,PZ 15 (Rüdersdorf)-DE,-0.0
+121,Poznań-PL,Slough-GB,1.0
+122,Slough-GB,Araba (Vitoria)-ES,1.0
+123,Slough-GB,Bettembourg-LU,-0.0
+124,Slough-GB,Brüssel-BE,-0.0
+125,Slough-GB,Budapest OLK-HU,1.0
+126,Slough-GB,Combs la ville-FR,1.0
+127,Slough-GB,Dublin-IE,1.0
+128,Slough-GB,Eindhoven-Noord-NL,1.0
+129,Slough-GB,Ivanka pri Dunaji-SK,1.0
+130,Slough-GB,PZ 47 (Krefeld)-DE,1.0
+131,Slough-GB,Wals-AT,1.0
+132,Sofia-BG,Budapest OLK-HU,1.0
+133,Sofia-BG,Hub Wien I-AT,1.0
+134,Sofia-BG,Kaunas-LT,2.0
+135,Sofia-BG,Wrocław-PL,1.0
+136,Stockholm - Västberga-SE,Lieto (Turku)-FL,1.0
+137,Suwałki (Ełk)-PL,Kaunas-LT,-0.0
+138,Suwałki (Ełk)-PL,Ostrava-CZ,-0.0
+139,Suwałki (Ełk)-PL,Vantaa (Helsinki)-FL,1.0
+140,Vantaa (Helsinki)-FL,Hub Wien I-AT,2.0
+141,Vantaa (Helsinki)-FL,Suwałki (Ełk)-PL,1.0
+142,Wals-AT,Oradea-RO,1.0
+143,Wals-AT,PZ 93 (Regensburg)-DE,-0.0
+144,Wals-AT,Sofia-BG,1.0
+145,Wals-AT,Zagreb-HR,-0.0
+146,Wrocław-PL,Barcelona-ES,2.0
+147,Wrocław-PL,Bettembourg-LU,1.0
+148,Wrocław-PL,Lisboa-PT,3.0
+149,Zabrze-PL,Budapest OLK-HU,-0.0
+150,Zabrze-PL,Hagenbrunn-AT,-0.0
+151,Zabrze-PL,Ljubljana-SI,1.0
+152,Zabrze-PL,Oradea-RO,1.0
+153,Zabrze-PL,Ostrava-CZ,-0.0
+154,Zabrze-PL,Sofia-BG,1.0
+155,Zabrze-PL,Zagreb-HR,1.0
+156,Zabrze-PL,Zilina- Strecno-SK,-0.0
+157,Zaltbommel-NL,Malmö-SE,1.0
+158,Zaltbommel-NL,Poznań-PL,1.0

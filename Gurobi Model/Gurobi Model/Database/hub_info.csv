@@ -1,0 +1,81 @@
+,Unnamed: 0,Unnamed: 0.1,Country,Gateways,Cut-Off,Opening-Time,Hub-Opening-Time,Hub,Cut-off,Open,Closing-Time,Close
+0,0,0,SE,Stockholm,18:00:00,"1,2,3,4,5,7(day 6 until 07.00)",06:00:00,Stockholm - Västberga-SE,18,6,24:00,24
+1,1,1,SE,Jönköpping,14:00:00,"1,2,3,4,5(day 6 until 06.00)",06:00:00,Jönköpping,14,6,24:00,24
+2,2,2,SE,Malmoe,14:00:00,"1,2,3,4,5(day 6 until 06.00) day 7 open 22.00)",06:00:00,Malmoe,14,6,24:00,24
+3,3,3,SE,Helsingborg,14:00:00,"1,2,3,4,5,6,7(day 6 until 16.00) day 7 open 07.00",06:00:00,Helsingborg-SE,14,6,24:00,24
+4,4,4,SE,Göteborg,14:00:00,"1,2,3,4,5, close Saturday (6) 06.00, open Sunday (7) at 22.00",06:00:00,Göteborg-SE,14,6,24:00,24
+5,5,5,SE,Orebro,14:00:00,"1,2,3,4,5, close Saturday (6) 06.30, open Sunday (7) at 21.30",06:30:00,Orebro,14,6.5,24:00,24
+6,6,6,FI,Vantaa (Helsinki),17:00:00,"1,2,3,4,5,6 (day 6 until 15:00)
+
+7 (from 22:00)",,Vantaa (Helsinki),17,0,24:00,24
+7,7,7,FI,Lieto (Turku),17:00:00,"1,2,3,4,5 (day 5 until 21:00)
+6 (until 12:00)
+7 (from 22:00)",06:00:00,Lieto (Turku),17,6,21:00,21
+8,8,8,LT,Kaunas,16:00:00,"1,2,3,4,5 (06:00-24.00);                     6, 7 (08:00-17:00)",06:00:00,Kaunas-LT,16,6,24:00,24
+9,9,9,LV,Riga,16:00:00,"1,2,3,4,5 (05:00-21:00)",05:00:00,Riga-LV,16,5,21:00,21
+10,10,10,EE,Tallin,16:00:00,"1,2,3,4,5 / day 6 until 6:00AM / day 7 from 6:00PM",06:00:00,Tallin,16,6,24:00,24
+11,11,11,PL,Poznan,19:00:00,"1,2,3,4,5",06:00:00,Poznan,19,6,24:00,24
+12,12,12,PL,Elk,17:00:00,"1,2,3,4,5",06:00:00,Elk,17,6,24:00,24
+13,13,13,PL,Zabrze,16:30:00,"1,2,3,4,5",06:00:00,Zabrze-PL,16.5,6,24:00,24
+14,14,14,BE ,Ternat,19:00:00,from Monday morning 05:00 till satuday morning 06:00,05:00:00,Ternat,19,5,24:00,24
+15,15,15,NL ,Eindhoven,19:00:00,from Monday morning 05:00 till satuday morning 06:00,05:00:00,Eindhoven-NL,19,5,24:00,24
+16,16,16,NL,Utrecht Ecom B2C,19:00:00,from Monday morning 05:00 till satuday morning 06:00,05:00:00,Utrecht Ecom B2C,19,5,24:00,24
+17,17,17,DE (AT),Aschheim,15:00:00,"1,2,3,4,5,6 (day 6 until 06:30)
+
+7 (from 23:00)",06:00:00,Aschheim,15,6,24:00,24
+18,18,18,DE (AT),Regensburg,15:00:00,"1,2,3,4,5,6 (day 6 until 06:30)
+
+7 (from 23:00)",06:00:00,PZ 93 (Regensburg)-DE,15,6,24:00,24
+19,19,19,CZ,Ostrava,19:00:00,"1,2,3,4,5, (6 only delivery)",06:00:00,Ostrava-CZ,19,6,24:00,24
+20,20,20,CZ,Nove Modlany,20:00:00,"1,2,3,4,5, (6 only delivery)",06:00:00,Nove Modlany-CZ,20,6,24:00,24
+21,21,21,CZ,Plzen,18:00:00,"1,2,3,4,5, (6 only delivery)",06:00:00,Plzen-CZ,18,6,24:00,24
+22,22,22,NO,Oslo,06:00:00,"1,2,3,4,5 (24H)
+6 - up 10:00
+7  - start at 23:00",06:00:00,Oslo-NO,6,6,24:00,24
+23,23,23,DK,Kastrup,19:00:00,"1-2-3-4-5 (24H)
+6 - 07:00  - 12:00
+7 - 16:00 -> 24H",06:00:00,Kastrup,19,6,24:00,24
+24,24,24,DK,Kolding,19:00:00,"1-2-3-4-5 (24H)
+6 - closed
+7 - 19:00 -> 24H",06:00:00,Kolding-DK,19,6,24:00,24
+25,25,25,HU,Budapest NPKK (OE),23:30:00,"1,2,3,4,5, (6 only delivery)",06:00:00,Budapest NPKK (OE),23.5,6,24:00,24
+26,26,26,HU,Budapest OLK,23:00:00,"1,2,3,4,5,(6: forwarding, loading,
+7: from 18:30)",06:00:00,Budapest OLK,23,6,24:00,24
+27,27,27,SI,Ljubljana,17:00:00,01-Jul,06:00:00,Ljubljana-SI,17,6,24:00,24
+28,28,28,ES,Barcelona,18:00:00,"1,2,3,4,5",06:00:00,Barcelona-ES,18,6,24:00,24
+29,29,29,ES,Madrid,18:00:00,"1,2,3,4,5",06:00:00,Madrid-ES,18,6,24:00,24
+30,30,30,PT,Lisboa,18:00:00,"1,2,3,4,5",06:00:00,Lisboa,18,6,24:00,24
+31,31,31,FR,Paris,19:00:00,"1,2,3,4,5",06:00:00,Paris-FR,19,6,24:00,24
+32,32,32,RO,Oradea,10:00:00,"1,2,3,4,5",06:00:00,Oradea-RO,10,6,24:00,24
+33,33,33,ES,Barcelona,18:00:00,"1,2,3,4,5",06:00:00,Barcelona-ES,18,6,24:00,24
+34,34,34,ES,Madrid,18:00:00,"1,2,3,4,5",06:00:00,Madrid-ES,18,6,24:00,24
+35,35,35,PT,Lisboa,18:00:00,"1,2,3,4,5",06:00:00,Lisboa,18,6,24:00,24
+36,36,36,HR,Zagreb,16:00:00,01-Jun,06:00:00,Zagreb-HR,16,6,24:00,24
+37,37,37,IE,Portlaoise,13:00:00,"Day 1,2,3,4,5,  
+Day 6 until 05:00.  Day 7 from 09:30-22:00",06:00:00,Portlaoise-IE,13,6,24:00,24
+38,38,38,DE,Radefeld,15:00:00,"1,2,3,4,5,6 (day 6 until 06:30)
+
+7 (from 23:00)",06:00:00,PZ 04 (Radefeld/Leipzig)-DE,15,6,24:00,24
+39,39,39,DE,Rüdersdorf,15:00:00,"1,2,3,4,5,6 (day 6 until 06:30)
+
+7 (from 23:00)",06:00:00,PZ 15 (Rüdersdorf)-DE,15,6,24:00,24
+40,40,40,DE,Hamburg,15:00:00,"1,2,3,4,5,6 (day 6 until 06:30)
+
+7 (from 23:00)",06:00:00,PZ 21 (Hamburg)-DE,15,6,24:00,24
+41,41,41,DE,Krefeld,15:00:00,"1,2,3,4,5,6 (day 6 until 06:30)
+
+7 (from 23:00)",06:00:00,PZ 47 (Krefeld)-DE,15,6,24:00,24
+42,42,42,DE,Köln,15:00:00,"1,2,3,4,5,6 (day 6 until 06:30)
+
+7 (from 23:00)",06:00:00,PZ 50 (Köln)-DE,15,6,24:00,24
+43,43,43,DE,Speyer,15:00:00,"1,2,3,4,5,6 (day 6 until 06:30)
+
+7 (from 23:00)",06:00:00,PZ 67 (Speyer)-DE,15,6,24:00,24
+44,44,44,DE,Nürnberg,15:00:00,"1,2,3,4,5,6 (day 6 until 06:30)
+
+7 (from 23:00)",06:00:00,Nürnberg,15,6,24:00,24
+45,45,45,LU,Bettembourg,18:00:00,-123456,06:00:00,Bettembourg-LU,18,6,24:00,24
+46,46,46,BG,Sofia,16:00:00,"1,2,3,4,5,6",06:00:00,Sofia-BG,16,6,24:00,24
+47,47,47,BE ,Brussels,11:00:00,"1,2,3,4,5",06:00:00,Brussels,11,6,24:00,24
+48,48,48,IT,Carpiano,19:00:00,"1,2,3,4,5",06:00:00,Carpiano,19,6,24:00,24
+49,49,49,NL ,Zaltbommel,19:00:00,from Monday morning 05:00 till satuday morning 06:00,05:00:00,Zaltbommel-NL,19,5,24:00,24

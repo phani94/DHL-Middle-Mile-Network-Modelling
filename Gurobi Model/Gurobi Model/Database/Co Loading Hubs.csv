@@ -1,0 +1,442 @@
+Department,Origin Hub,Destination Hub,,Origin Hub-Country,Destination Hub-Country
+EXP,El Prat,East Midlands,,El Prat-ES,East Midlands-UK
+EXP,Brno,Linz Gateway,,Brno-CZ,Linz Gateway-DE
+EXP,PZ 47 (Krefeld),Zaltbommel,,PZ 47 (Krefeld)-DE,Zaltbommel-NL
+EXP,PZ 47 (Krefeld),East Midlands,,PZ 47 (Krefeld)-DE,East Midlands-UK
+EXP,Eindhoven,Linz Gateway,,Eindhoven-NL,Linz Gateway-DE
+EXP,Eindhoven,Getafe,,Eindhoven-NL,Getafe-ES
+EXP,Zaltbommel,Linz Gateway,,Zaltbommel-NL,Linz Gateway-DE
+EXP,Zaltbommel,Poznań,,Zaltbommel-NL,Poznań-PL
+EXP,Zaltbommel,PZ 30 (Hannover),,Zaltbommel-NL,PZ 30 (Hannover)-DE
+EXP,East Midlands,Linz Gateway,,East Midlands-UK,Linz Gateway-DE
+EXP,East Midlands,PZ 30 (Hannover),,East Midlands-UK,PZ 30 (Hannover)-DE
+EXP,East Midlands,El Prat,,East Midlands-UK,El Prat-ES
+EXP,PZ 30 (Hannover),East Midlands,,PZ 30 (Hannover)-DE,East Midlands-UK
+EXP,Linz Gateway,LYON,,Linz Gateway-DE,LYON-FR
+EXP,Linz Gateway,PZ 93 (Regensburg),,Linz Gateway-DE,PZ 93 (Regensburg)-DE
+EXP,Linz Gateway,East Midlands,,Linz Gateway-DE,East Midlands-UK
+EXP,PZ 67 (Speyer),Getafe,,PZ 67 (Speyer)-DE,Getafe-ES
+EXP,PZ 67 (Speyer),LYON,,PZ 67 (Speyer)-DE,LYON-FR
+EXP,PZ 93 (Regensburg),Linz Gateway,,PZ 93 (Regensburg)-DE,Linz Gateway-DE
+EXP,Castelbisbal,Milan,,Castelbisbal-ES,Milan-IT
+EXP,Zaltbommel,Milan,,Zaltbommel-NL,Milan-IT
+EXP,Eindhoven,Milan,,Eindhoven-NL,Milan-IT
+EXP,PZ 90 (Feucht/Nürnberg),Bologna,,PZ 90 (Feucht/Nürnberg)-DE,Bologna-IT
+EXP,East Midlands,Bologna,,East Midlands-UK,Bologna-IT
+EXP,East Midlands,Milan,,East Midlands-UK,Milan-IT
+EXP,LYON,Milan,,LYON-FR,Milan-IT
+EXP,Bologna,Linz Gateway,,Bologna-IT,Linz Gateway-DE
+EXP,Milan,Linz Gateway,,Milan-IT,Linz Gateway-DE
+EXP,Milan,PZ 90 (Feucht/Nürnberg),,Milan-IT,PZ 90 (Feucht/Nürnberg)-DE
+EXP,Milan,PZ 30 (Hannover),,Milan-IT,PZ 30 (Hannover)-DE
+EXP,Bologna,Castelbisbal,,Bologna-IT,Castelbisbal-ES
+EXP,Milan,Castelbisbal,,Milan-IT,Castelbisbal-ES
+EXP,Bologna,LYON,,Bologna-IT,LYON-FR
+EXP,Milan,LYON,,Milan-IT,LYON-FR
+EXP,Milan,Paris,,Milan-IT,Paris-FR
+EXP,Bologna,East Midlands,,Bologna-IT,East Midlands-UK
+FRT,Aachen,Dublin,,Aachen-DE,Dublin-IE
+FRT,Aarhus,Helsingborg,,Aarhus-DK,Helsingborg-SE
+FRT,Aarhus,Barcelona,,Aarhus-DK,Barcelona-ES
+FRT,Aarhus,Brno,,Aarhus-DK,Brno-CZ
+FRT,Brno,Hub Wien I,,Brno-CZ,Hub Wien I-AT
+FRT,Aarhus,Basel,,Aarhus-DK,Basel-CH
+FRT,Aarhus,Copenhagen,,Aarhus-DK,Copenhagen-DK
+FRT,Aarhus,Göteborg,,Aarhus-DK,Göteborg-SE
+FRT,Aarhus,Vantaa (Helsinki),,Aarhus-DK,Vantaa (Helsinki)-FI
+FRT,Kassel,Aarhus,,Kassel-DE,Aarhus-DK
+FRT,Aarhus,Kassel,,Aarhus-DK,Kassel-DE
+FRT,Aarhus,LYON,,Aarhus-DK,LYON-FR
+FRT,Aarhus,Oslo,,Aarhus-DK,Oslo-NO
+FRT,Aarhus,Paris,,Aarhus-DK,Paris-FR
+FRT,Aarhus,Poznań,,Aarhus-DK,Poznań-PL
+FRT,Aarhus,Tallinn,,Aarhus-DK,Tallinn-EE
+FRT,Aarhus,PZ 58 (Hagen),,Aarhus-DK,PZ 58 (Hagen)-DE
+FRT,Helsingborg,Aarhus,,Helsingborg-SE,Aarhus-DK
+FRT,Helsingborg,Barcelona,,Helsingborg-SE,Barcelona-ES
+FRT,Hub Wien I,Brno,,Hub Wien I-AT,Brno-CZ
+FRT,Brno,Helsingborg,,Brno-CZ,Helsingborg-SE
+FRT,Helsingborg,Brno,,Helsingborg-SE,Brno-CZ
+FRT,Helsingborg,Basel,,Helsingborg-SE,Basel-CH
+FRT,Hub Graz,Milan,,Hub Graz-AT,Milan-IT
+FRT,Helsingborg,Copenhagen,,Helsingborg-SE,Copenhagen-DK
+FRT,Helsingborg,Duisburg,,Helsingborg-SE,Duisburg-DE
+FRT,Helsingborg,Eindhoven,,Helsingborg-SE,Eindhoven-NL
+FRT,Helsingborg,PZ 21 (Hamburg),,Helsingborg-SE,PZ 21 (Hamburg)-DE
+FRT,PZ 21 (Hamburg),Helsingborg,,PZ 21 (Hamburg)-DE,Helsingborg-SE
+FRT,Helsingborg,LYON,,Helsingborg-SE,LYON-FR
+FRT,Helsingborg,Madrid,,Helsingborg-SE,Madrid-ES
+FRT,Ried im Innkreis,Milan,,Ried im Innkreis-AT,Milan-IT
+FRT,Helsingborg,Porto,,Helsingborg-SE,Porto-PT
+FRT,Helsingborg,Oslo,,Helsingborg-SE,Oslo-NO
+FRT,Helsingborg,Paris,,Helsingborg-SE,Paris-FR
+FRT,Helsingborg,Poznań,,Helsingborg-SE,Poznań-PL
+FRT,Helsingborg,STRASBOURG,,Helsingborg-SE,STRASBOURG-FR
+FRT,Athens,PZ 90 (Feucht/Nürnberg),,Athens-GR,PZ 90 (Feucht/Nürnberg)-DE
+FRT,Barcelona,Helsingborg,,Barcelona-ES,Helsingborg-SE
+FRT,Barcelona,Vantaa (Helsinki),,Barcelona-ES,Vantaa (Helsinki)-FI
+FRT,PZ 50 (Köln),Barcelona,,PZ 50 (Köln)-DE,Barcelona-ES
+FRT,Barcelona,PZ 50 (Köln),,Barcelona-ES,PZ 50 (Köln)-DE
+FRT,LYON,Barcelona,,LYON-FR,Barcelona-ES
+FRT,Barcelona,LYON,,Barcelona-ES,LYON-FR
+FRT,Milan,Hub Wien I,,Milan-IT,Hub Wien I-AT
+FRT,Verona,Hub Wien I,,Verona-IT,Hub Wien I-AT
+FRT,Belgrad,Munich,,Belgrad-RS,Munich-DE
+FRT,Munich,Belgrad,,Munich-DE,Belgrad-RS
+FRT,Berlin,Poznań,,Berlin-DE,Poznań-PL
+FRT,Bari,Milan,,Bari-IT,Milan-IT
+FRT,Brno,Bratislava - Raca,,Brno-CZ,Bratislava - Raca-SK
+FRT,Bratislava - Raca,Brno,,Bratislava - Raca-SK,Brno-CZ
+FRT,PZ 50 (Köln),Milan,,PZ 50 (Köln)-DE,Milan-IT
+FRT,Basel,Helsingborg,,Basel-CH,Helsingborg-SE
+FRT,Basel,Vantaa (Helsinki),,Basel-CH,Vantaa (Helsinki)-FI
+FRT,Basel,Freiburg,,Basel-CH,Freiburg-DE
+FRT,Bratislava - Raca,Tallinn,,Bratislava - Raca-SK,Tallinn-EE
+FRT,Budapest OLK,Vantaa (Helsinki),,Budapest OLK-HU,Vantaa (Helsinki)-FI
+FRT,Kassel,Hub Wien I,,Kassel-DE,Hub Wien I-AT
+FRT,Budapest OLK,Kassel,,Budapest OLK-HU,Kassel-DE
+FRT,Hub Wien I,Budapest OLK,,Hub Wien I-AT,Budapest OLK-HU
+FRT,PZ 90 (Feucht/Nürnberg),Budapest OLK,,PZ 90 (Feucht/Nürnberg)-DE,Budapest OLK-HU
+FRT,Budapest OLK,PZ 90 (Feucht/Nürnberg),,Budapest OLK-HU,PZ 90 (Feucht/Nürnberg)-DE
+FRT,PZ 90 (Feucht/Nürnberg),Paris,,PZ 90 (Feucht/Nürnberg)-DE,Paris-FR
+FRT,Budapest OLK,Tallinn,,Budapest OLK-HU,Tallinn-EE
+FRT,Hub Wien I,PZ 90 (Feucht/Nürnberg),,Hub Wien I-AT,PZ 90 (Feucht/Nürnberg)-DE
+FRT,Bucuresti,Oradea,,Bucuresti-RO,Oradea-RO
+FRT,PZ 50 (Köln),Helsingborg,,PZ 50 (Köln)-DE,Helsingborg-SE
+FRT,PZ 50 (Köln),Vantaa (Helsinki),,PZ 50 (Köln)-DE,Vantaa (Helsinki)-FI
+FRT,PZ 50 (Köln),Lisboa,,PZ 50 (Köln)-DE,Lisboa-PT
+FRT,Lisboa,PZ 50 (Köln),,Lisboa-PT,PZ 50 (Köln)-DE
+FRT,Lisboa,Porto,,Lisboa-PT,Porto-PT
+FRT,Porto,PZ 50 (Köln),,Porto-PT,PZ 50 (Köln)-DE
+FRT,Duisburg,PZ 50 (Köln),,Duisburg-DE,PZ 50 (Köln)-DE
+FRT,Eindhoven,Duisburg,,Eindhoven-NL,Duisburg-DE
+FRT,PZ 50 (Köln),Paris,,PZ 50 (Köln)-DE,Paris-FR
+FRT,Copenhagen,Aarhus,,Copenhagen-DK,Aarhus-DK
+FRT,Eindhoven,Aarhus,,Eindhoven-NL,Aarhus-DK
+FRT,Aarhus,Eindhoven,,Aarhus-DK,Eindhoven-NL
+FRT,Copenhagen,Helsingborg,,Copenhagen-DK,Helsingborg-SE
+FRT,Copenhagen,Göteborg,,Copenhagen-DK,Göteborg-SE
+FRT,Copenhagen,Jönköping,,Copenhagen-DK,Jönköping-SE
+FRT,Copenhagen,Malmö,,Copenhagen-DK,Malmö-SE
+FRT,Copenhagen,Oslo,,Copenhagen-DK,Oslo-NO
+FRT,Copenhagen,Stockholm - Västberga,,Copenhagen-DK,Stockholm - Västberga-SE
+FRT,Copenhagen,Lieto (Turku),,Copenhagen-DK,Lieto (Turku)-FI
+FRT,Dublin,Aachen,,Dublin-IE,Aachen-DE
+FRT,Dublin,Barcelona,,Dublin-IE,Barcelona-ES
+FRT,Eindhoven,Dublin,,Eindhoven-NL,Dublin-IE
+FRT,Dublin,Eindhoven,,Dublin-IE,Eindhoven-NL
+FRT,Dublin,Göteborg,,Dublin-IE,Göteborg-SE
+FRT,Dublin,Madrid,,Dublin-IE,Madrid-ES
+FRT,Dublin,Paris,,Dublin-IE,Paris-FR
+FRT,Dublin,Warszawa,,Dublin-IE,Warszawa-PL
+FRT,Duisburg,Helsingborg,,Duisburg-DE,Helsingborg-SE
+FRT,Duisburg,Eindhoven,,Duisburg-DE,Eindhoven-NL
+FRT,Duisburg,Vantaa (Helsinki),,Duisburg-DE,Vantaa (Helsinki)-FI
+FRT,Paris,Duisburg,,Paris-FR,Duisburg-DE
+FRT,Duisburg,Paris,,Duisburg-DE,Paris-FR
+FRT,Duisburg,Poznań,,Duisburg-DE,Poznań-PL
+FRT,Duisburg,Koblenz,,Duisburg-DE,Koblenz-DE
+FRT,PZ 21 (Hamburg),Milan,,PZ 21 (Hamburg)-DE,Milan-IT
+FRT,Eindhoven,Aachen,,Eindhoven-NL,Aachen-DE
+FRT,Eindhoven,Helsingborg,,Eindhoven-NL,Helsingborg-SE
+FRT,Eindhoven,Barcelona,,Eindhoven-NL,Barcelona-ES
+FRT,Eindhoven,PZ 33 (Bielefeld),,Eindhoven-NL,PZ 33 (Bielefeld)-DE
+FRT,Eindhoven,PZ 28 (Bremen GVZ),,Eindhoven-NL,PZ 28 (Bremen GVZ)-DE
+FRT,PZ 21 (Hamburg),Eindhoven,,PZ 21 (Hamburg)-DE,Eindhoven-NL
+FRT,PZ 28 (Bremen GVZ),PZ 21 (Hamburg),,PZ 28 (Bremen GVZ)-DE,PZ 21 (Hamburg)-DE
+FRT,Eindhoven,Bucuresti,,Eindhoven-NL,Bucuresti-RO
+FRT,Eindhoven,Vantaa (Helsinki),,Eindhoven-NL,Vantaa (Helsinki)-FI
+FRT,Eindhoven,Istanbul,,Eindhoven-NL,Istanbul-TR
+FRT,Eindhoven,Lisboa,,Eindhoven-NL,Lisboa-PT
+FRT,Eindhoven,LYON,,Eindhoven-NL,LYON-FR
+FRT,Eindhoven,Madrid,,Eindhoven-NL,Madrid-ES
+FRT,Frankfurt,Milan,,Frankfurt-DE,Milan-IT
+FRT,Eindhoven,Munich,,Eindhoven-NL,Munich-DE
+FRT,Munich,PZ 90 (Feucht/Nürnberg),,Munich-DE,PZ 90 (Feucht/Nürnberg)-DE
+FRT,Eindhoven,Oslo,,Eindhoven-NL,Oslo-NO
+FRT,Eindhoven,Paris,,Eindhoven-NL,Paris-FR
+FRT,Paris,Eindhoven,,Paris-FR,Eindhoven-NL
+FRT,Eindhoven,Hub Wien I,,Eindhoven-NL,Hub Wien I-AT
+FRT,Hub Wien I,Bratislava - Raca,,Hub Wien I-AT,Bratislava - Raca-SK
+FRT,Kassel,Milan,,Kassel-DE,Milan-IT
+FRT,PZ 21 (Hamburg),Paris,,PZ 21 (Hamburg)-DE,Paris-FR
+FRT,Florence ,Milan,,Florence -IT,Milan-IT
+FRT,Milan,Zurich,,Milan-IT,Zurich-CH
+FRT,Florence ,Munich,,Florence -IT,Munich-DE
+FRT,Florence ,Verona,,Florence -IT,Verona-IT
+FRT,Barcelona,Frankfurt,,Barcelona-ES,Frankfurt-DE
+FRT,Frankfurt,Barcelona,,Frankfurt-DE,Barcelona-ES
+FRT,Frankfurt,Basel,,Frankfurt-DE,Basel-CH
+FRT,Eindhoven,Frankfurt,,Eindhoven-NL,Frankfurt-DE
+FRT,Frankfurt,Eindhoven,,Frankfurt-DE,Eindhoven-NL
+FRT,Frankfurt,Vantaa (Helsinki),,Frankfurt-DE,Vantaa (Helsinki)-FI
+FRT,Frankfurt,LYON,,Frankfurt-DE,LYON-FR
+FRT,Frankfurt,Madrid,,Frankfurt-DE,Madrid-ES
+FRT,Madrid,Lisboa,,Madrid-ES,Lisboa-PT
+FRT,Frankfurt,Oradea,,Frankfurt-DE,Oradea-RO
+FRT,Frankfurt,Paris,,Frankfurt-DE,Paris-FR
+FRT,Frankfurt,Praha - Reporyje,,Frankfurt-DE,Praha - Reporyje-CZ
+FRT,Frankfurt,Hub Wien I,,Frankfurt-DE,Hub Wien I-AT
+FRT,Göteborg,Aarhus,,Göteborg-SE,Aarhus-DK
+FRT,Göteborg,Copenhagen,,Göteborg-SE,Copenhagen-DK
+FRT,Göteborg,Dublin,,Göteborg-SE,Dublin-IE
+FRT,Göteborg,Oslo,,Göteborg-SE,Oslo-NO
+FRT,Gorna,Sofia,,Gorna-BG,Sofia-BG
+FRT,Hub Graz,Athens,,Hub Graz-AT,Athens-GR
+FRT,Munich,Milan,,Munich-DE,Milan-IT
+FRT,Hub Graz,Saloniki,,Hub Graz-AT,Saloniki-GR
+FRT,Hub Graz,Hub Wien I,,Hub Graz-AT,Hub Wien I-AT
+FRT,Hub Graz,PZ 93 (Regensburg),,Hub Graz-AT,PZ 93 (Regensburg)-DE
+FRT,PZ 90 (Feucht/Nürnberg),PZ 93 (Regensburg),,PZ 90 (Feucht/Nürnberg)-DE,PZ 93 (Regensburg)-DE
+FRT,Geneva,LYON,,Geneva-CH,LYON-FR
+FRT,LYON,Geneva,,LYON-FR,Geneva-CH
+FRT,PZ 21 (Hamburg),Aarhus,,PZ 21 (Hamburg)-DE,Aarhus-DK
+FRT,Aarhus,PZ 21 (Hamburg),,Aarhus-DK,PZ 21 (Hamburg)-DE
+FRT,PZ 21 (Hamburg),Copenhagen,,PZ 21 (Hamburg)-DE,Copenhagen-DK
+FRT,PZ 21 (Hamburg),Hub Wien I,,PZ 21 (Hamburg)-DE,Hub Wien I-AT
+FRT,PZ 30 (Hannover),Hub Wien I,,PZ 30 (Hannover)-DE,Hub Wien I-AT
+FRT,PZ 21 (Hamburg),PZ 30 (Hannover),,PZ 21 (Hamburg)-DE,PZ 30 (Hannover)-DE
+FRT,PZ 21 (Hamburg),Vantaa (Helsinki),,PZ 21 (Hamburg)-DE,Vantaa (Helsinki)-FI
+FRT,PZ 21 (Hamburg),Poznań,,PZ 21 (Hamburg)-DE,Poznań-PL
+FRT,PZ 21 (Hamburg),Tallinn,,PZ 21 (Hamburg)-DE,Tallinn-EE
+FRT,Vantaa (Helsinki),Barcelona,,Vantaa (Helsinki)-FI,Barcelona-ES
+FRT,Vantaa (Helsinki),Basel,,Vantaa (Helsinki)-FI,Basel-CH
+FRT,Vantaa (Helsinki),Bratislava - Raca,,Vantaa (Helsinki)-FI,Bratislava - Raca-SK
+FRT,Vantaa (Helsinki),Budapest OLK,,Vantaa (Helsinki)-FI,Budapest OLK-HU
+FRT,Vantaa (Helsinki),Eindhoven,,Vantaa (Helsinki)-FI,Eindhoven-NL
+FRT,Vantaa (Helsinki),Frankfurt,,Vantaa (Helsinki)-FI,Frankfurt-DE
+FRT,Vantaa (Helsinki),PZ 21 (Hamburg),,Vantaa (Helsinki)-FI,PZ 21 (Hamburg)-DE
+FRT,Vantaa (Helsinki),LYON,,Vantaa (Helsinki)-FI,LYON-FR
+FRT,Vantaa (Helsinki),Madrid,,Vantaa (Helsinki)-FI,Madrid-ES
+FRT,Vantaa (Helsinki),PZ 90 (Feucht/Nürnberg),,Vantaa (Helsinki)-FI,PZ 90 (Feucht/Nürnberg)-DE
+FRT,Vantaa (Helsinki),Ostrava,,Vantaa (Helsinki)-FI,Ostrava-CZ
+FRT,Vantaa (Helsinki),Paris,,Vantaa (Helsinki)-FI,Paris-FR
+FRT,Vantaa (Helsinki),Ulm,,Vantaa (Helsinki)-FI,Ulm-DE
+FRT,Vantaa (Helsinki),STRASBOURG,,Vantaa (Helsinki)-FI,STRASBOURG-FR
+FRT,Munich,Verona,,Munich-DE,Verona-IT
+FRT,Vantaa (Helsinki),Warszawa,,Vantaa (Helsinki)-FI,Warszawa-PL
+FRT,Vantaa (Helsinki),PZ 58 (Hagen),,Vantaa (Helsinki)-FI,PZ 58 (Hagen)-DE
+FRT,Munich,Ried im Innkreis,,Munich-DE,Ried im Innkreis-AT
+FRT,Ried im Innkreis,Munich,,Ried im Innkreis-AT,Munich-DE
+FRT,Paris,PZ 50 (Köln),,Paris-FR,PZ 50 (Köln)-DE
+FRT,Eindhoven,Kassel,,Eindhoven-NL,Kassel-DE
+FRT,Kassel,Eindhoven,,Kassel-DE,Eindhoven-NL
+FRT,Kassel,Vantaa (Helsinki),,Kassel-DE,Vantaa (Helsinki)-FI
+FRT,LYON,Kassel,,LYON-FR,Kassel-DE
+FRT,Kassel,LYON,,Kassel-DE,LYON-FR
+FRT,Kassel,Paris,,Kassel-DE,Paris-FR
+FRT,Paris,Kassel,,Paris-FR,Kassel-DE
+FRT,Kassel,Poznań,,Kassel-DE,Poznań-PL
+FRT,Poznań,Kassel,,Poznań-PL,Kassel-DE
+FRT,Vilnius,Riga,,Vilnius-LT,Riga-LV
+FRT,Kassel,Vilnius,,Kassel-DE,Vilnius-LT
+FRT,St. Petersburg,Moscow,,St. Petersburg-RU,Moscow-RU
+FRT,Ljubljana,Hub Wien I,,Ljubljana-SI,Hub Wien I-AT
+FRT,LYON,Helsingborg,,LYON-FR,Helsingborg-SE
+FRT,LYON,Vantaa (Helsinki),,LYON-FR,Vantaa (Helsinki)-FI
+FRT,LYON,Freiburg,,LYON-FR,Freiburg-DE
+FRT,LYON,Hub Wien I,,LYON-FR,Hub Wien I-AT
+FRT,Milan,Munich,,Milan-IT,Munich-DE
+FRT,Milan,Bari,,Milan-IT,Bari-IT
+FRT,Milan,Florence ,,Milan-IT,Florence -IT
+FRT,Turin,Munich,,Turin-IT,Munich-DE
+FRT,Milan,Napoli,,Milan-IT,Napoli-IT
+FRT,Verona,Munich,,Verona-IT,Munich-DE
+FRT,Milan,Rome,,Milan-IT,Rome-IT
+FRT,Milan,Freiburg,,Milan-IT,Freiburg-DE
+FRT,Milan,Turin,,Milan-IT,Turin-IT
+FRT,Turin,Freiburg,,Turin-IT,Freiburg-DE
+FRT,Verona,Ulm,,Verona-IT,Ulm-DE
+FRT,Saarbrücken,Milan,,Saarbrücken-DE,Milan-IT
+FRT,Milan,Verona,,Milan-IT,Verona-IT
+FRT,Milan,Aarhus,,Milan-IT,Aarhus-DK
+FRT,Verona,Aarhus,,Verona-IT,Aarhus-DK
+FRT,Milan,Barcelona,,Milan-IT,Barcelona-ES
+FRT,Moscow,Nizhny Novgorod,,Moscow-RU,Nizhny Novgorod-RU
+FRT,Moscow,Samara,,Moscow-RU,Samara-RU
+FRT,Moscow,Kazan,,Moscow-RU,Kazan-RU
+FRT,Moscow,St. Petersburg,,Moscow-RU,St. Petersburg-RU
+FRT,Moscow,Novosibirsk,,Moscow-RU,Novosibirsk-RU
+FRT,Moscow,Rostov,,Moscow-RU,Rostov-RU
+FRT,Moscow,Yekaterinburg,,Moscow-RU,Yekaterinburg-RU
+FRT,Moscow,Voronezh,,Moscow-RU,Voronezh-RU
+FRT,Munich,Athens,,Munich-DE,Athens-GR
+FRT,Barcelona,Milan,,Barcelona-ES,Milan-IT
+FRT,Munich,Istanbul,,Munich-DE,Istanbul-TR
+FRT,Saloniki,Athens,,Saloniki-GR,Athens-GR
+FRT,Munich,Saloniki,,Munich-DE,Saloniki-GR
+FRT,Vantaa (Helsinki),Milan,,Vantaa (Helsinki)-FI,Milan-IT
+FRT,Vantaa (Helsinki),Verona,,Vantaa (Helsinki)-FI,Verona-IT
+FRT,LYON,Milan,,LYON-FR,Milan-IT
+FRT,Milan,Vantaa (Helsinki),,Milan-IT,Vantaa (Helsinki)-FI
+FRT,Paris,Milan,,Paris-FR,Milan-IT
+FRT,Napoli,Milan,,Napoli-IT,Milan-IT
+FRT,PZ 90 (Feucht/Nürnberg),Helsingborg,,PZ 90 (Feucht/Nürnberg)-DE,Helsingborg-SE
+FRT,Bratislava - Raca,PZ 90 (Feucht/Nürnberg),,Bratislava - Raca-SK,PZ 90 (Feucht/Nürnberg)-DE
+FRT,PZ 90 (Feucht/Nürnberg),Bratislava - Raca,,PZ 90 (Feucht/Nürnberg)-DE,Bratislava - Raca-SK
+FRT,PZ 90 (Feucht/Nürnberg),Vantaa (Helsinki),,PZ 90 (Feucht/Nürnberg)-DE,Vantaa (Helsinki)-FI
+FRT,PZ 90 (Feucht/Nürnberg),Poznań,,PZ 90 (Feucht/Nürnberg)-DE,Poznań-PL
+FRT,PZ 90 (Feucht/Nürnberg),Sofia,,PZ 90 (Feucht/Nürnberg)-DE,Sofia-BG
+FRT,PZ 90 (Feucht/Nürnberg),Hub Wien I,,PZ 90 (Feucht/Nürnberg)-DE,Hub Wien I-AT
+FRT,Athens,Milan,,Athens-GR,Milan-IT
+FRT,Saloniki,Milan,,Saloniki-GR,Milan-IT
+FRT,Dublin,Milan,,Dublin-IE,Milan-IT
+FRT,Eindhoven,Milan,,Eindhoven-NL,Milan-IT
+FRT,Porto,Helsingborg,,Porto-PT,Helsingborg-SE
+FRT,Porto,Barcelona,,Porto-PT,Barcelona-ES
+FRT,Porto,Madrid,,Porto-PT,Madrid-ES
+FRT,Porto,Freiburg,,Porto-PT,Freiburg-DE
+FRT,Oslo,Aarhus,,Oslo-NO,Aarhus-DK
+FRT,Oslo,Eindhoven,,Oslo-NO,Eindhoven-NL
+FRT,Oslo,Göteborg,,Oslo-NO,Göteborg-SE
+FRT,PZ 21 (Hamburg),Oslo,,PZ 21 (Hamburg)-DE,Oslo-NO
+FRT,Oslo,PZ 21 (Hamburg),,Oslo-NO,PZ 21 (Hamburg)-DE
+FRT,Oslo,Lieto (Turku),,Oslo-NO,Lieto (Turku)-FI
+FRT,Ostrava,Vantaa (Helsinki),,Ostrava-CZ,Vantaa (Helsinki)-FI
+FRT,Ostrava,Tallinn,,Ostrava-CZ,Tallinn-EE
+FRT,Paris,Helsingborg,,Paris-FR,Helsingborg-SE
+FRT,Paris,Vantaa (Helsinki),,Paris-FR,Vantaa (Helsinki)-FI
+FRT,Plovdiv,Sofia,,Plovdiv-BG,Sofia-BG
+FRT,Poznań,Helsingborg,,Poznań-PL,Helsingborg-SE
+FRT,Poznań,Berlin,,Poznań-PL,Berlin-DE
+FRT,Eindhoven,Praha - Reporyje,,Eindhoven-NL,Praha - Reporyje-CZ
+FRT,Praha - Reporyje,Paris,,Praha - Reporyje-CZ,Paris-FR
+FRT,PZ 90 (Feucht/Nürnberg),Praha - Reporyje,,PZ 90 (Feucht/Nürnberg)-DE,Praha - Reporyje-CZ
+FRT,Praha - Reporyje,Poznań,,Praha - Reporyje-CZ,Poznań-PL
+FRT,Madrid,Freiburg,,Madrid-ES,Freiburg-DE
+FRT,Eindhoven,Verona,,Eindhoven-NL,Verona-IT
+FRT,Verona,Vantaa (Helsinki),,Verona-IT,Vantaa (Helsinki)-FI
+FRT,Riga,Kassel,,Riga-LV,Kassel-DE
+FRT,Riga,Stockholm - Västberga,,Riga-LV,Stockholm - Västberga-SE
+FRT,Riga,Tallinn,,Riga-LV,Tallinn-EE
+FRT,Riga,Vilnius,,Riga-LV,Vilnius-LT
+FRT,Rome,Milan,,Rome-IT,Milan-IT
+FRT,Saarbrücken,Helsingborg,,Saarbrücken-DE,Helsingborg-SE
+FRT,Saarbrücken,Bratislava - Raca,,Saarbrücken-DE,Bratislava - Raca-SK
+FRT,Bratislava - Raca,Budapest OLK,,Bratislava - Raca-SK,Budapest OLK-HU
+FRT,Saarbrücken,Eindhoven,,Saarbrücken-DE,Eindhoven-NL
+FRT,Saarbrücken,Vantaa (Helsinki),,Saarbrücken-DE,Vantaa (Helsinki)-FI
+FRT,Saarbrücken,Poznań,,Saarbrücken-DE,Poznań-PL
+FRT,Saarbrücken,Praha - Reporyje,,Saarbrücken-DE,Praha - Reporyje-CZ
+FRT,Saarbrücken,Zurich,,Saarbrücken-DE,Zurich-CH
+FRT,Saloniki,Kassel,,Saloniki-GR,Kassel-DE
+FRT,Skopje,Budapest OLK,,Skopje-MK,Budapest OLK-HU
+FRT,Sofia,Gorna,,Sofia-BG,Gorna-BG
+FRT,Sofia,Istanbul,,Sofia-BG,Istanbul-TR
+FRT,Sofia,Plovdiv,,Sofia-BG,Plovdiv-BG
+FRT,Hub Wien I,Sofia,,Hub Wien I-AT,Sofia-BG
+FRT,Sofia,Hub Wien I,,Sofia-BG,Hub Wien I-AT
+FRT,Stockholm - Västberga,Copenhagen,,Stockholm - Västberga-SE,Copenhagen-DK
+FRT,Stockholm - Västberga,Vantaa (Helsinki),,Stockholm - Västberga-SE,Vantaa (Helsinki)-FI
+FRT,Stockholm - Västberga,Lieto (Turku),,Stockholm - Västberga-SE,Lieto (Turku)-FI
+FRT,Stockholm - Västberga,Tallinn,,Stockholm - Västberga-SE,Tallinn-EE
+FRT,STRASBOURG,Freiburg,,STRASBOURG-FR,Freiburg-DE
+FRT,Salzburg,Munich,,Salzburg-AT,Munich-DE
+FRT,Munich,Salzburg,,Munich-DE,Salzburg-AT
+FRT,Lieto (Turku),Copenhagen,,Lieto (Turku)-FI,Copenhagen-DK
+FRT,Lieto (Turku),Oslo,,Lieto (Turku)-FI,Oslo-NO
+FRT,Lieto (Turku),Stockholm - Västberga,,Lieto (Turku)-FI,Stockholm - Västberga-SE
+FRT,Tallinn,Duisburg,,Tallinn-EE,Duisburg-DE
+FRT,Tallinn,PZ 21 (Hamburg),,Tallinn-EE,PZ 21 (Hamburg)-DE
+FRT,Tallinn,Vantaa (Helsinki),,Tallinn-EE,Vantaa (Helsinki)-FI
+FRT,Tallinn,Riga,,Tallinn-EE,Riga-LV
+FRT,Tallinn,Stockholm - Västberga,,Tallinn-EE,Stockholm - Västberga-SE
+FRT,Tallinn,Vilnius,,Tallinn-EE,Vilnius-LT
+FRT,Turin,Milan,,Turin-IT,Milan-IT
+FRT,Turin,LYON,,Turin-IT,LYON-FR
+FRT,Hub Wien I,Belgrad,,Hub Wien I-AT,Belgrad-RS
+FRT,Bratislava - Raca,Hub Wien I,,Bratislava - Raca-SK,Hub Wien I-AT
+FRT,Budapest OLK,Hub Wien I,,Budapest OLK-HU,Hub Wien I-AT
+FRT,Hub Wien I,Hub Graz,,Hub Wien I-AT,Hub Graz-AT
+FRT,Hub Graz,Ljubljana,,Hub Graz-AT,Ljubljana-SI
+FRT,Verona,LYON,,Verona-IT,LYON-FR
+FRT,Hub Wien I,Munich,,Hub Wien I-AT,Munich-DE
+FRT,Hub Wien I,Oradea,,Hub Wien I-AT,Oradea-RO
+FRT,Hub Wien I,Skopje,,Hub Wien I-AT,Skopje-MK
+FRT,Zagreb,Hub Wien I,,Zagreb-HR,Hub Wien I-AT
+FRT,Hub Wien I,Zagreb,,Hub Wien I-AT,Zagreb-HR
+FRT,Valencia,Barcelona,,Valencia-ES,Barcelona-ES
+FRT,Valencia,Freiburg,,Valencia-ES,Freiburg-DE
+FRT,Barcelona,Valencia,,Barcelona-ES,Valencia-ES
+FRT,Vilnius,Kassel,,Vilnius-LT,Kassel-DE
+FRT,Vilnius,Stockholm - Västberga,,Vilnius-LT,Stockholm - Västberga-SE
+FRT,Vilnius,Tallinn,,Vilnius-LT,Tallinn-EE
+FRT,Vilnius,Warszawa,,Vilnius-LT,Warszawa-PL
+FRT,Turin,Paris,,Turin-IT,Paris-FR
+FRT,Verona,Paris,,Verona-IT,Paris-FR
+FRT,Verona,Milan,,Verona-IT,Milan-IT
+FRT,Verona,Athens,,Verona-IT,Athens-GR
+FRT,Milan,Saloniki,,Milan-IT,Saloniki-GR
+FRT,Helsingborg,Milan,,Helsingborg-SE,Milan-IT
+FRT,Helsingborg,Verona,,Helsingborg-SE,Verona-IT
+FRT,Milan,Helsingborg,,Milan-IT,Helsingborg-SE
+FRT,Bratislava - Raca,Milan,,Bratislava - Raca-SK,Milan-IT
+FRT,Verona,Helsingborg,,Verona-IT,Helsingborg-SE
+FRT,Eindhoven,Warszawa,,Eindhoven-NL,Warszawa-PL
+FRT,Aachen,Eindhoven,,Aachen-DE,Eindhoven-NL
+FRT,Ljubljana,PZ 90 (Feucht/Nürnberg),,Ljubljana-SI,PZ 90 (Feucht/Nürnberg)-DE
+FRT,Zagreb,Ljubljana,,Zagreb-HR,Ljubljana-SI
+FRT,PZ 90 (Feucht/Nürnberg),Zagreb,,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR
+FRT,PZ 30 (Hannover),Paris,,PZ 30 (Hannover)-DE,Paris-FR
+FRT,Praha - Reporyje,Halle,,Praha - Reporyje-CZ,Halle-DE
+FRT,Eindhoven,Koblenz,,Eindhoven-NL,Koblenz-DE
+FRT,Frankfurt,Poznań,,Frankfurt-DE,Poznań-PL
+FRT,Eindhoven,PZ 58 (Hagen),,Eindhoven-NL,PZ 58 (Hagen)-DE
+FRT,Frankfurt,Helsingborg,,Frankfurt-DE,Helsingborg-SE
+FRT,Worms,Frankfurt,,Worms-DE,Frankfurt-DE
+FRT,Worms,Vantaa (Helsinki),,Worms-DE,Vantaa (Helsinki)-FI
+FRT,Worms,Munich,,Worms-DE,Munich-DE
+FRT,Worms,Praha - Reporyje,,Worms-DE,Praha - Reporyje-CZ
+DPI,Bethel,Frankfurt,,Bethel-LU,Frankfurt-DE
+DPI,Bethel,PZ 50 (Köln),,Bethel-LU,PZ 50 (Köln)-DE
+DPI,Bonaire,Frankfurt,,Bonaire-DE,Frankfurt-DE
+DPI,Paris,Frankfurt,,Paris-FR,Frankfurt-DE
+DPI,PZ 50 (Köln),Bethel,,PZ 50 (Köln)-DE,Bethel-LU
+DPI,PZ 50 (Köln),Frankfurt,,PZ 50 (Köln)-DE,Frankfurt-DE
+DPI,Coventry - Baginton,PZ 50 (Köln),,Coventry - Baginton-GB,PZ 50 (Köln)-DE
+DPI,Duisburg,Frankfurt,,Duisburg-DE,Frankfurt-DE
+DPI,Eindhoven,Frankfurt,,Eindhoven-NL,Frankfurt-DE
+DPI,Frankfurt,Malmö,,Frankfurt-DE,Malmö-SE
+DPI,Frankfurt,Praha - Reporyje,,Frankfurt-DE,Praha - Reporyje-CZ
+DPI,Frankfurt,Bethel,,Frankfurt-DE,Bethel-LU
+DPI,Frankfurt,Milan,,Frankfurt-DE,Milan-IT
+DPI,Frankfurt,Dublin,,Frankfurt-DE,Dublin-IE
+DPI,Frankfurt,Madrid,,Frankfurt-DE,Madrid-ES
+DPI,Frankfurt,PZ 50 (Köln),,Frankfurt-DE,PZ 50 (Köln)-DE
+DPI,Frankfurt,Warszawa,,Frankfurt-DE,Warszawa-PL
+DPI,Frankfurt,Munich,,Frankfurt-DE,Munich-DE
+DPI,Frankfurt,Paris,,Frankfurt-DE,Paris-FR
+DPI,Frankfurt,Liege,,Frankfurt-DE,Liege-BE
+DPI,Green Bay (WI) ,Frankfurt,,Green Bay (WI) -DE,Frankfurt-DE
+DPI,PZ 21 (Hamburg),Oslo,,PZ 21 (Hamburg)-DE,Oslo-NO
+DPI,PZ 21 (Hamburg),Malmö,,PZ 21 (Hamburg)-DE,Malmö-SE
+DPI,Frankfurt,Frankfurt,,Frankfurt-DE,Frankfurt-DE
+DPI,Kiel,Malmö,,Kiel-DE,Malmö-SE
+DPI,PZ 04 (Radefeld/Leipzig),Berlin,,PZ 04 (Radefeld/Leipzig)-DE,Berlin-DE
+DPI,PZ 04 (Radefeld/Leipzig),Kiev,,PZ 04 (Radefeld/Leipzig)-DE,Kiev-UA
+DPI,PZ 04 (Radefeld/Leipzig),Warszawa,,PZ 04 (Radefeld/Leipzig)-DE,Warszawa-PL
+DPI,PZ 04 (Radefeld/Leipzig),Vilnius,,PZ 04 (Radefeld/Leipzig)-DE,Vilnius-LT
+DPI,London,Frankfurt,,London-GB,Frankfurt-DE
+DPI,Malmö,PZ 21 (Hamburg),,Malmö-SE,PZ 21 (Hamburg)-DE
+DPI,PZ 90 (Feucht/Nürnberg),Sofia,,PZ 90 (Feucht/Nürnberg)-DE,Sofia-BG
+DPI,PZ 90 (Feucht/Nürnberg),Oradea,,PZ 90 (Feucht/Nürnberg)-DE,Oradea-RO
+DPI,PZ 90 (Feucht/Nürnberg),Zagreb,,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR
+DPI,PZ 90 (Feucht/Nürnberg),Budapest OLK,,PZ 90 (Feucht/Nürnberg)-DE,Budapest OLK-HU
+DPI,PZ 90 (Feucht/Nürnberg),Istanbul,,PZ 90 (Feucht/Nürnberg)-DE,Istanbul-TR
+DPI,Praha - Reporyje,Frankfurt,,Praha - Reporyje-CZ,Frankfurt-DE
+DPI,Zagreb,PZ 90 (Feucht/Nürnberg),,Zagreb-HR,PZ 90 (Feucht/Nürnberg)-DE
+NL Euronet CGN,Hürth,Eindhoven,,Hürth-DE,Eindhoven-NL
+NL Euronet CGN,Eindhoven,Ryton Gateway,,Eindhoven-NL,Ryton Gateway-GB
+NL Euronet CGN,Eindhoven,Paris,,Eindhoven-NL,Paris-FR
+NL Euronet CGN,Zaltbommel,Hürth,,Zaltbommel-NL,Hürth-DE
+NL Euronet CGN,Zaltbommel,Ryton Gateway,,Zaltbommel-NL,Ryton Gateway-GB
+NL Euronet CGN,Zaltbommel,Paris,,Zaltbommel-NL,Paris-FR
+NL Euronet CGN,Zaltbommel,Malmö,,Zaltbommel-NL,Malmö-SE
+NL Euronet CGN,Zaltbommel,Zaltbommel,,Zaltbommel-NL,Zaltbommel-NL
+NL Euronet CGN,Eindhoven,Hürth,,Eindhoven-NL,Hürth-DE
+NL Euronet CGN,Zaltbommel,Dortmund,,Zaltbommel-NL,Dortmund-DE
+NL Euronet CGN,Zaltbommel,Plzen,,Zaltbommel-NL,Plzen-CZ
+NL Euronet CGN,Zaltbommel,Duisburg,,Zaltbommel-NL,Duisburg-DE
+NL Euronet CGN,Zaltbommel,PZ 44 (Bochum) [im Bau],,Zaltbommel-NL,PZ 44 (Bochum) [im Bau]-DE
+NL Euronet CGN,Ryton Gateway,Eindhoven,,Ryton Gateway-GB,Eindhoven-NL
+NL Euronet CGN,Zaltbommel,PZ 47 (Krefeld),,Zaltbommel-NL,PZ 47 (Krefeld)-DE

@@ -1,0 +1,196 @@
+,From,To,Truck type,Frequency
+0,Ostrava-CZ,Zabrze-PL,Trailer,5
+1,Plzen 1-CZ,PZ 90 (Feucht/Nürnberg)-DE,2 swap bodies,5
+2,PZ 67 (Speyer)-DE,Barcelona-ES,Trailer,5
+3,PZ 67 (Speyer)-DE,Barcelona-ES,Trailer,4
+4,PZ 67 (Speyer)-DE,Barcelona-ES,Trailer,1
+5,PZ 67 (Speyer)-DE,Madrid-ES,Trailer,1
+6,PZ 67 (Speyer)-DE,Madrid-ES,Trailer,1
+7,PZ 67 (Speyer)-DE,Madrid-ES,Trailer,3
+8,PZ 67 (Speyer)-DE,Araba (Vitoria)-ES,Trailer,1
+9,PZ 67 (Speyer)-DE,Lisboa-PT,Trailer,4
+10,PZ 67 (Speyer)-DE,Lisboa-PT,Trailer,1
+11,Barcelona-ES,PZ 67 (Speyer)-DE,Trailer,5
+12,Barcelona-ES,PZ 67 (Speyer)-DE,Trailer,1
+13,Combs la ville-FR,PZ 77 (Lahr)-DE,Trailer,1
+14,Slough-GB,PZ 50 (Köln)-DE,SEMI TRAILER,4
+15,Slough-GB,PZ 50 (Köln)-DE,SEMI TRAILER,1
+16,Slough-GB,PZ 50 (Köln)-DE,SEMI TRAILER,4
+17,Slough-GB,PZ 50 (Köln)-DE,SEMI TRAILER,1
+18,Slough-GB,PZ 50 (Köln)-DE,SEMI TRAILER,1
+19,Ryton Gateway-GB,PZ 50 (Köln)-DE,SEMI TRAILER,5
+20,Zaltbommel-NL,PZ 44 (Bochum) [im Bau]-DE,Trailer,1
+21,Zaltbommel-NL,PZ 47 (Krefeld)-DE,Trailer,1
+22,Zaltbommel-NL,PZ 47 (Krefeld)-DE,Trailer,1
+23,Zaltbommel-NL,PZ 50 (Köln)-DE,1 swap body,5
+24,Zaltbommel-NL,PZ 08 (Neumark)-DE,1 swap body,5
+25,Zaltbommel-NL,PZ 93 (Regensburg)-DE,1 swap body,5
+26,Zaltbommel-NL,PZ 47 (Krefeld)-DE,1 swap body,5
+27,Eindhoven-Noord-NL,Barcelona-ES,Trailer,4
+28,Eindhoven-Noord-NL,Barcelona-ES,Trailer,1
+29,Eindhoven-Noord-NL,Madrid-ES,Trailer,3
+30,Eindhoven-Noord-NL,Madrid-ES,Trailer,1
+31,Eindhoven-Noord-NL,Madrid-ES,Trailer,1
+32,Eindhoven-Noord-NL,Araba (Vitoria)-ES,Trailer,1
+33,Eindhoven-Noord-NL,Araba (Vitoria)-ES,Trailer,4
+34,Eindhoven-Noord-NL,Araba (Vitoria)-ES,Trailer,4
+35,Eindhoven-Noord-NL,Araba (Vitoria)-ES,Trailer,1
+36,Eindhoven-Noord-NL,Combs la ville-FR,Trailer,4
+37,Eindhoven-Noord-NL,Combs la ville-FR,Trailer,1
+38,Zaltbommel-NL,Ryton Gateway-GB,Trailer,4
+39,Zaltbommel-NL,Ryton Gateway-GB,Trailer,1
+40,Eindhoven-Noord-NL,Ryton Gateway-GB,Trailer,4
+41,Eindhoven-Noord-NL,Ryton Gateway-GB,Trailer,1
+42,Eindhoven-Noord-NL,Ryton Gateway-GB,Trailer,4
+43,Eindhoven-Noord-NL,Ryton Gateway-GB,Trailer,1
+44,Eindhoven-Noord-NL,Ryton Gateway-GB,Trailer,4
+45,Eindhoven-Noord-NL,Ryton Gateway-GB,Trailer,1
+46,Eindhoven-Noord-NL,Koninko-PL,Trailer,4
+47,Eindhoven-Noord-NL,Koninko-PL,Trailer,1
+48,Eindhoven-Noord-NL,Poznań-PL,Trailer,4
+49,Eindhoven-Noord-NL,Poznań-PL,Trailer,1
+50,Eindhoven-Noord-NL,Arlöv-SE,Trailer,4
+51,Eindhoven-Noord-NL,Arlöv-SE,Trailer,1
+52,Eindhoven-Noord-NL,Arlöv-SE,Trailer,4
+53,Eindhoven-Noord-NL,Arlöv-SE,Trailer,1
+54,Suwałki (Ełk)-PL,Kaunas-LT,van,5
+55,Poznań-PL,PZ 15 (Rüdersdorf)-DE,2 swap bodies,5
+56,Poznań-PL,PZ 15 (Rüdersdorf)-DE,2 swap bodies,5
+57,Poznań-PL,PZ 15 (Rüdersdorf)-DE,2 swap bodies,5
+58,Zabrze-PL,Ostrava-CZ,trailer,5
+59,Göteborg-SE,Oslo-NO,trailer,4
+60,Göteborg-SE,Oslo-NO,trailer,1
+61,Göteborg-SE,Oslo-NO,trailer,5
+62,Stockholm - Västberga-SE,Lieto (Turku)-FL,trailer,5
+63,Stockholm - Västberga-SE,Lieto (Turku)-FL,trailer,5
+64,Helsingborg-SE,Eindhoven-Noord-NL,trailer,4
+65,Helsingborg-SE,Eindhoven-Noord-NL,trailer,1
+66,Lieto (Turku)-FL,Stockholm - Västberga-SE,trailer,4
+67,Lieto (Turku)-FL,Stockholm - Västberga-SE,trailer,4
+68,PZ 50 (Köln)-DE,Brüssel-BE,Trailer,5
+69,PZ 50 (Köln)-DE,Brüssel-BE,Trailer,6
+70,PZ 50 (Köln)-DE,Brüssel-BE,Trailer,5
+71,PZ 46 (Dorsten)-DE,Zaltbommel-NL,2 swap bodies,5
+72,PZ 46 (Dorsten)-DE,Zaltbommel-NL,2 swap bodies,5
+73,PZ 46 (Dorsten)-DE,Zaltbommel-NL,2 swap bodies,5
+74,PZ 46 (Dorsten)-DE,Zaltbommel-NL,2 swap bodies,5
+75,PZ 46 (Dorsten)-DE,Zaltbommel-NL,2 swap bodies,5
+76,PZ 46 (Dorsten)-DE,Zaltbommel-NL,2 swap bodies,5
+77,PZ 46 (Dorsten)-DE,Zaltbommel-NL,2 swap bodies,5
+78,PZ 46 (Dorsten)-DE,Zaltbommel-NL,2 swap bodies,5
+79,PZ 46 (Dorsten)-DE,Zaltbommel-NL,2 swap bodies,5
+80,PZ 50 (Köln)-DE,Bettembourg-LU,Trailer,5
+81,PZ 50 (Köln)-DE,Bettembourg-LU,Trailer,4
+82,PZ 50 (Köln)-DE,Bettembourg-LU,Trailer,2
+83,PZ 46 (Dorsten)-DE,Ryton Gateway-GB,Trailer,5
+84,PZ 46 (Dorsten)-DE,Ryton Gateway-GB,Trailer,5
+85,Hagenbrunn-AT,Zabrze-PL,Trailer,5
+86,Hagenbrunn-AT,Brno-CZ,Trailer,5
+87,PZ 04 (Radefeld/Leipzig)-DE,Wrocław-PL,2 swap bodies,5
+88,PZ 04 (Radefeld/Leipzig)-DE,Koninko-PL,2 swap bodies,6
+89,PZ 04 (Radefeld/Leipzig)-DE,Bydgoszcz (Solec Kujawski)-PL,2 swap bodies,3
+90,PZ 50 (Köln)-DE,Dublin-IE,Trailer,6
+91,PZ 50 (Köln)-DE,Dublin-IE,Trailer,4
+92,Zaltbommel-NL,Dublin-IE,Trailer,3
+93,Eindhoven-Noord-NL,Plzen 1-CZ,Trailer,4
+94,Eindhoven-Noord-NL,Plzen 1-CZ,Trailer,1
+95,Eindhoven-Noord-NL,Ryton Gateway-GB,Trailer,4
+96,Eindhoven-Noord-NL,Ryton Gateway-GB,Trailer,1
+97,PZ 90 (Feucht/Nürnberg)-DE,Spata-GR,Trailer,5
+98,PZ 90 (Feucht/Nürnberg)-DE,Oradea-RO,Trailer,5
+99,PZ 90 (Feucht/Nürnberg)-DE,Budapest NPKK (OE)-HU,Trailer,5
+100,PZ 90 (Feucht/Nürnberg)-DE,Sofia-BG,Trailer,5
+101,PZ 67 (Speyer)-DE,Barcelona-ES,Trailer,6
+102,PZ 67 (Speyer)-DE,Barcelona-ES,Trailer,5
+103,PZ 67 (Speyer)-DE,Barcelona-ES,Trailer,5
+104,PZ 67 (Speyer)-DE,Madrid-ES,Trailer,6
+105,PZ 67 (Speyer)-DE,Madrid-ES,Trailer,5
+106,PZ 67 (Speyer)-DE,Madrid-ES,Trailer,5
+107,PZ 67 (Speyer)-DE,Lisboa-PT,Trailer,3
+108,PZ 77 (Lahr)-DE,Combs la ville-FR,Trailer,2
+109,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR,Van,5
+110,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR,Van,5
+111,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR,Van,6
+112,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR,Van,5
+113,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR,Van,5
+114,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR,Van,1
+115,PZ 93 (Regensburg)-DE,Ljubljana-SI,Trailer,5
+116,PZ 93 (Regensburg)-DE,Ivanka pri Dunaji-SK,Trailer,5
+117,PZ 04 (Radefeld/Leipzig)-DE,Krupka 1-CZ,2 swap bodies,5
+118,PZ 21 (Hamburg)-DE,Vantaa (Helsinki)-FL,Sea Container,5
+119,PZ 21 (Hamburg)-DE,Malmö-SE,Trailer,5
+120,PZ 21 (Hamburg)-DE,Oslo-NO,Trailer,5
+121,PZ 21 (Hamburg)-DE,Kolding-DK,Trailer,5
+122,PZ 04 (Radefeld/Leipzig)-DE,Kaunas-LT,Trailer,5
+123,Ljubljana-SI,PZ 90 (Feucht/Nürnberg)-DE,Van,5
+124,Zaltbommel-NL,PZ 46 (Dorsten)-DE,2 swap bodies,5
+125,Zaltbommel-NL,PZ 46 (Dorsten)-DE,2 swap bodies,5
+126,Zaltbommel-NL,PZ 46 (Dorsten)-DE,2 swap bodies,5
+127,Zaltbommel-NL,PZ 46 (Dorsten)-DE,2 swap bodies,5
+128,Zaltbommel-NL,PZ 46 (Dorsten)-DE,2 swap bodies,5
+129,Zaltbommel-NL,PZ 46 (Dorsten)-DE,2 swap bodies,5
+130,Zaltbommel-NL,PZ 46 (Dorsten)-DE,2 swap bodies,5
+131,Zaltbommel-NL,PZ 46 (Dorsten)-DE,2 swap bodies,5
+132,PZ 46 (Dorsten)-DE,Ryton Gateway-GB,Trailer,5
+133,PZ 46 (Dorsten)-DE,Ryton Gateway-GB,Trailer,6
+134,PZ 46 (Dorsten)-DE,Ryton Gateway-GB,Trailer,5
+135,Hub Wien I-AT,PZ 93 (Regensburg)-DE,2 swap bodies,5
+136,Hub Wien I-AT,PZ 93 (Regensburg)-DE,2 swap bodies,5
+137,Hagenbrunn-AT,PZ 93 (Regensburg)-DE,2 swap bodies,5
+138,Allhaming-AT,PZ 93 (Regensburg)-DE,2 swap bodies,5
+139,Allhaming-AT,PZ 93 (Regensburg)-DE,2 swap bodies,5
+140,Allhaming-AT,PZ 93 (Regensburg)-DE,2 swap bodies,5
+141,Allhaming-AT,PZ 93 (Regensburg)-DE,2 swap bodies,5
+142,Allhaming-AT,PZ 93 (Regensburg)-DE,2 swap bodies,5
+143,Enns-AT,PZ 93 (Regensburg)-DE,2 swap bodies,5
+144,Wernberg-AT,PZ 93 (Regensburg)-DE,2 swap bodies,5
+145,PZ 93 (Regensburg)-DE,Hub Wien I-AT,2 swap bodies,5
+146,PZ 93 (Regensburg)-DE,Hub Wien I-AT,2 swap bodies,5
+147,PZ 93 (Regensburg)-DE,Hub Wien I-AT,2 swap bodies,5
+148,PZ 93 (Regensburg)-DE,Hub Wien I-AT,2 swap bodies,5
+149,PZ 93 (Regensburg)-DE,Hub Wien I-AT,2 swap bodies,5
+150,PZ 93 (Regensburg)-DE,Liesing-AT,2 swap bodies,5
+151,PZ 93 (Regensburg)-DE,Liesing-AT,2 swap bodies,5
+152,PZ 93 (Regensburg)-DE,Hagenbrunn-AT,2 swap bodies,5
+153,PZ 93 (Regensburg)-DE,Hagenbrunn-AT,2 swap bodies,5
+154,PZ 93 (Regensburg)-DE,Hagenbrunn-AT,2 swap bodies,5
+155,PZ 93 (Regensburg)-DE,Hagenbrunn-AT,2 swap bodies,5
+156,PZ 93 (Regensburg)-DE,Hagenbrunn-AT,2 swap bodies,5
+157,PZ 93 (Regensburg)-DE,Hagenbrunn-AT,2 swap bodies,1
+158,PZ 93 (Regensburg)-DE,Hub Wien II-AT,2 swap bodies,5
+159,PZ 93 (Regensburg)-DE,Hub Wien II-AT,2 swap bodies,5
+160,PZ 93 (Regensburg)-DE,Allhaming-AT,2 swap bodies,5
+161,PZ 93 (Regensburg)-DE,Allhaming-AT,2 swap bodies,5
+162,PZ 93 (Regensburg)-DE,Allhaming-AT,2 swap bodies,5
+163,PZ 93 (Regensburg)-DE,Allhaming-AT,2 swap bodies,5
+164,PZ 93 (Regensburg)-DE,Allhaming-AT,2 swap bodies,5
+165,PZ 93 (Regensburg)-DE,Wals-AT,2 swap bodies,5
+166,PZ 93 (Regensburg)-DE,Wals-AT,2 swap bodies,5
+167,PZ 93 (Regensburg)-DE,Enns-AT,2 swap bodies,5
+168,PZ 93 (Regensburg)-DE,Enns-AT,2 swap bodies,5
+169,PZ 93 (Regensburg)-DE,Enns-AT,2 swap bodies,5
+170,PZ 93 (Regensburg)-DE,Hub Graz-AT,2 swap bodies,5
+171,PZ 93 (Regensburg)-DE,Hub Graz-AT,2 swap bodies,5
+172,PZ 93 (Regensburg)-DE,Hub Graz-AT,2 swap bodies,5
+173,PZ 93 (Regensburg)-DE,Hub Graz-AT,2 swap bodies,1
+174,PZ 93 (Regensburg)-DE,Wundschuh-AT,2 swap bodies,5
+175,PZ 93 (Regensburg)-DE,Wundschuh-AT,2 swap bodies,5
+176,PZ 93 (Regensburg)-DE,Wernberg-AT,2 swap bodies,5
+177,PZ 93 (Regensburg)-DE,Wernberg-AT,2 swap bodies,5
+178,PZ 93 (Regensburg)-DE,Hall in Tirol-AT,2 swap bodies,5
+179,PZ 93 (Regensburg)-DE,Hall in Tirol-AT,2 swap bodies,2
+180,Zabrze-PL,Hagenbrunn-AT,Trailer,5
+181,Brno-CZ,Hagenbrunn-AT,Trailer,5
+182,Brno-CZ,Ivanka pri Dunaji-SK,Cargo 50 m3,5
+183,Hradec Kralove - Brezhrad-CZ,Zilina- Strecno-SK,2 swap bodies,5
+184,Olomouc-CZ,Zilina- Strecno-SK,2 swap bodies,5
+185,Ostrava-CZ,Zilina- Strecno-SK,Cargo 50 m3,5
+186,Ostrava-CZ,Zilina- Strecno-SK,Cargo 50 m3,5
+187,Ostrava-CZ,Zilina- Strecno-SK,Van 22m3,5
+188,Ricany -CZ,Ivanka pri Dunaji-SK,4 swap bodies,5
+189,Zlin-CZ,Zilina- Strecno-SK,Van 15 m3,5
+190,Ivanka pri Dunaji-SK,Ricany -CZ,Trailer,5
+191,Brno-CZ,Budapest OLK-HU,Van 15 m3,5
+192,Budapest NPKK (OE)-HU,PZ 93 (Regensburg)-DE,Van,6
+193,Helsingborg-SE,PZ 24 (Neumünster)-DE,Trailer,5
+194,Kaunas-LT,PZ 04 (Radefeld/Leipzig)-DE,Trailer,4

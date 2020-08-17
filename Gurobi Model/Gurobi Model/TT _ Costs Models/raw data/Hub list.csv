@@ -1,0 +1,472 @@
+Country,City,Ref_City
+AT,Wien 1,Hub Wien I
+AT,Wien 2,Hub Wien II
+AT,Hub Linz,Hub Linz
+AT,Hub Graz,Hub Graz
+AT,Meiningen,Meiningen
+AT,Wels,Wels
+AT,Herzogenburg ,Herzogenburg 
+AT,Siggerwiesen,Siggerwiesen
+AT,Wien Percostraße,Wien Percostraße
+AT,Klagenfurt,Klagenfurt
+AT,St. Michael ,St. Michael 
+AT,St Florian,St Florian
+AT,Peggau,Peggau
+AT,Althofen,Althofen
+AT,St Andrä,St Andrä
+AT,Enzersdorf an der Fischa,Enzersdorf an der Fischa
+AT,Wolkersdorf,Wolkersdorf
+AT,Jenbach,Jenbach
+AT,Bad Fischau,Bad Fischau
+AT,Hallein,Hallein
+AT,Mötz,Mötz
+AT,Spittal an der Drau ,Spittal an der Drau 
+AT,Ried im Innkreis,Ried im Innkreis
+AT,Oberwart,Oberwart
+AT,Linz,Linz
+AT,Zwettl,Zwettl
+AT,Ottensheim,Ottensheim
+AT,Gablitz,Gablitz
+AT,Hagenbrunn,Hagenbrunn
+AT,Allhaming,Allhaming
+AT,Enns,Enns
+AT,Wernberg,Wernberg
+AT,Wals,Wals-Siezenheim
+AT,Hall,Hall in Tirol
+AT,Kalsdorf,Kalsdorf bei Graz
+AT,Liesing,Liesing
+AT,Wundschuh,Wundschuh
+BE,Brüssel,Brüssel
+BE,BE,Ternat
+BE,BE,Antwerpen
+BE,BE,Awans
+BE,BE,Opglabbeek
+BE,BE,Wevelgem
+BG,Sofia,Sofia
+CZ,Brno,Brno
+CZ,Ostrava,Ostrava
+CZ,Krupka,Krupka 1
+CZ,Plzen,Plzen 1
+CZ,Hradec Kralove - Brezhrad,Hradec Kralove - Brezhrad
+CZ,Ricany - Jazlovice,Ricany - Jazlovice
+CZ,Ceske Budejovice,Ceske Budejovice
+CZ,Pilsen,Pilsen
+CZ,Teplice,Teplice
+CZ,Hradec Kralove,Hradec Kralove
+CZ,Zlin,Zlin
+CZ,Olomouc,Olomouc
+CZ,Praha - Reporyje,Praha - Reporyje
+CZ,Liberec,Liberec
+CZ,Humpolec,Humpolec
+CZ,Karlovy Vary,Karlovy Vary
+CZ,Praha - Malesice,Praha - Malesice
+CZ,Pecky,Pecky
+CZ,Ricany - Jazlovice (Pallet),Ricany - Jazlovice (Pallet)
+CZ,Ceske Budejovice (Pallet),Ceske Budejovice (Pallet)
+CZ,Brno (Pallet),Brno (Pallet)
+CZ,Liberec (Pallet),Liberec (Pallet)
+CZ,Pribram,Pribram
+CZ,Ceske Budejovice - Vrbenska,Ceske Budejovice - Vrbenska
+CZ,Namest nad Oslavou,Namest nad Oslavou
+CZ,Vsetin,Vsetin
+CZ,Jesenik,Jesenik
+CZ,Kladno,Kladno
+CZ,Blucina,Blucina
+CZ,Dubec,Dubec
+CZ,Nove Modlany,Nove Modlany
+CZ,Plzen,Plzen
+DE,Speyer,PZ 67 (Speyer)
+DE,Köln,PZ 50 (Köln)
+DE,Radefeld,PZ 04 (Radefeld/Leipzig)
+DE,Feucht,PZ 90 (Feucht/Nürnberg)
+DE,Lahr,PZ 77 (Lahr)
+DE,Regensburg,PZ 93 (Regensburg)
+DE,Hamburg,PZ 21 (Hamburg)
+DE,Dorsten,PZ 46 (Dorsten)
+DE,Hagen,PZ 58 (Hagen)
+DE,Neuwied,PZ 08 (Neumark)
+DE,Krefeld,PZ 47 (Krefeld)
+DE,Rüdersdorf,PZ 15 (Rüdersdorf)
+DE,PZ 01 (Ottendorf-Okrilla),PZ 01 (Ottendorf-Okrilla)
+DE,PZ 14 (Börnicke),PZ 14 (Börnicke)
+DE,PZ 17 (Neustrelitz),PZ 17 (Neustrelitz)
+DE,Neumünster,PZ 24 (Neumünster)
+DE,PZ 28 (Bremen GVZ),PZ 28 (Bremen GVZ)
+DE,PZ 28 (Bremen),PZ 28 (Bremen)
+DE,PZ 30 (Hannover),PZ 30 (Hannover)
+DE,PZ 33 (Bielefeld),PZ 33 (Bielefeld)
+DE,PZ 34 (Staufenberg),PZ 34 (Staufenberg)
+DE,PZ 39 (Osterweddingen/Sülzetal),PZ 39 (Osterweddingen/Sülzetal)
+DE,PZ 48 (Greven),PZ 48 (Greven)
+DE,PZ 55 (Saulheim),PZ 55 (Saulheim)
+DE,PZ 56 (Neuwied),PZ 56 (Neuwied)
+DE,PZ 63 (Rodgau),PZ 63 (Rodgau)
+DE,PZ 63 (Obertshausen),PZ 63 (Obertshausen)
+DE,PZ 72 (Eutingen im Gäu),PZ 72 (Eutingen im Gäu)
+DE,PZ 73 (Köngen),PZ 73 (Köngen)
+DE,PZ 76 (Bruchsal),PZ 76 (Bruchsal)
+DE,PZ 85 (Aschheim),PZ 85 (Aschheim)
+DE,PZ 86 (Augsburg),PZ 86 (Augsburg)
+DE,PZ 89 (Günzburg),PZ 89 (Günzburg)
+DE,PZ 97 (Kitzingen),PZ 97 (Kitzingen)
+DE,PZ 99 (Nohra),PZ 99 (Nohra)
+DE,Bochum,PZ 44 (Bochum) [im Bau]
+DK,Kolding,Kolding
+DK,Hägersten/ Kastrup,Hägersten/ Kastrup
+DK,Brøndby,Brøndby
+ES,Barcelona,Barcelona
+ES,Madrid,Madrid
+ES,Vitoria,Araba (Vitoria)
+ES,Albacete,Albacete
+ES,Almeria,Almeria
+ES,Ávila,Ávila
+ES,Badajoz,Badajoz
+ES,Burgos,Burgos
+ES,Navalmoral,Navalmoral
+ES,Cádiz,Cádiz
+ES,Córdoba,Córdoba
+ES,Cuenca,Cuenca
+ES,Granada,Granada
+ES,Huesca,Huesca
+ES,Las Palmas,Las Palmas
+ES,León,León
+ES,Lleida,Lleida
+ES,Logroño,Logroño
+ES,Mahon,Mahon
+ES,Mérida,Mérida
+ES,Murcia,Murcia
+ES,Oviedo,Oviedo
+ES,Palencia,Palencia
+ES,Salamanca,Salamanca
+ES,Segovia,Segovia
+ES,Soria,Soria
+ES,Tenerife,Tenerife
+ES,Teruel,Teruel
+ES,Toledo,Toledo
+ES,Zamora,Zamora
+ES,Alcoy,Alcoy
+ES,Cáceres,Cáceres
+ES,Puerto Real,Puerto Real
+ES,Ponferrada,Ponferrada
+ES,Talavera,Talavera
+ES,Gandía,Gandía
+ES,Onteniente,Onteniente
+ES,Alicante,Alicante
+ES,Barcelona (Satellite; Manresa),Barcelona (Satellite; Manresa)
+ES,Barcelona (Satellite; Pineda),Barcelona (Satellite; Pineda)
+ES,Barcelona (Satellite; Vic),Barcelona (Satellite; Vic)
+ES,Barcelona (Satellite; Igualada),Barcelona (Satellite; Igualada)
+ES,Barcelona (Satellite; Vilafranca),Barcelona (Satellite; Vilafranca)
+ES,Gipuzkoa (Bergara),Gipuzkoa (Bergara)
+ES,Bizkaia (Bilbao),Bizkaia (Bilbao)
+ES,Cantabria (Santander),Cantabria (Santander)
+ES,Castellón,Castellón
+ES,Ciudad Real,Ciudad Real
+ES,"Coruña, A","Coruña, A"
+ES,Girona,Girona
+ES,Madrid (Satellite; Guadalajara),Madrid (Satellite; Guadalajara)
+ES,Huelva,Huelva
+ES,Illes Balears (Ibiza),Illes Balears (Ibiza)
+ES,Jaén,Jaén
+ES,Lugo,Lugo
+ES,Madrid (Satellite; Villalba),Madrid (Satellite; Villalba)
+ES,Málaga,Málaga
+ES,Ourense,Ourense
+ES,Illes Balears (Mallorca),Illes Balears (Mallorca)
+ES,Navarra (Pamplona),Navarra (Pamplona)
+ES,Gipuzkoa (San Sebastián),Gipuzkoa (San Sebastián)
+ES,Santiago (Coruña satellite),Santiago (Coruña satellite)
+ES,Sevilla,Sevilla
+ES,Tarragona,Tarragona
+ES,Valencia,Valencia
+ES,Valladolid,Valladolid
+ES,Pontevedra (Vigo),Pontevedra (Vigo)
+ES,Zaragoza,Zaragoza
+FI,Turku (Lieto),Lieto (Turku)
+FI,Vantaa,Vantaa (Helsinki)
+FR,Combs-la-Ville,Combs la ville
+FR,BRIE COMTE ROBERT,BRIE COMTE ROBERT
+FR,REIMS,REIMS
+FR,ST OUEN,ST OUEN
+FR,PLAISIR,PLAISIR
+FR,MITRY,MITRY
+FR,METZ,METZ
+FR,STRASBOURG,STRASBOURG
+FR,BESANCON,BESANCON
+FR,ROUEN,ROUEN
+FR,CAEN,CAEN
+FR,ARRAS,ARRAS
+FR,LOMME,LOMME
+FR,TOULOUSE,TOULOUSE
+FR,BORDEAUX,BORDEAUX
+FR,LIMOGES,LIMOGES
+FR,NANTES,NANTES
+FR,RENNES,RENNES
+FR,TOURS,TOURS
+FR,QUIMPER,QUIMPER
+FR,LYON,LYON
+FR,CHAMBERY,CHAMBERY
+FR,CLERMONT FD,CLERMONT FD
+FR,VITROLLES,VITROLLES
+FR,NICE,NICE
+FR,BRIGNOLES,BRIGNOLES
+FR,ORANGE,ORANGE
+FR,BASTIA,BASTIA
+FR,GRENOBLE,GRENOBLE
+FR,BEZIERS,BEZIERS
+FR,Paris,Paris
+GB,Slough,Slough
+GB,Ryton,Ryton Gateway
+GR,Spata,Spata
+HR,Zagreb,Zagreb
+HU,OLK,Budapest OLK
+HU,Budapest,Budapest NPKK (OE)
+IE,Portlaoise,Portlaoise
+IE,Dublin,Dublin
+LT,Kaunas,Kaunas
+LU,Bettembourg,Bettembourg
+NL,EINDHOVEN,Eindhoven-Noord
+NL,Utrecht,Utrecht-West + Centrum
+NL,Zaltbommel,Zaltbommel
+NL,Alkmaar,Alkmaar
+NL,Amersfoort,Amersfoort
+NL,Amsterdam,Amsterdam
+NL,Arnhem,Arnhem
+NL,Den Haag,Den Haag
+NL,Drachten,Drachten
+NL,Eindhoven,Eindhoven
+NL,Hengelo,Hengelo
+NL,Beek,Beek
+NL,Roosendaal,Roosendaal
+NL,Rotterdam,Rotterdam
+NL,Den Bosch,Den Bosch
+NL,Utrecht,Utrecht
+NL,Zwolle,Zwolle
+NL,Utrecht SVC,Utrecht SVC
+NL,New Amsterdam,New Amsterdam
+NL,New Den Bosch,New Den Bosch
+NL,Dedemsvaart,Dedemsvaart
+NL,Wehkamp,Wehkamp
+NL,Aalsmeer,Aalsmeer
+NL,Abcoude,Abcoude
+NL,Almelo,Almelo
+NL,Almere-Noord,Almere-Noord
+NL,Alphen,Alphen
+NL,Almere-Zuid,Almere-Zuid
+NL,Amsterdam Centrum,Amsterdam Centrum
+NL,Amsterdam-Duivendrecht,Amsterdam-Duivendrecht
+NL,Amsterdam Hemweg,Amsterdam Hemweg
+NL,Amsterdam-Noord,Amsterdam-Noord
+NL,Amsterdam Diemen,Amsterdam Diemen
+NL,Amsterdam-Zuid,Amsterdam-Zuid
+NL,Apeldoorn,Apeldoorn
+NL,Appingedam,Appingedam
+NL,Assen,Assen
+NL,Asten,Asten
+NL,A'dam Westpoort / Zaandam,A'dam Westpoort / Zaandam
+NL,Baarlo,Baarlo
+NL,Barneveld,Barneveld
+NL,Berkel,Berkel
+NL,Beverwijk,Beverwijk
+NL,De Bilt,De Bilt
+NL,Bergen op Zoom,Bergen op Zoom
+NL,Breda,Breda
+NL,Brunssum,Brunssum
+NL,Chaam,Chaam
+NL,Delft,Delft
+NL,Deventer,Deventer
+NL,Dokkum,Dokkum
+NL,Dongen,Dongen
+NL,Doorn,Doorn
+NL,Dordrecht,Dordrecht
+NL,Doesburg,Doesburg
+NL,Drunen,Drunen
+NL,Ede-Veenendaal,Ede-Veenendaal
+NL,Eersel,Eersel
+NL,Eindhoven-Zuid,Eindhoven-Zuid
+NL,Emmeloord,Emmeloord
+NL,Emmen,Emmen
+NL,Enschede,Enschede
+NL,Epe,Epe
+NL,Ermelo ,Ermelo 
+NL,Doetinchem-Etten,Doetinchem-Etten
+NL,Goes,Goes
+NL,Goor,Goor
+NL,Gravenhage Centrum,Gravenhage Centrum
+NL,Groningen,Groningen
+NL,Grave,Grave
+NL,Groningen-West,Groningen-West
+NL,Groesbeek,Groesbeek
+NL,Gravenhage-Zuid,Gravenhage-Zuid
+NL,Harlingen,Harlingen
+NL,Haarlem-Noord,Haarlem-Noord
+NL,Hardenberg ,Hardenberg 
+NL,s-Hertogenbosch,s-Hertogenbosch
+NL,Hoogeveen,Hoogeveen
+NL,Hoofddorp,Hoofddorp
+NL,Heerhugowaard,Heerhugowaard
+NL,Hilversum,Hilversum
+NL,Hellevoetsluis,Hellevoetsluis
+NL,Horn,Horn
+NL,Houten,Houten
+NL,Heerenveen,Heerenveen
+NL,Kampen,Kampen
+NL,Kerkrade,Kerkrade
+NL,Krimpen aan de Lek,Krimpen aan de Lek
+NL,Krommenie,Krommenie
+NL,Leeuwarden,Leeuwarden
+NL,Leiden,Leiden
+NL,Lelystad,Lelystad
+NL,Leusden,Leusden
+NL,Lichtenvoorde,Lichtenvoorde
+NL,Lisse ,Lisse 
+NL,Loosdrecht,Loosdrecht
+NL,Maastricht-Centrum,Maastricht-Centrum
+NL,Maastricht,Maastricht
+NL,Maarssen,Maarssen
+NL,Middelburg,Middelburg
+NL,Middelharnis,Middelharnis
+NL,Mijnsheerenland,Mijnsheerenland
+NL,Naaldwijk,Naaldwijk
+NL,Nuenen,Nuenen
+NL,Nijmegen,Nijmegen
+NL,Opperdoes ,Opperdoes 
+NL,Oss,Oss
+NL,Zevenbergen,Zevenbergen
+NL,Purmerend,Purmerend
+NL,Raalte,Raalte
+NL,Venray,Venray
+NL,Ridderkerk,Ridderkerk
+NL,Rotterdam-Kralingen,Rotterdam-Kralingen
+NL,Rotterdam Noord,Rotterdam Noord
+NL,Rotterdam-Pendrecht,Rotterdam-Pendrecht
+NL,Rosmalen,Rosmalen
+NL,Rotterdam-Centrum,Rotterdam-Centrum
+NL,Rotterdam-Zuid,Rotterdam-Zuid
+NL,Rijswijk,Rijswijk
+NL,Schoondijke,Schoondijke
+NL,Schagen ,Schagen 
+NL,Sittard,Sittard
+NL,Sliedrecht ,Sliedrecht 
+NL,Sneek,Sneek
+NL,Soest,Soest
+NL,Spijkenisse,Spijkenisse
+NL,Stadskanaal,Stadskanaal
+NL,Steenwijk,Steenwijk
+NL,Terneuzen,Terneuzen
+NL,Texel,Texel
+NL,Tiel,Tiel
+NL,Tilburg-Noord,Tilburg-Noord
+NL,Tilburg-Zuid,Tilburg-Zuid
+NL,Tolbert,Tolbert
+NL,Uden,Uden
+NL,Uithoorn,Uithoorn
+NL,Veendam,Veendam
+NL,Vianen,Vianen
+NL,Vlaardingen,Vlaardingen
+NL,Voorburg,Voorburg
+NL,Voorschoten,Voorschoten
+NL,Vught,Vught
+NL,Wageningen,Wageningen
+NL,Weert ,Weert 
+NL,Winschoten,Winschoten
+NL,Woerden,Woerden
+NL,IJsselstein,IJsselstein
+NL,Zevenhuizen,Zevenhuizen
+NL,Zoetermeer,Zoetermeer
+NL,Zutphen,Zutphen
+NL,Zwanenburg,Zwanenburg
+NO,Oslo,Oslo
+PL,Ełk,Suwałki (Ełk)
+PL,Poznań,Poznań
+PL,Zabrze,Zabrze
+PL,Koninko,Koninko
+PL,Wroclaw,Wrocław
+PL,Bydgoszcz,Bydgoszcz (Solec Kujawski)
+PL,Białystok,Białystok
+PL,Bielsko-Biała,Bielsko-Biała
+PL,Ciechanów,Ciechanów
+PL,Częstochowa,Częstochowa
+PL,Gdańsk,Gdańsk
+PL,Gorzów Wielkopolski,Gorzów Wielkopolski
+PL,Jelenia Góra,Jelenia Góra
+PL,Kalisz,Kalisz
+PL,Kielce,Kielce
+PL,Konin,Konin
+PL,Koszalin,Koszalin
+PL,Kraków (Niepołomice),Kraków (Niepołomice)
+PL,Legnica,Legnica
+PL,Łódź,Łódź
+PL,Łomża,Łomża
+PL,Lublin,Lublin
+PL,Moszna Parcela,Moszna Parcela
+PL,Nowy Sącz,Nowy Sącz
+PL,Olsztyn,Olsztyn
+PL,Opole,Opole
+PL,Piła,Piła
+PL,Piotrków Trybunalski,Piotrków Trybunalski
+PL,Płock,Płock
+PL,Radom,Radom
+PL,Rzeszów,Rzeszów
+PL,Siedlce,Siedlce
+PL,Słupsk (Kobylnica),Słupsk (Kobylnica)
+PL,Szczecin,Szczecin
+PL,Tarnobrzeg (Sandomierz),Tarnobrzeg (Sandomierz)
+PL,Tarnów,Tarnów
+PL,Tychy,Tychy
+PL,Wałbrzych,Wałbrzych
+PL,Warszawa,Warszawa
+PL,Włocławek,Włocławek
+PL,Zielona Góra,Zielona Góra
+PT,Lisbon,Lisboa
+PT,Coimbra,Coimbra
+PT,Évora,Évora
+PT,Faro,Faro
+PT,Porto,Porto
+PT,Vila Real,Vila Real
+RO,Oradea,Oradea
+RO,Bucuresti,Bucuresti
+SE,Göteborg,Göteborg
+SE,Stockholm,Stockholm - Västberga
+SE,Helsingborg,Helsingborg
+SE,ARLÖV,Arlöv
+SE,Malmö,Malmö
+SE,Växjö,Växjö
+SE,Stockholm - Rosersberg,Stockholm - Rosersberg
+SE,Borlänge,Borlänge
+SE,Borås,Borås
+SE,Eskilstuna,Eskilstuna
+SE,Gävle,Gävle
+SE,Halmstad,Halmstad
+SE,Jönköping,Jönköping
+SE,Karlstad,Karlstad
+SE,Norrköping,Norrköping
+SE,Oskarshamn,Oskarshamn
+SE,Sundsvall,Sundsvall
+SE,Tibro,Tibro
+SE,Uppsala,Uppsala
+SE,Värnamo,Värnamo
+SE,Örebro,Örebro
+SE,Luleå,Luleå
+SE,Skellefteå,Skellefteå
+SE,Umeå,Umeå
+SE,Visby,Visby
+SE,Östersund,Östersund
+SE,Hisings Backa,Hisings Backa
+SE,HÄGERSTEN,HÄGERSTEN
+SI,Ljubljana,Ljubljana
+SK,Bratislava Rača,Bratislava - Raca
+SK,Bratislava Petržalka,Bratislava - Petrzalka
+SK,Strečno,Zilina- Strecno
+SK,Nitra,Nitra
+SK,Banska Bystrica,Banska Bystrica
+SK,Kosice,Kosice
+SK,Poprad,Poprad
+SK,Ivanka pri Dunaji,Ivanka pri Dunaji
+LV,Riga,Riga
+IT,Piacenza,Piacenza
+IT,Milan,Milan
+IT,Verona,Verona
+IT,Napoli,Napoli
+IT,Pesaro,Pesaro
+EE,Tallinn,Tallinn

@@ -1,0 +1,4555 @@
+,0,1,2
+0,Hub Wien I-AT,Sofia-BG,357.0
+1,Hub Wien II-AT,Sofia-BG,-0.0
+2,Hub Graz-AT,Sofia-BG,-0.0
+3,Hagenbrunn-AT,Sofia-BG,-0.0
+4,Allhaming-AT,Sofia-BG,-0.0
+5,Enns-AT,Sofia-BG,0.0
+6,Wernberg-AT,Sofia-BG,0.0
+7,Wals-AT,Sofia-BG,1263.0
+8,Hall in Tirol-AT,Sofia-BG,0.0
+9,Liesing-AT,Sofia-BG,0.0
+10,Wundschuh-AT,Sofia-BG,0.0
+11,Hub Wien I-AT,Kolding-DK,-0.0
+12,Hub Wien II-AT,Kolding-DK,-0.0
+13,Hub Graz-AT,Kolding-DK,-0.0
+14,Hagenbrunn-AT,Kolding-DK,-0.0
+15,Allhaming-AT,Kolding-DK,-0.0
+16,Enns-AT,Kolding-DK,-0.0
+17,Wernberg-AT,Kolding-DK,-0.0
+18,Wals-AT,Kolding-DK,-0.0
+19,Hall in Tirol-AT,Kolding-DK,-0.0
+20,Liesing-AT,Kolding-DK,-0.0
+21,Wundschuh-AT,Kolding-DK,-0.0
+22,Hub Wien I-AT,Barcelona-ES,0.0
+23,Hub Wien I-AT,Madrid-ES,-0.0
+24,Hub Wien I-AT,Araba (Vitoria)-ES,-0.0
+25,Hub Wien II-AT,Barcelona-ES,0.0
+26,Hub Wien II-AT,Madrid-ES,-0.0
+27,Hub Wien II-AT,Araba (Vitoria)-ES,-0.0
+28,Hub Graz-AT,Barcelona-ES,-0.0
+29,Hub Graz-AT,Madrid-ES,-0.0
+30,Hub Graz-AT,Araba (Vitoria)-ES,-0.0
+31,Hagenbrunn-AT,Barcelona-ES,0.0
+32,Hagenbrunn-AT,Madrid-ES,-0.0
+33,Hagenbrunn-AT,Araba (Vitoria)-ES,-0.0
+34,Allhaming-AT,Barcelona-ES,0.0
+35,Allhaming-AT,Madrid-ES,-0.0
+36,Allhaming-AT,Araba (Vitoria)-ES,-0.0
+37,Enns-AT,Barcelona-ES,0.0
+38,Enns-AT,Madrid-ES,-0.0
+39,Enns-AT,Araba (Vitoria)-ES,-0.0
+40,Wernberg-AT,Barcelona-ES,0.0
+41,Wernberg-AT,Madrid-ES,-0.0
+42,Wernberg-AT,Araba (Vitoria)-ES,-0.0
+43,Wals-AT,Barcelona-ES,0.0
+44,Wals-AT,Madrid-ES,-0.0
+45,Wals-AT,Araba (Vitoria)-ES,-0.0
+46,Hall in Tirol-AT,Barcelona-ES,0.0
+47,Hall in Tirol-AT,Madrid-ES,-0.0
+48,Hall in Tirol-AT,Araba (Vitoria)-ES,-0.0
+49,Liesing-AT,Barcelona-ES,-0.0
+50,Liesing-AT,Madrid-ES,-0.0
+51,Liesing-AT,Araba (Vitoria)-ES,-0.0
+52,Wundschuh-AT,Barcelona-ES,0.0
+53,Wundschuh-AT,Madrid-ES,-0.0
+54,Wundschuh-AT,Araba (Vitoria)-ES,-0.0
+55,Hub Wien I-AT,Lieto (Turku)-FL,-0.0
+56,Hub Wien I-AT,Vantaa (Helsinki)-FL,-0.0
+57,Hub Wien II-AT,Lieto (Turku)-FL,-0.0
+58,Hub Wien II-AT,Vantaa (Helsinki)-FL,-0.0
+59,Hub Graz-AT,Lieto (Turku)-FL,-0.0
+60,Hub Graz-AT,Vantaa (Helsinki)-FL,-0.0
+61,Hagenbrunn-AT,Lieto (Turku)-FL,-0.0
+62,Hagenbrunn-AT,Vantaa (Helsinki)-FL,-0.0
+63,Allhaming-AT,Lieto (Turku)-FL,-0.0
+64,Allhaming-AT,Vantaa (Helsinki)-FL,-0.0
+65,Enns-AT,Lieto (Turku)-FL,-0.0
+66,Enns-AT,Vantaa (Helsinki)-FL,-0.0
+67,Wernberg-AT,Lieto (Turku)-FL,-0.0
+68,Wernberg-AT,Vantaa (Helsinki)-FL,-0.0
+69,Wals-AT,Lieto (Turku)-FL,-0.0
+70,Wals-AT,Vantaa (Helsinki)-FL,-0.0
+71,Hall in Tirol-AT,Lieto (Turku)-FL,-0.0
+72,Hall in Tirol-AT,Vantaa (Helsinki)-FL,-0.0
+73,Liesing-AT,Lieto (Turku)-FL,-0.0
+74,Liesing-AT,Vantaa (Helsinki)-FL,-0.0
+75,Wundschuh-AT,Lieto (Turku)-FL,-0.0
+76,Wundschuh-AT,Vantaa (Helsinki)-FL,-0.0
+77,Hub Wien I-AT,Combs la ville-FR,-0.0
+78,Hub Wien II-AT,Combs la ville-FR,-0.0
+79,Hub Graz-AT,Combs la ville-FR,-0.0
+80,Hagenbrunn-AT,Combs la ville-FR,-0.0
+81,Allhaming-AT,Combs la ville-FR,-0.0
+82,Enns-AT,Combs la ville-FR,-0.0
+83,Wernberg-AT,Combs la ville-FR,-0.0
+84,Wals-AT,Combs la ville-FR,-0.0
+85,Hall in Tirol-AT,Combs la ville-FR,-0.0
+86,Liesing-AT,Combs la ville-FR,-0.0
+87,Wundschuh-AT,Combs la ville-FR,-0.0
+88,Hub Wien I-AT,Slough-GB,-0.0
+89,Hub Wien I-AT,Ryton Gateway-GB,-0.0
+90,Hub Wien II-AT,Slough-GB,-0.0
+91,Hub Wien II-AT,Ryton Gateway-GB,-0.0
+92,Hub Graz-AT,Slough-GB,-0.0
+93,Hub Graz-AT,Ryton Gateway-GB,-0.0
+94,Hagenbrunn-AT,Slough-GB,-0.0
+95,Hagenbrunn-AT,Ryton Gateway-GB,-0.0
+96,Allhaming-AT,Slough-GB,-0.0
+97,Allhaming-AT,Ryton Gateway-GB,-0.0
+98,Enns-AT,Slough-GB,-0.0
+99,Enns-AT,Ryton Gateway-GB,-0.0
+100,Wernberg-AT,Slough-GB,-0.0
+101,Wernberg-AT,Ryton Gateway-GB,-0.0
+102,Wals-AT,Slough-GB,-0.0
+103,Wals-AT,Ryton Gateway-GB,-0.0
+104,Hall in Tirol-AT,Slough-GB,-0.0
+105,Hall in Tirol-AT,Ryton Gateway-GB,-0.0
+106,Liesing-AT,Slough-GB,-0.0
+107,Liesing-AT,Ryton Gateway-GB,-0.0
+108,Wundschuh-AT,Slough-GB,-0.0
+109,Wundschuh-AT,Ryton Gateway-GB,-0.0
+110,Hub Wien I-AT,Spata-GR,-0.0
+111,Hub Wien II-AT,Spata-GR,-0.0
+112,Hub Graz-AT,Spata-GR,0.0
+113,Hagenbrunn-AT,Spata-GR,0.0
+114,Allhaming-AT,Spata-GR,-0.0
+115,Enns-AT,Spata-GR,-0.0
+116,Wernberg-AT,Spata-GR,-0.0
+117,Wals-AT,Spata-GR,-0.0
+118,Hall in Tirol-AT,Spata-GR,-0.0
+119,Liesing-AT,Spata-GR,-0.0
+120,Wundschuh-AT,Spata-GR,0.0
+121,Hub Wien I-AT,Zagreb-HR,532.0
+122,Hub Wien II-AT,Zagreb-HR,-0.0
+123,Hub Graz-AT,Zagreb-HR,-0.0
+124,Hagenbrunn-AT,Zagreb-HR,-0.0
+125,Allhaming-AT,Zagreb-HR,-0.0
+126,Enns-AT,Zagreb-HR,0.0
+127,Wernberg-AT,Zagreb-HR,0.0
+128,Wals-AT,Zagreb-HR,2517.0
+129,Hall in Tirol-AT,Zagreb-HR,0.0
+130,Liesing-AT,Zagreb-HR,-0.0
+131,Wundschuh-AT,Zagreb-HR,-0.0
+132,Hub Wien I-AT,Budapest OLK-HU,886.0
+133,Hub Wien I-AT,Budapest NPKK (OE)-HU,0.0
+134,Hub Wien II-AT,Budapest OLK-HU,-0.0
+135,Hub Wien II-AT,Budapest NPKK (OE)-HU,-0.0
+136,Hub Graz-AT,Budapest OLK-HU,0.0
+137,Hub Graz-AT,Budapest NPKK (OE)-HU,-0.0
+138,Hagenbrunn-AT,Budapest OLK-HU,-0.0
+139,Hagenbrunn-AT,Budapest NPKK (OE)-HU,-0.0
+140,Allhaming-AT,Budapest OLK-HU,-0.0
+141,Allhaming-AT,Budapest NPKK (OE)-HU,-0.0
+142,Enns-AT,Budapest OLK-HU,-0.0
+143,Enns-AT,Budapest NPKK (OE)-HU,-0.0
+144,Wernberg-AT,Budapest OLK-HU,-0.0
+145,Wernberg-AT,Budapest NPKK (OE)-HU,-0.0
+146,Wals-AT,Budapest OLK-HU,-0.0
+147,Wals-AT,Budapest NPKK (OE)-HU,-0.0
+148,Hall in Tirol-AT,Budapest OLK-HU,-0.0
+149,Hall in Tirol-AT,Budapest NPKK (OE)-HU,-0.0
+150,Liesing-AT,Budapest OLK-HU,0.0
+151,Liesing-AT,Budapest NPKK (OE)-HU,-0.0
+152,Wundschuh-AT,Budapest OLK-HU,-0.0
+153,Wundschuh-AT,Budapest NPKK (OE)-HU,-0.0
+154,Hub Wien I-AT,Portlaoise-IE,-0.0
+155,Hub Wien I-AT,Dublin-IE,-0.0
+156,Hub Wien II-AT,Portlaoise-IE,-0.0
+157,Hub Wien II-AT,Dublin-IE,-0.0
+158,Hub Graz-AT,Portlaoise-IE,-0.0
+159,Hub Graz-AT,Dublin-IE,-0.0
+160,Hagenbrunn-AT,Portlaoise-IE,-0.0
+161,Hagenbrunn-AT,Dublin-IE,-0.0
+162,Allhaming-AT,Portlaoise-IE,-0.0
+163,Allhaming-AT,Dublin-IE,-0.0
+164,Enns-AT,Portlaoise-IE,-0.0
+165,Enns-AT,Dublin-IE,-0.0
+166,Wernberg-AT,Portlaoise-IE,-0.0
+167,Wernberg-AT,Dublin-IE,-0.0
+168,Wals-AT,Portlaoise-IE,-0.0
+169,Wals-AT,Dublin-IE,-0.0
+170,Hall in Tirol-AT,Portlaoise-IE,-0.0
+171,Hall in Tirol-AT,Dublin-IE,-0.0
+172,Liesing-AT,Portlaoise-IE,-0.0
+173,Liesing-AT,Dublin-IE,-0.0
+174,Wundschuh-AT,Portlaoise-IE,-0.0
+175,Wundschuh-AT,Dublin-IE,-0.0
+176,Hub Wien I-AT,Kaunas-LT,-0.0
+177,Hub Wien II-AT,Kaunas-LT,-0.0
+178,Hub Graz-AT,Kaunas-LT,-0.0
+179,Hagenbrunn-AT,Kaunas-LT,0.0
+180,Allhaming-AT,Kaunas-LT,-0.0
+181,Enns-AT,Kaunas-LT,0.0
+182,Wernberg-AT,Kaunas-LT,-0.0
+183,Wals-AT,Kaunas-LT,0.0
+184,Hall in Tirol-AT,Kaunas-LT,-0.0
+185,Liesing-AT,Kaunas-LT,-0.0
+186,Wundschuh-AT,Kaunas-LT,0.0
+187,Hub Wien I-AT,Lisboa-PT,-0.0
+188,Hub Wien II-AT,Lisboa-PT,-0.0
+189,Hub Graz-AT,Lisboa-PT,-0.0
+190,Hagenbrunn-AT,Lisboa-PT,-0.0
+191,Allhaming-AT,Lisboa-PT,-0.0
+192,Enns-AT,Lisboa-PT,-0.0
+193,Wernberg-AT,Lisboa-PT,0.0
+194,Wals-AT,Lisboa-PT,-0.0
+195,Hall in Tirol-AT,Lisboa-PT,-0.0
+196,Liesing-AT,Lisboa-PT,-0.0
+197,Wundschuh-AT,Lisboa-PT,-0.0
+198,Hub Wien I-AT,Göteborg-SE,-0.0
+199,Hub Wien I-AT,Stockholm - Västberga-SE,-0.0
+200,Hub Wien I-AT,Helsingborg-SE,-0.0
+201,Hub Wien I-AT,Arlöv-SE,-0.0
+202,Hub Wien I-AT,Malmö-SE,-0.0
+203,Hub Wien II-AT,Göteborg-SE,-0.0
+204,Hub Wien II-AT,Stockholm - Västberga-SE,-0.0
+205,Hub Wien II-AT,Helsingborg-SE,-0.0
+206,Hub Wien II-AT,Arlöv-SE,-0.0
+207,Hub Wien II-AT,Malmö-SE,-0.0
+208,Hub Graz-AT,Göteborg-SE,-0.0
+209,Hub Graz-AT,Stockholm - Västberga-SE,-0.0
+210,Hub Graz-AT,Helsingborg-SE,-0.0
+211,Hub Graz-AT,Arlöv-SE,-0.0
+212,Hub Graz-AT,Malmö-SE,-0.0
+213,Hagenbrunn-AT,Göteborg-SE,-0.0
+214,Hagenbrunn-AT,Stockholm - Västberga-SE,-0.0
+215,Hagenbrunn-AT,Helsingborg-SE,-0.0
+216,Hagenbrunn-AT,Arlöv-SE,-0.0
+217,Hagenbrunn-AT,Malmö-SE,-0.0
+218,Allhaming-AT,Göteborg-SE,-0.0
+219,Allhaming-AT,Stockholm - Västberga-SE,-0.0
+220,Allhaming-AT,Helsingborg-SE,-0.0
+221,Allhaming-AT,Arlöv-SE,-0.0
+222,Allhaming-AT,Malmö-SE,-0.0
+223,Enns-AT,Göteborg-SE,-0.0
+224,Enns-AT,Stockholm - Västberga-SE,-0.0
+225,Enns-AT,Helsingborg-SE,-0.0
+226,Enns-AT,Arlöv-SE,-0.0
+227,Enns-AT,Malmö-SE,-0.0
+228,Wernberg-AT,Göteborg-SE,-0.0
+229,Wernberg-AT,Stockholm - Västberga-SE,-0.0
+230,Wernberg-AT,Helsingborg-SE,-0.0
+231,Wernberg-AT,Arlöv-SE,-0.0
+232,Wernberg-AT,Malmö-SE,-0.0
+233,Wals-AT,Göteborg-SE,-0.0
+234,Wals-AT,Stockholm - Västberga-SE,-0.0
+235,Wals-AT,Helsingborg-SE,-0.0
+236,Wals-AT,Arlöv-SE,-0.0
+237,Wals-AT,Malmö-SE,-0.0
+238,Hall in Tirol-AT,Göteborg-SE,-0.0
+239,Hall in Tirol-AT,Stockholm - Västberga-SE,-0.0
+240,Hall in Tirol-AT,Helsingborg-SE,-0.0
+241,Hall in Tirol-AT,Arlöv-SE,-0.0
+242,Hall in Tirol-AT,Malmö-SE,-0.0
+243,Liesing-AT,Göteborg-SE,-0.0
+244,Liesing-AT,Stockholm - Västberga-SE,-0.0
+245,Liesing-AT,Helsingborg-SE,-0.0
+246,Liesing-AT,Arlöv-SE,-0.0
+247,Liesing-AT,Malmö-SE,-0.0
+248,Wundschuh-AT,Göteborg-SE,-0.0
+249,Wundschuh-AT,Stockholm - Västberga-SE,-0.0
+250,Wundschuh-AT,Helsingborg-SE,-0.0
+251,Wundschuh-AT,Arlöv-SE,-0.0
+252,Wundschuh-AT,Malmö-SE,-0.0
+253,Hub Wien I-AT,Ljubljana-SI,897.0
+254,Hub Wien II-AT,Ljubljana-SI,-0.0
+255,Hub Graz-AT,Ljubljana-SI,-0.0
+256,Hagenbrunn-AT,Ljubljana-SI,-0.0
+257,Allhaming-AT,Ljubljana-SI,-0.0
+258,Enns-AT,Ljubljana-SI,-0.0
+259,Wernberg-AT,Ljubljana-SI,0.0
+260,Wals-AT,Ljubljana-SI,-0.0
+261,Hall in Tirol-AT,Ljubljana-SI,-0.0
+262,Liesing-AT,Ljubljana-SI,-0.0
+263,Wundschuh-AT,Ljubljana-SI,0.0
+264,Hub Wien I-AT,Zilina- Strecno-SK,-0.0
+265,Hub Wien I-AT,Ivanka pri Dunaji-SK,820.0
+266,Hub Wien II-AT,Zilina- Strecno-SK,-0.0
+267,Hub Wien II-AT,Ivanka pri Dunaji-SK,-0.0
+268,Hub Graz-AT,Zilina- Strecno-SK,-0.0
+269,Hub Graz-AT,Ivanka pri Dunaji-SK,-0.0
+270,Hagenbrunn-AT,Zilina- Strecno-SK,-0.0
+271,Hagenbrunn-AT,Ivanka pri Dunaji-SK,-0.0
+272,Allhaming-AT,Zilina- Strecno-SK,-0.0
+273,Allhaming-AT,Ivanka pri Dunaji-SK,0.0
+274,Enns-AT,Zilina- Strecno-SK,-0.0
+275,Enns-AT,Ivanka pri Dunaji-SK,-0.0
+276,Wernberg-AT,Zilina- Strecno-SK,0.0
+277,Wernberg-AT,Ivanka pri Dunaji-SK,-0.0
+278,Wals-AT,Zilina- Strecno-SK,-0.0
+279,Wals-AT,Ivanka pri Dunaji-SK,0.0
+280,Hall in Tirol-AT,Zilina- Strecno-SK,0.0
+281,Hall in Tirol-AT,Ivanka pri Dunaji-SK,-0.0
+282,Liesing-AT,Zilina- Strecno-SK,-0.0
+283,Liesing-AT,Ivanka pri Dunaji-SK,0.0
+284,Wundschuh-AT,Zilina- Strecno-SK,-0.0
+285,Wundschuh-AT,Ivanka pri Dunaji-SK,-0.0
+286,Hub Wien I-AT,Brüssel-BE,-0.0
+287,Hub Wien II-AT,Brüssel-BE,-0.0
+288,Hub Graz-AT,Brüssel-BE,-0.0
+289,Hagenbrunn-AT,Brüssel-BE,-0.0
+290,Allhaming-AT,Brüssel-BE,-0.0
+291,Enns-AT,Brüssel-BE,-0.0
+292,Wernberg-AT,Brüssel-BE,-0.0
+293,Wals-AT,Brüssel-BE,0.0
+294,Hall in Tirol-AT,Brüssel-BE,-0.0
+295,Liesing-AT,Brüssel-BE,-0.0
+296,Wundschuh-AT,Brüssel-BE,-0.0
+297,Hub Wien I-AT,Bettembourg-LU,-0.0
+298,Hub Wien II-AT,Bettembourg-LU,-0.0
+299,Hub Graz-AT,Bettembourg-LU,-0.0
+300,Hagenbrunn-AT,Bettembourg-LU,-0.0
+301,Allhaming-AT,Bettembourg-LU,-0.0
+302,Enns-AT,Bettembourg-LU,-0.0
+303,Wernberg-AT,Bettembourg-LU,-0.0
+304,Wals-AT,Bettembourg-LU,-0.0
+305,Hall in Tirol-AT,Bettembourg-LU,-0.0
+306,Liesing-AT,Bettembourg-LU,-0.0
+307,Wundschuh-AT,Bettembourg-LU,-0.0
+308,Hub Wien I-AT,Oslo-NO,-0.0
+309,Hub Wien II-AT,Oslo-NO,-0.0
+310,Hub Graz-AT,Oslo-NO,-0.0
+311,Hagenbrunn-AT,Oslo-NO,-0.0
+312,Allhaming-AT,Oslo-NO,-0.0
+313,Enns-AT,Oslo-NO,-0.0
+314,Wernberg-AT,Oslo-NO,-0.0
+315,Wals-AT,Oslo-NO,-0.0
+316,Hall in Tirol-AT,Oslo-NO,-0.0
+317,Liesing-AT,Oslo-NO,-0.0
+318,Wundschuh-AT,Oslo-NO,-0.0
+319,Hub Wien I-AT,Oradea-RO,284.0
+320,Hub Wien II-AT,Oradea-RO,0.0
+321,Hub Graz-AT,Oradea-RO,0.0
+322,Hagenbrunn-AT,Oradea-RO,-0.0
+323,Allhaming-AT,Oradea-RO,-0.0
+324,Enns-AT,Oradea-RO,0.0
+325,Wernberg-AT,Oradea-RO,0.0
+326,Wals-AT,Oradea-RO,2780.0
+327,Hall in Tirol-AT,Oradea-RO,0.0
+328,Liesing-AT,Oradea-RO,-0.0
+329,Wundschuh-AT,Oradea-RO,-0.0
+330,Brüssel-BE,Eindhoven-Noord-NL,663.0
+331,Brüssel-BE,Zaltbommel-NL,-0.0
+332,Brüssel-BE,Bettembourg-LU,0.0
+333,Brüssel-BE,Oslo-NO,-0.0
+334,Brüssel-BE,Oradea-RO,-0.0
+335,Sofia-BG,Brno-CZ,0.0
+336,Sofia-BG,Ostrava-CZ,-0.0
+337,Sofia-BG,Krupka 1-CZ,-0.0
+338,Sofia-BG,Plzen 1-CZ,-0.0
+339,Sofia-BG,Hradec Kralove - Brezhrad-CZ,-0.0
+340,Sofia-BG,Ricany -CZ,-0.0
+341,Sofia-BG,Zlin-CZ,-0.0
+342,Sofia-BG,Olomouc-CZ,-0.0
+343,Sofia-BG,Eindhoven-Noord-NL,-0.0
+344,Sofia-BG,Zaltbommel-NL,-0.0
+345,Sofia-BG,Suwałki (Ełk)-PL,-0.0
+346,Sofia-BG,Poznań-PL,-0.0
+347,Sofia-BG,Zabrze-PL,0.0
+348,Sofia-BG,Koninko-PL,-0.0
+349,Sofia-BG,Wrocław-PL,197.0
+350,Sofia-BG,Bydgoszcz (Solec Kujawski)-PL,-0.0
+351,Sofia-BG,Kolding-DK,-0.0
+352,Sofia-BG,Combs la ville-FR,-0.0
+353,Sofia-BG,Slough-GB,-0.0
+354,Sofia-BG,Ryton Gateway-GB,-0.0
+355,Sofia-BG,Spata-GR,-0.0
+356,Sofia-BG,Zagreb-HR,0.0
+357,Sofia-BG,Budapest OLK-HU,1705.0
+358,Sofia-BG,Budapest NPKK (OE)-HU,0.0
+359,Sofia-BG,Portlaoise-IE,-0.0
+360,Sofia-BG,Dublin-IE,-0.0
+361,Sofia-BG,Göteborg-SE,-0.0
+362,Sofia-BG,Stockholm - Västberga-SE,-0.0
+363,Sofia-BG,Helsingborg-SE,-0.0
+364,Sofia-BG,Arlöv-SE,-0.0
+365,Sofia-BG,Malmö-SE,-0.0
+366,Sofia-BG,Ljubljana-SI,0.0
+367,Sofia-BG,Zilina- Strecno-SK,-0.0
+368,Sofia-BG,Ivanka pri Dunaji-SK,-0.0
+369,Sofia-BG,Brüssel-BE,-0.0
+370,Sofia-BG,Bettembourg-LU,-0.0
+371,Sofia-BG,Oslo-NO,-0.0
+372,Sofia-BG,Oradea-RO,0.0
+373,Brno-CZ,Eindhoven-Noord-NL,-0.0
+374,Brno-CZ,Zaltbommel-NL,-0.0
+375,Ostrava-CZ,Eindhoven-Noord-NL,-0.0
+376,Ostrava-CZ,Zaltbommel-NL,-0.0
+377,Krupka 1-CZ,Eindhoven-Noord-NL,1840.0
+378,Krupka 1-CZ,Zaltbommel-NL,-0.0
+379,Plzen 1-CZ,Eindhoven-Noord-NL,0.0
+380,Plzen 1-CZ,Zaltbommel-NL,0.0
+381,Hradec Kralove - Brezhrad-CZ,Eindhoven-Noord-NL,0.0
+382,Hradec Kralove - Brezhrad-CZ,Zaltbommel-NL,-0.0
+383,Ricany -CZ,Eindhoven-Noord-NL,-0.0
+384,Ricany -CZ,Zaltbommel-NL,-0.0
+385,Zlin-CZ,Eindhoven-Noord-NL,-0.0
+386,Zlin-CZ,Zaltbommel-NL,-0.0
+387,Olomouc-CZ,Eindhoven-Noord-NL,-0.0
+388,Olomouc-CZ,Zaltbommel-NL,-0.0
+389,Brno-CZ,Sofia-BG,-0.0
+390,Ostrava-CZ,Sofia-BG,0.0
+391,Krupka 1-CZ,Sofia-BG,0.0
+392,Plzen 1-CZ,Sofia-BG,-0.0
+393,Hradec Kralove - Brezhrad-CZ,Sofia-BG,-0.0
+394,Ricany -CZ,Sofia-BG,-0.0
+395,Zlin-CZ,Sofia-BG,-0.0
+396,Olomouc-CZ,Sofia-BG,0.0
+397,Brno-CZ,Kolding-DK,-0.0
+398,Ostrava-CZ,Kolding-DK,-0.0
+399,Krupka 1-CZ,Kolding-DK,-0.0
+400,Plzen 1-CZ,Kolding-DK,-0.0
+401,Hradec Kralove - Brezhrad-CZ,Kolding-DK,-0.0
+402,Ricany -CZ,Kolding-DK,-0.0
+403,Zlin-CZ,Kolding-DK,-0.0
+404,Olomouc-CZ,Kolding-DK,-0.0
+405,Brno-CZ,Combs la ville-FR,-0.0
+406,Ostrava-CZ,Combs la ville-FR,-0.0
+407,Krupka 1-CZ,Combs la ville-FR,-0.0
+408,Plzen 1-CZ,Combs la ville-FR,-0.0
+409,Hradec Kralove - Brezhrad-CZ,Combs la ville-FR,-0.0
+410,Ricany -CZ,Combs la ville-FR,-0.0
+411,Zlin-CZ,Combs la ville-FR,-0.0
+412,Olomouc-CZ,Combs la ville-FR,-0.0
+413,Brno-CZ,Slough-GB,-0.0
+414,Brno-CZ,Ryton Gateway-GB,-0.0
+415,Ostrava-CZ,Slough-GB,-0.0
+416,Ostrava-CZ,Ryton Gateway-GB,-0.0
+417,Krupka 1-CZ,Slough-GB,-0.0
+418,Krupka 1-CZ,Ryton Gateway-GB,-0.0
+419,Plzen 1-CZ,Slough-GB,0.0
+420,Plzen 1-CZ,Ryton Gateway-GB,-0.0
+421,Hradec Kralove - Brezhrad-CZ,Slough-GB,-0.0
+422,Hradec Kralove - Brezhrad-CZ,Ryton Gateway-GB,-0.0
+423,Ricany -CZ,Slough-GB,-0.0
+424,Ricany -CZ,Ryton Gateway-GB,-0.0
+425,Zlin-CZ,Slough-GB,-0.0
+426,Zlin-CZ,Ryton Gateway-GB,-0.0
+427,Olomouc-CZ,Slough-GB,-0.0
+428,Olomouc-CZ,Ryton Gateway-GB,-0.0
+429,Brno-CZ,Spata-GR,-0.0
+430,Ostrava-CZ,Spata-GR,-0.0
+431,Krupka 1-CZ,Spata-GR,-0.0
+432,Plzen 1-CZ,Spata-GR,-0.0
+433,Hradec Kralove - Brezhrad-CZ,Spata-GR,-0.0
+434,Ricany -CZ,Spata-GR,0.0
+435,Zlin-CZ,Spata-GR,-0.0
+436,Olomouc-CZ,Spata-GR,0.0
+437,Brno-CZ,Zagreb-HR,-0.0
+438,Ostrava-CZ,Zagreb-HR,-0.0
+439,Krupka 1-CZ,Zagreb-HR,-0.0
+440,Plzen 1-CZ,Zagreb-HR,-0.0
+441,Hradec Kralove - Brezhrad-CZ,Zagreb-HR,-0.0
+442,Ricany -CZ,Zagreb-HR,0.0
+443,Zlin-CZ,Zagreb-HR,-0.0
+444,Olomouc-CZ,Zagreb-HR,-0.0
+445,Brno-CZ,Ljubljana-SI,-0.0
+446,Ostrava-CZ,Ljubljana-SI,-0.0
+447,Krupka 1-CZ,Ljubljana-SI,-0.0
+448,Plzen 1-CZ,Ljubljana-SI,-0.0
+449,Hradec Kralove - Brezhrad-CZ,Ljubljana-SI,-0.0
+450,Ricany -CZ,Ljubljana-SI,-0.0
+451,Zlin-CZ,Ljubljana-SI,-0.0
+452,Olomouc-CZ,Ljubljana-SI,-0.0
+453,Brno-CZ,Zilina- Strecno-SK,-0.0
+454,Brno-CZ,Ivanka pri Dunaji-SK,324.0
+455,Ostrava-CZ,Zilina- Strecno-SK,-0.0
+456,Ostrava-CZ,Ivanka pri Dunaji-SK,-0.0
+457,Krupka 1-CZ,Zilina- Strecno-SK,-0.0
+458,Krupka 1-CZ,Ivanka pri Dunaji-SK,-0.0
+459,Plzen 1-CZ,Zilina- Strecno-SK,-0.0
+460,Plzen 1-CZ,Ivanka pri Dunaji-SK,-0.0
+461,Hradec Kralove - Brezhrad-CZ,Zilina- Strecno-SK,-0.0
+462,Hradec Kralove - Brezhrad-CZ,Ivanka pri Dunaji-SK,-0.0
+463,Ricany -CZ,Zilina- Strecno-SK,0.0
+464,Ricany -CZ,Ivanka pri Dunaji-SK,-0.0
+465,Zlin-CZ,Zilina- Strecno-SK,-0.0
+466,Zlin-CZ,Ivanka pri Dunaji-SK,-0.0
+467,Olomouc-CZ,Zilina- Strecno-SK,0.0
+468,Olomouc-CZ,Ivanka pri Dunaji-SK,-0.0
+469,Brno-CZ,Brüssel-BE,-0.0
+470,Ostrava-CZ,Brüssel-BE,-0.0
+471,Krupka 1-CZ,Brüssel-BE,0.0
+472,Plzen 1-CZ,Brüssel-BE,0.0
+473,Hradec Kralove - Brezhrad-CZ,Brüssel-BE,-0.0
+474,Ricany -CZ,Brüssel-BE,-0.0
+475,Zlin-CZ,Brüssel-BE,-0.0
+476,Olomouc-CZ,Brüssel-BE,-0.0
+477,Brno-CZ,Bettembourg-LU,-0.0
+478,Ostrava-CZ,Bettembourg-LU,-0.0
+479,Krupka 1-CZ,Bettembourg-LU,-0.0
+480,Plzen 1-CZ,Bettembourg-LU,0.0
+481,Hradec Kralove - Brezhrad-CZ,Bettembourg-LU,-0.0
+482,Ricany -CZ,Bettembourg-LU,-0.0
+483,Zlin-CZ,Bettembourg-LU,-0.0
+484,Olomouc-CZ,Bettembourg-LU,-0.0
+485,Brno-CZ,Oslo-NO,-0.0
+486,Ostrava-CZ,Oslo-NO,-0.0
+487,Krupka 1-CZ,Oslo-NO,-0.0
+488,Plzen 1-CZ,Oslo-NO,-0.0
+489,Hradec Kralove - Brezhrad-CZ,Oslo-NO,-0.0
+490,Ricany -CZ,Oslo-NO,-0.0
+491,Zlin-CZ,Oslo-NO,-0.0
+492,Olomouc-CZ,Oslo-NO,-0.0
+493,Brno-CZ,Oradea-RO,0.0
+494,Ostrava-CZ,Oradea-RO,0.0
+495,Krupka 1-CZ,Oradea-RO,0.0
+496,Plzen 1-CZ,Oradea-RO,0.0
+497,Hradec Kralove - Brezhrad-CZ,Oradea-RO,-0.0
+498,Ricany -CZ,Oradea-RO,-0.0
+499,Zlin-CZ,Oradea-RO,0.0
+500,Olomouc-CZ,Oradea-RO,0.0
+501,PZ 67 (Speyer)-DE,Lieto (Turku)-FL,-0.0
+502,PZ 67 (Speyer)-DE,Vantaa (Helsinki)-FL,-0.0
+503,PZ 50 (Köln)-DE,Lieto (Turku)-FL,-0.0
+504,PZ 50 (Köln)-DE,Vantaa (Helsinki)-FL,-0.0
+505,PZ 04 (Radefeld/Leipzig)-DE,Lieto (Turku)-FL,-0.0
+506,PZ 04 (Radefeld/Leipzig)-DE,Vantaa (Helsinki)-FL,0.0
+507,PZ 90 (Feucht/Nürnberg)-DE,Lieto (Turku)-FL,0.0
+508,PZ 90 (Feucht/Nürnberg)-DE,Vantaa (Helsinki)-FL,-0.0
+509,PZ 77 (Lahr)-DE,Lieto (Turku)-FL,-0.0
+510,PZ 77 (Lahr)-DE,Vantaa (Helsinki)-FL,-0.0
+511,PZ 93 (Regensburg)-DE,Lieto (Turku)-FL,-0.0
+512,PZ 93 (Regensburg)-DE,Vantaa (Helsinki)-FL,-0.0
+513,PZ 21 (Hamburg)-DE,Lieto (Turku)-FL,-0.0
+514,PZ 21 (Hamburg)-DE,Vantaa (Helsinki)-FL,-0.0
+515,PZ 46 (Dorsten)-DE,Lieto (Turku)-FL,-0.0
+516,PZ 46 (Dorsten)-DE,Vantaa (Helsinki)-FL,-0.0
+517,PZ 58 (Hagen)-DE,Lieto (Turku)-FL,-0.0
+518,PZ 58 (Hagen)-DE,Vantaa (Helsinki)-FL,-0.0
+519,PZ 08 (Neumark)-DE,Lieto (Turku)-FL,-0.0
+520,PZ 08 (Neumark)-DE,Vantaa (Helsinki)-FL,-0.0
+521,PZ 47 (Krefeld)-DE,Lieto (Turku)-FL,-0.0
+522,PZ 47 (Krefeld)-DE,Vantaa (Helsinki)-FL,-0.0
+523,PZ 15 (Rüdersdorf)-DE,Lieto (Turku)-FL,-0.0
+524,PZ 15 (Rüdersdorf)-DE,Vantaa (Helsinki)-FL,-0.0
+525,PZ 24 (Neumünster)-DE,Lieto (Turku)-FL,-0.0
+526,PZ 24 (Neumünster)-DE,Vantaa (Helsinki)-FL,-0.0
+527,PZ 44 (Bochum) [im Bau]-DE,Lieto (Turku)-FL,-0.0
+528,PZ 44 (Bochum) [im Bau]-DE,Vantaa (Helsinki)-FL,-0.0
+529,PZ 67 (Speyer)-DE,Oradea-RO,0.0
+530,PZ 50 (Köln)-DE,Oradea-RO,-0.0
+531,PZ 04 (Radefeld/Leipzig)-DE,Oradea-RO,0.0
+532,PZ 90 (Feucht/Nürnberg)-DE,Oradea-RO,56.0
+533,PZ 77 (Lahr)-DE,Oradea-RO,-0.0
+534,PZ 93 (Regensburg)-DE,Oradea-RO,0.0
+535,PZ 21 (Hamburg)-DE,Oradea-RO,0.0
+536,PZ 46 (Dorsten)-DE,Oradea-RO,-0.0
+537,PZ 58 (Hagen)-DE,Oradea-RO,-0.0
+538,PZ 08 (Neumark)-DE,Oradea-RO,0.0
+539,PZ 47 (Krefeld)-DE,Oradea-RO,-0.0
+540,PZ 15 (Rüdersdorf)-DE,Oradea-RO,0.0
+541,PZ 24 (Neumünster)-DE,Oradea-RO,0.0
+542,PZ 44 (Bochum) [im Bau]-DE,Oradea-RO,-0.0
+543,Barcelona-ES,Combs la ville-FR,-0.0
+544,Madrid-ES,Combs la ville-FR,0.0
+545,Araba (Vitoria)-ES,Combs la ville-FR,-0.0
+546,Barcelona-ES,Lisboa-PT,0.0
+547,Madrid-ES,Lisboa-PT,-0.0
+548,Araba (Vitoria)-ES,Lisboa-PT,4151.0
+549,Barcelona-ES,Oslo-NO,-0.0
+550,Madrid-ES,Oslo-NO,-0.0
+551,Araba (Vitoria)-ES,Oslo-NO,-0.0
+552,Lieto (Turku)-FL,Combs la ville-FR,-0.0
+553,Vantaa (Helsinki)-FL,Combs la ville-FR,-0.0
+554,Lieto (Turku)-FL,Slough-GB,-0.0
+555,Lieto (Turku)-FL,Ryton Gateway-GB,-0.0
+556,Vantaa (Helsinki)-FL,Slough-GB,-0.0
+557,Vantaa (Helsinki)-FL,Ryton Gateway-GB,-0.0
+558,Lieto (Turku)-FL,Spata-GR,-0.0
+559,Vantaa (Helsinki)-FL,Spata-GR,-0.0
+560,Lieto (Turku)-FL,Zagreb-HR,-0.0
+561,Vantaa (Helsinki)-FL,Zagreb-HR,-0.0
+562,Lieto (Turku)-FL,Portlaoise-IE,-0.0
+563,Lieto (Turku)-FL,Dublin-IE,-0.0
+564,Vantaa (Helsinki)-FL,Portlaoise-IE,-0.0
+565,Vantaa (Helsinki)-FL,Dublin-IE,-0.0
+566,Lieto (Turku)-FL,Kaunas-LT,-0.0
+567,Vantaa (Helsinki)-FL,Kaunas-LT,0.0
+568,Lieto (Turku)-FL,Oslo-NO,-0.0
+569,Vantaa (Helsinki)-FL,Oslo-NO,-0.0
+570,Lieto (Turku)-FL,Oradea-RO,-0.0
+571,Vantaa (Helsinki)-FL,Oradea-RO,-0.0
+572,Slough-GB,Portlaoise-IE,0.0
+573,Slough-GB,Dublin-IE,4892.0
+574,Ryton Gateway-GB,Portlaoise-IE,-0.0
+575,Ryton Gateway-GB,Dublin-IE,-0.0
+576,Slough-GB,Göteborg-SE,-0.0
+577,Slough-GB,Stockholm - Västberga-SE,-0.0
+578,Slough-GB,Helsingborg-SE,-0.0
+579,Slough-GB,Arlöv-SE,-0.0
+580,Slough-GB,Malmö-SE,0.0
+581,Ryton Gateway-GB,Göteborg-SE,-0.0
+582,Ryton Gateway-GB,Stockholm - Västberga-SE,-0.0
+583,Ryton Gateway-GB,Helsingborg-SE,-0.0
+584,Ryton Gateway-GB,Arlöv-SE,-0.0
+585,Ryton Gateway-GB,Malmö-SE,-0.0
+586,Slough-GB,Oslo-NO,-0.0
+587,Ryton Gateway-GB,Oslo-NO,-0.0
+588,Budapest OLK-HU,Sofia-BG,0.0
+589,Budapest NPKK (OE)-HU,Sofia-BG,-0.0
+590,Budapest OLK-HU,Kolding-DK,-0.0
+591,Budapest NPKK (OE)-HU,Kolding-DK,-0.0
+592,Budapest OLK-HU,Barcelona-ES,-0.0
+593,Budapest OLK-HU,Madrid-ES,0.0
+594,Budapest OLK-HU,Araba (Vitoria)-ES,0.0
+595,Budapest NPKK (OE)-HU,Barcelona-ES,0.0
+596,Budapest NPKK (OE)-HU,Madrid-ES,0.0
+597,Budapest NPKK (OE)-HU,Araba (Vitoria)-ES,0.0
+598,Budapest OLK-HU,Lieto (Turku)-FL,-0.0
+599,Budapest OLK-HU,Vantaa (Helsinki)-FL,-0.0
+600,Budapest NPKK (OE)-HU,Lieto (Turku)-FL,-0.0
+601,Budapest NPKK (OE)-HU,Vantaa (Helsinki)-FL,-0.0
+602,Budapest OLK-HU,Combs la ville-FR,-0.0
+603,Budapest NPKK (OE)-HU,Combs la ville-FR,-0.0
+604,Budapest OLK-HU,Slough-GB,-0.0
+605,Budapest OLK-HU,Ryton Gateway-GB,-0.0
+606,Budapest NPKK (OE)-HU,Slough-GB,-0.0
+607,Budapest NPKK (OE)-HU,Ryton Gateway-GB,-0.0
+608,Budapest OLK-HU,Spata-GR,-0.0
+609,Budapest NPKK (OE)-HU,Spata-GR,0.0
+610,Budapest OLK-HU,Zagreb-HR,0.0
+611,Budapest NPKK (OE)-HU,Zagreb-HR,0.0
+612,Budapest OLK-HU,Portlaoise-IE,-0.0
+613,Budapest OLK-HU,Dublin-IE,-0.0
+614,Budapest NPKK (OE)-HU,Portlaoise-IE,-0.0
+615,Budapest NPKK (OE)-HU,Dublin-IE,-0.0
+616,Budapest OLK-HU,Kaunas-LT,-0.0
+617,Budapest NPKK (OE)-HU,Kaunas-LT,0.0
+618,Budapest OLK-HU,Lisboa-PT,-0.0
+619,Budapest NPKK (OE)-HU,Lisboa-PT,-0.0
+620,Budapest OLK-HU,Göteborg-SE,-0.0
+621,Budapest OLK-HU,Stockholm - Västberga-SE,-0.0
+622,Budapest OLK-HU,Helsingborg-SE,-0.0
+623,Budapest OLK-HU,Arlöv-SE,-0.0
+624,Budapest OLK-HU,Malmö-SE,-0.0
+625,Budapest NPKK (OE)-HU,Göteborg-SE,-0.0
+626,Budapest NPKK (OE)-HU,Stockholm - Västberga-SE,-0.0
+627,Budapest NPKK (OE)-HU,Helsingborg-SE,-0.0
+628,Budapest NPKK (OE)-HU,Arlöv-SE,-0.0
+629,Budapest NPKK (OE)-HU,Malmö-SE,-0.0
+630,Budapest OLK-HU,Oslo-NO,-0.0
+631,Budapest NPKK (OE)-HU,Oslo-NO,-0.0
+632,Budapest OLK-HU,Oradea-RO,0.0
+633,Budapest NPKK (OE)-HU,Oradea-RO,-0.0
+634,Kaunas-LT,Brno-CZ,-0.0
+635,Kaunas-LT,Ostrava-CZ,-0.0
+636,Kaunas-LT,Krupka 1-CZ,-0.0
+637,Kaunas-LT,Plzen 1-CZ,-0.0
+638,Kaunas-LT,Hradec Kralove - Brezhrad-CZ,-0.0
+639,Kaunas-LT,Ricany -CZ,-0.0
+640,Kaunas-LT,Zlin-CZ,-0.0
+641,Kaunas-LT,Olomouc-CZ,-0.0
+642,Kaunas-LT,PZ 67 (Speyer)-DE,-0.0
+643,Kaunas-LT,PZ 50 (Köln)-DE,-0.0
+644,Kaunas-LT,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+645,Kaunas-LT,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+646,Kaunas-LT,PZ 77 (Lahr)-DE,-0.0
+647,Kaunas-LT,PZ 93 (Regensburg)-DE,-0.0
+648,Kaunas-LT,PZ 21 (Hamburg)-DE,-0.0
+649,Kaunas-LT,PZ 46 (Dorsten)-DE,-0.0
+650,Kaunas-LT,PZ 58 (Hagen)-DE,-0.0
+651,Kaunas-LT,PZ 08 (Neumark)-DE,-0.0
+652,Kaunas-LT,PZ 47 (Krefeld)-DE,-0.0
+653,Kaunas-LT,PZ 15 (Rüdersdorf)-DE,0.0
+654,Kaunas-LT,PZ 24 (Neumünster)-DE,-0.0
+655,Kaunas-LT,PZ 44 (Bochum) [im Bau]-DE,-0.0
+656,Kaunas-LT,Eindhoven-Noord-NL,-0.0
+657,Kaunas-LT,Zaltbommel-NL,-0.0
+658,Kaunas-LT,Suwałki (Ełk)-PL,0.0
+659,Kaunas-LT,Poznań-PL,0.0
+660,Kaunas-LT,Zabrze-PL,-0.0
+661,Kaunas-LT,Koninko-PL,0.0
+662,Kaunas-LT,Wrocław-PL,-0.0
+663,Kaunas-LT,Bydgoszcz (Solec Kujawski)-PL,0.0
+664,Kaunas-LT,Hub Wien I-AT,-0.0
+665,Kaunas-LT,Hub Wien II-AT,-0.0
+666,Kaunas-LT,Hub Graz-AT,-0.0
+667,Kaunas-LT,Hagenbrunn-AT,-0.0
+668,Kaunas-LT,Allhaming-AT,-0.0
+669,Kaunas-LT,Enns-AT,-0.0
+670,Kaunas-LT,Wernberg-AT,-0.0
+671,Kaunas-LT,Wals-AT,-0.0
+672,Kaunas-LT,Hall in Tirol-AT,-0.0
+673,Kaunas-LT,Liesing-AT,-0.0
+674,Kaunas-LT,Wundschuh-AT,-0.0
+675,Kaunas-LT,Sofia-BG,-0.0
+676,Kaunas-LT,Kolding-DK,0.0
+677,Kaunas-LT,Barcelona-ES,-0.0
+678,Kaunas-LT,Madrid-ES,-0.0
+679,Kaunas-LT,Araba (Vitoria)-ES,-0.0
+680,Kaunas-LT,Lieto (Turku)-FL,31.0
+681,Kaunas-LT,Vantaa (Helsinki)-FL,0.0
+682,Kaunas-LT,Combs la ville-FR,-0.0
+683,Kaunas-LT,Slough-GB,-0.0
+684,Kaunas-LT,Ryton Gateway-GB,-0.0
+685,Kaunas-LT,Spata-GR,-0.0
+686,Kaunas-LT,Zagreb-HR,-0.0
+687,Kaunas-LT,Budapest OLK-HU,-0.0
+688,Kaunas-LT,Budapest NPKK (OE)-HU,-0.0
+689,Kaunas-LT,Portlaoise-IE,-0.0
+690,Kaunas-LT,Dublin-IE,-0.0
+691,Kaunas-LT,Lisboa-PT,-0.0
+692,Kaunas-LT,Ljubljana-SI,-0.0
+693,Kaunas-LT,Zilina- Strecno-SK,-0.0
+694,Kaunas-LT,Ivanka pri Dunaji-SK,-0.0
+695,Kaunas-LT,Brüssel-BE,-0.0
+696,Kaunas-LT,Bettembourg-LU,-0.0
+697,Kaunas-LT,Oslo-NO,0.0
+698,Kaunas-LT,Oradea-RO,0.0
+699,Eindhoven-Noord-NL,Brüssel-BE,3059.0
+700,Zaltbommel-NL,Brüssel-BE,0.0
+701,Eindhoven-Noord-NL,Bettembourg-LU,1004.0
+702,Zaltbommel-NL,Bettembourg-LU,-0.0
+703,Eindhoven-Noord-NL,Oslo-NO,-0.0
+704,Zaltbommel-NL,Oslo-NO,-0.0
+705,Suwałki (Ełk)-PL,Combs la ville-FR,-0.0
+706,Poznań-PL,Combs la ville-FR,-0.0
+707,Zabrze-PL,Combs la ville-FR,-0.0
+708,Koninko-PL,Combs la ville-FR,-0.0
+709,Wrocław-PL,Combs la ville-FR,-0.0
+710,Bydgoszcz (Solec Kujawski)-PL,Combs la ville-FR,-0.0
+711,Suwałki (Ełk)-PL,Spata-GR,-0.0
+712,Poznań-PL,Spata-GR,-0.0
+713,Zabrze-PL,Spata-GR,-0.0
+714,Koninko-PL,Spata-GR,0.0
+715,Wrocław-PL,Spata-GR,-0.0
+716,Bydgoszcz (Solec Kujawski)-PL,Spata-GR,-0.0
+717,Suwałki (Ełk)-PL,Oslo-NO,-0.0
+718,Poznań-PL,Oslo-NO,-0.0
+719,Zabrze-PL,Oslo-NO,-0.0
+720,Koninko-PL,Oslo-NO,-0.0
+721,Wrocław-PL,Oslo-NO,-0.0
+722,Bydgoszcz (Solec Kujawski)-PL,Oslo-NO,-0.0
+723,Lisboa-PT,Barcelona-ES,-0.0
+724,Lisboa-PT,Madrid-ES,-0.0
+725,Lisboa-PT,Araba (Vitoria)-ES,-0.0
+726,Lisboa-PT,Combs la ville-FR,-0.0
+727,Lisboa-PT,Oslo-NO,-0.0
+728,Göteborg-SE,Spata-GR,-0.0
+729,Stockholm - Västberga-SE,Spata-GR,-0.0
+730,Helsingborg-SE,Spata-GR,-0.0
+731,Arlöv-SE,Spata-GR,-0.0
+732,Malmö-SE,Spata-GR,-0.0
+733,Göteborg-SE,Kaunas-LT,-0.0
+734,Stockholm - Västberga-SE,Kaunas-LT,-0.0
+735,Helsingborg-SE,Kaunas-LT,-0.0
+736,Arlöv-SE,Kaunas-LT,-0.0
+737,Malmö-SE,Kaunas-LT,-0.0
+738,Ljubljana-SI,Brno-CZ,-0.0
+739,Ljubljana-SI,Ostrava-CZ,-0.0
+740,Ljubljana-SI,Krupka 1-CZ,-0.0
+741,Ljubljana-SI,Plzen 1-CZ,0.0
+742,Ljubljana-SI,Hradec Kralove - Brezhrad-CZ,-0.0
+743,Ljubljana-SI,Ricany -CZ,-0.0
+744,Ljubljana-SI,Zlin-CZ,0.0
+745,Ljubljana-SI,Olomouc-CZ,-0.0
+746,Ljubljana-SI,Sofia-BG,-0.0
+747,Ljubljana-SI,Kolding-DK,-0.0
+748,Ljubljana-SI,Barcelona-ES,-0.0
+749,Ljubljana-SI,Madrid-ES,-0.0
+750,Ljubljana-SI,Araba (Vitoria)-ES,-0.0
+751,Ljubljana-SI,Lieto (Turku)-FL,-0.0
+752,Ljubljana-SI,Vantaa (Helsinki)-FL,-0.0
+753,Ljubljana-SI,Combs la ville-FR,-0.0
+754,Ljubljana-SI,Slough-GB,-0.0
+755,Ljubljana-SI,Ryton Gateway-GB,-0.0
+756,Ljubljana-SI,Spata-GR,-0.0
+757,Ljubljana-SI,Zagreb-HR,0.0
+758,Ljubljana-SI,Budapest OLK-HU,0.0
+759,Ljubljana-SI,Budapest NPKK (OE)-HU,-0.0
+760,Ljubljana-SI,Portlaoise-IE,-0.0
+761,Ljubljana-SI,Dublin-IE,-0.0
+762,Ljubljana-SI,Kaunas-LT,0.0
+763,Ljubljana-SI,Lisboa-PT,-0.0
+764,Ljubljana-SI,Göteborg-SE,-0.0
+765,Ljubljana-SI,Stockholm - Västberga-SE,-0.0
+766,Ljubljana-SI,Helsingborg-SE,-0.0
+767,Ljubljana-SI,Arlöv-SE,-0.0
+768,Ljubljana-SI,Malmö-SE,-0.0
+769,Ljubljana-SI,Zilina- Strecno-SK,-0.0
+770,Ljubljana-SI,Ivanka pri Dunaji-SK,-0.0
+771,Ljubljana-SI,Bettembourg-LU,-0.0
+772,Ljubljana-SI,Oslo-NO,-0.0
+773,Ljubljana-SI,Oradea-RO,0.0
+774,Zilina- Strecno-SK,PZ 67 (Speyer)-DE,-0.0
+775,Zilina- Strecno-SK,PZ 50 (Köln)-DE,-0.0
+776,Zilina- Strecno-SK,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+777,Zilina- Strecno-SK,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+778,Zilina- Strecno-SK,PZ 77 (Lahr)-DE,-0.0
+779,Zilina- Strecno-SK,PZ 93 (Regensburg)-DE,-0.0
+780,Zilina- Strecno-SK,PZ 21 (Hamburg)-DE,-0.0
+781,Zilina- Strecno-SK,PZ 46 (Dorsten)-DE,-0.0
+782,Zilina- Strecno-SK,PZ 58 (Hagen)-DE,-0.0
+783,Zilina- Strecno-SK,PZ 08 (Neumark)-DE,-0.0
+784,Zilina- Strecno-SK,PZ 47 (Krefeld)-DE,-0.0
+785,Zilina- Strecno-SK,PZ 15 (Rüdersdorf)-DE,-0.0
+786,Zilina- Strecno-SK,PZ 24 (Neumünster)-DE,-0.0
+787,Zilina- Strecno-SK,PZ 44 (Bochum) [im Bau]-DE,-0.0
+788,Ivanka pri Dunaji-SK,PZ 67 (Speyer)-DE,-0.0
+789,Ivanka pri Dunaji-SK,PZ 50 (Köln)-DE,-0.0
+790,Ivanka pri Dunaji-SK,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+791,Ivanka pri Dunaji-SK,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+792,Ivanka pri Dunaji-SK,PZ 77 (Lahr)-DE,-0.0
+793,Ivanka pri Dunaji-SK,PZ 93 (Regensburg)-DE,-0.0
+794,Ivanka pri Dunaji-SK,PZ 21 (Hamburg)-DE,-0.0
+795,Ivanka pri Dunaji-SK,PZ 46 (Dorsten)-DE,-0.0
+796,Ivanka pri Dunaji-SK,PZ 58 (Hagen)-DE,-0.0
+797,Ivanka pri Dunaji-SK,PZ 08 (Neumark)-DE,-0.0
+798,Ivanka pri Dunaji-SK,PZ 47 (Krefeld)-DE,-0.0
+799,Ivanka pri Dunaji-SK,PZ 15 (Rüdersdorf)-DE,-0.0
+800,Ivanka pri Dunaji-SK,PZ 24 (Neumünster)-DE,-0.0
+801,Ivanka pri Dunaji-SK,PZ 44 (Bochum) [im Bau]-DE,-0.0
+802,Zilina- Strecno-SK,Eindhoven-Noord-NL,-0.0
+803,Zilina- Strecno-SK,Zaltbommel-NL,-0.0
+804,Ivanka pri Dunaji-SK,Eindhoven-Noord-NL,-0.0
+805,Ivanka pri Dunaji-SK,Zaltbommel-NL,-0.0
+806,Zilina- Strecno-SK,Suwałki (Ełk)-PL,-0.0
+807,Zilina- Strecno-SK,Poznań-PL,0.0
+808,Zilina- Strecno-SK,Zabrze-PL,-0.0
+809,Zilina- Strecno-SK,Koninko-PL,0.0
+810,Zilina- Strecno-SK,Wrocław-PL,-0.0
+811,Zilina- Strecno-SK,Bydgoszcz (Solec Kujawski)-PL,0.0
+812,Ivanka pri Dunaji-SK,Suwałki (Ełk)-PL,-0.0
+813,Ivanka pri Dunaji-SK,Poznań-PL,-0.0
+814,Ivanka pri Dunaji-SK,Zabrze-PL,-0.0
+815,Ivanka pri Dunaji-SK,Koninko-PL,0.0
+816,Ivanka pri Dunaji-SK,Wrocław-PL,-0.0
+817,Ivanka pri Dunaji-SK,Bydgoszcz (Solec Kujawski)-PL,-0.0
+818,Zilina- Strecno-SK,Hub Wien I-AT,-0.0
+819,Zilina- Strecno-SK,Hub Wien II-AT,-0.0
+820,Zilina- Strecno-SK,Hub Graz-AT,-0.0
+821,Zilina- Strecno-SK,Hagenbrunn-AT,-0.0
+822,Zilina- Strecno-SK,Allhaming-AT,-0.0
+823,Zilina- Strecno-SK,Enns-AT,-0.0
+824,Zilina- Strecno-SK,Wernberg-AT,-0.0
+825,Zilina- Strecno-SK,Wals-AT,-0.0
+826,Zilina- Strecno-SK,Hall in Tirol-AT,-0.0
+827,Zilina- Strecno-SK,Liesing-AT,-0.0
+828,Zilina- Strecno-SK,Wundschuh-AT,-0.0
+829,Ivanka pri Dunaji-SK,Hub Wien I-AT,0.0
+830,Ivanka pri Dunaji-SK,Hub Wien II-AT,0.0
+831,Ivanka pri Dunaji-SK,Hub Graz-AT,0.0
+832,Ivanka pri Dunaji-SK,Hagenbrunn-AT,0.0
+833,Ivanka pri Dunaji-SK,Allhaming-AT,0.0
+834,Ivanka pri Dunaji-SK,Enns-AT,0.0
+835,Ivanka pri Dunaji-SK,Wernberg-AT,0.0
+836,Ivanka pri Dunaji-SK,Wals-AT,0.0
+837,Ivanka pri Dunaji-SK,Hall in Tirol-AT,0.0
+838,Ivanka pri Dunaji-SK,Liesing-AT,0.0
+839,Ivanka pri Dunaji-SK,Wundschuh-AT,0.0
+840,Zilina- Strecno-SK,Sofia-BG,-0.0
+841,Ivanka pri Dunaji-SK,Sofia-BG,0.0
+842,Zilina- Strecno-SK,Kolding-DK,-0.0
+843,Ivanka pri Dunaji-SK,Kolding-DK,-0.0
+844,Zilina- Strecno-SK,Barcelona-ES,-0.0
+845,Zilina- Strecno-SK,Madrid-ES,-0.0
+846,Zilina- Strecno-SK,Araba (Vitoria)-ES,-0.0
+847,Ivanka pri Dunaji-SK,Barcelona-ES,0.0
+848,Ivanka pri Dunaji-SK,Madrid-ES,-0.0
+849,Ivanka pri Dunaji-SK,Araba (Vitoria)-ES,-0.0
+850,Zilina- Strecno-SK,Lieto (Turku)-FL,-0.0
+851,Zilina- Strecno-SK,Vantaa (Helsinki)-FL,-0.0
+852,Ivanka pri Dunaji-SK,Lieto (Turku)-FL,-0.0
+853,Ivanka pri Dunaji-SK,Vantaa (Helsinki)-FL,-0.0
+854,Zilina- Strecno-SK,Combs la ville-FR,-0.0
+855,Ivanka pri Dunaji-SK,Combs la ville-FR,-0.0
+856,Zilina- Strecno-SK,Slough-GB,-0.0
+857,Zilina- Strecno-SK,Ryton Gateway-GB,-0.0
+858,Ivanka pri Dunaji-SK,Slough-GB,-0.0
+859,Ivanka pri Dunaji-SK,Ryton Gateway-GB,-0.0
+860,Zilina- Strecno-SK,Spata-GR,-0.0
+861,Ivanka pri Dunaji-SK,Spata-GR,0.0
+862,Zilina- Strecno-SK,Zagreb-HR,-0.0
+863,Ivanka pri Dunaji-SK,Zagreb-HR,-0.0
+864,Zilina- Strecno-SK,Budapest OLK-HU,-0.0
+865,Zilina- Strecno-SK,Budapest NPKK (OE)-HU,0.0
+866,Ivanka pri Dunaji-SK,Budapest OLK-HU,-0.0
+867,Ivanka pri Dunaji-SK,Budapest NPKK (OE)-HU,-0.0
+868,Zilina- Strecno-SK,Portlaoise-IE,-0.0
+869,Zilina- Strecno-SK,Dublin-IE,-0.0
+870,Ivanka pri Dunaji-SK,Portlaoise-IE,-0.0
+871,Ivanka pri Dunaji-SK,Dublin-IE,-0.0
+872,Zilina- Strecno-SK,Kaunas-LT,-0.0
+873,Ivanka pri Dunaji-SK,Kaunas-LT,0.0
+874,Zilina- Strecno-SK,Lisboa-PT,-0.0
+875,Ivanka pri Dunaji-SK,Lisboa-PT,-0.0
+876,Zilina- Strecno-SK,Göteborg-SE,-0.0
+877,Zilina- Strecno-SK,Stockholm - Västberga-SE,-0.0
+878,Zilina- Strecno-SK,Helsingborg-SE,-0.0
+879,Zilina- Strecno-SK,Arlöv-SE,-0.0
+880,Zilina- Strecno-SK,Malmö-SE,-0.0
+881,Ivanka pri Dunaji-SK,Göteborg-SE,-0.0
+882,Ivanka pri Dunaji-SK,Stockholm - Västberga-SE,-0.0
+883,Ivanka pri Dunaji-SK,Helsingborg-SE,-0.0
+884,Ivanka pri Dunaji-SK,Arlöv-SE,-0.0
+885,Ivanka pri Dunaji-SK,Malmö-SE,-0.0
+886,Zilina- Strecno-SK,Ljubljana-SI,-0.0
+887,Ivanka pri Dunaji-SK,Ljubljana-SI,-0.0
+888,Zilina- Strecno-SK,Brüssel-BE,-0.0
+889,Ivanka pri Dunaji-SK,Brüssel-BE,-0.0
+890,Zilina- Strecno-SK,Bettembourg-LU,-0.0
+891,Ivanka pri Dunaji-SK,Bettembourg-LU,-0.0
+892,Zilina- Strecno-SK,Oslo-NO,0.0
+893,Ivanka pri Dunaji-SK,Oslo-NO,0.0
+894,Zilina- Strecno-SK,Oradea-RO,0.0
+895,Ivanka pri Dunaji-SK,Oradea-RO,0.0
+896,Kolding-DK,Brno-CZ,-0.0
+897,Kolding-DK,Ostrava-CZ,-0.0
+898,Kolding-DK,Krupka 1-CZ,-0.0
+899,Kolding-DK,Plzen 1-CZ,-0.0
+900,Kolding-DK,Hradec Kralove - Brezhrad-CZ,-0.0
+901,Kolding-DK,Ricany -CZ,-0.0
+902,Kolding-DK,Zlin-CZ,-0.0
+903,Kolding-DK,Olomouc-CZ,-0.0
+904,Kolding-DK,PZ 67 (Speyer)-DE,-0.0
+905,Kolding-DK,PZ 50 (Köln)-DE,-0.0
+906,Kolding-DK,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+907,Kolding-DK,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+908,Kolding-DK,PZ 77 (Lahr)-DE,-0.0
+909,Kolding-DK,PZ 93 (Regensburg)-DE,-0.0
+910,Kolding-DK,PZ 21 (Hamburg)-DE,-0.0
+911,Kolding-DK,PZ 46 (Dorsten)-DE,-0.0
+912,Kolding-DK,PZ 58 (Hagen)-DE,-0.0
+913,Kolding-DK,PZ 08 (Neumark)-DE,-0.0
+914,Kolding-DK,PZ 47 (Krefeld)-DE,-0.0
+915,Kolding-DK,PZ 15 (Rüdersdorf)-DE,-0.0
+916,Kolding-DK,PZ 24 (Neumünster)-DE,-0.0
+917,Kolding-DK,PZ 44 (Bochum) [im Bau]-DE,-0.0
+918,Kolding-DK,Eindhoven-Noord-NL,0.0
+919,Kolding-DK,Zaltbommel-NL,0.0
+920,Kolding-DK,Suwałki (Ełk)-PL,-0.0
+921,Kolding-DK,Poznań-PL,0.0
+922,Kolding-DK,Zabrze-PL,-0.0
+923,Kolding-DK,Koninko-PL,0.0
+924,Kolding-DK,Wrocław-PL,-0.0
+925,Kolding-DK,Bydgoszcz (Solec Kujawski)-PL,-0.0
+926,Kolding-DK,Hub Wien I-AT,-0.0
+927,Kolding-DK,Hub Wien II-AT,-0.0
+928,Kolding-DK,Hub Graz-AT,-0.0
+929,Kolding-DK,Hagenbrunn-AT,-0.0
+930,Kolding-DK,Allhaming-AT,-0.0
+931,Kolding-DK,Enns-AT,-0.0
+932,Kolding-DK,Wernberg-AT,-0.0
+933,Kolding-DK,Wals-AT,-0.0
+934,Kolding-DK,Hall in Tirol-AT,-0.0
+935,Kolding-DK,Liesing-AT,-0.0
+936,Kolding-DK,Wundschuh-AT,-0.0
+937,Kolding-DK,Sofia-BG,-0.0
+938,Kolding-DK,Barcelona-ES,-0.0
+939,Kolding-DK,Madrid-ES,-0.0
+940,Kolding-DK,Araba (Vitoria)-ES,-0.0
+941,Kolding-DK,Lieto (Turku)-FL,0.0
+942,Kolding-DK,Vantaa (Helsinki)-FL,-0.0
+943,Kolding-DK,Combs la ville-FR,-0.0
+944,Kolding-DK,Slough-GB,-0.0
+945,Kolding-DK,Ryton Gateway-GB,-0.0
+946,Kolding-DK,Spata-GR,-0.0
+947,Kolding-DK,Zagreb-HR,-0.0
+948,Kolding-DK,Budapest OLK-HU,-0.0
+949,Kolding-DK,Budapest NPKK (OE)-HU,-0.0
+950,Kolding-DK,Portlaoise-IE,-0.0
+951,Kolding-DK,Dublin-IE,-0.0
+952,Kolding-DK,Kaunas-LT,-0.0
+953,Kolding-DK,Lisboa-PT,-0.0
+954,Kolding-DK,Göteborg-SE,-0.0
+955,Kolding-DK,Stockholm - Västberga-SE,-0.0
+956,Kolding-DK,Helsingborg-SE,-0.0
+957,Kolding-DK,Arlöv-SE,-0.0
+958,Kolding-DK,Malmö-SE,352.0
+959,Kolding-DK,Ljubljana-SI,-0.0
+960,Kolding-DK,Zilina- Strecno-SK,-0.0
+961,Kolding-DK,Ivanka pri Dunaji-SK,-0.0
+962,Kolding-DK,Brüssel-BE,-0.0
+963,Kolding-DK,Bettembourg-LU,-0.0
+964,Kolding-DK,Oslo-NO,0.0
+965,Kolding-DK,Oradea-RO,0.0
+966,Combs la ville-FR,Brno-CZ,-0.0
+967,Combs la ville-FR,Ostrava-CZ,-0.0
+968,Combs la ville-FR,Krupka 1-CZ,-0.0
+969,Combs la ville-FR,Plzen 1-CZ,-0.0
+970,Combs la ville-FR,Hradec Kralove - Brezhrad-CZ,-0.0
+971,Combs la ville-FR,Ricany -CZ,-0.0
+972,Combs la ville-FR,Zlin-CZ,-0.0
+973,Combs la ville-FR,Olomouc-CZ,-0.0
+974,Combs la ville-FR,PZ 67 (Speyer)-DE,-0.0
+975,Combs la ville-FR,PZ 50 (Köln)-DE,-0.0
+976,Combs la ville-FR,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+977,Combs la ville-FR,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+978,Combs la ville-FR,PZ 77 (Lahr)-DE,-0.0
+979,Combs la ville-FR,PZ 93 (Regensburg)-DE,-0.0
+980,Combs la ville-FR,PZ 21 (Hamburg)-DE,-0.0
+981,Combs la ville-FR,PZ 46 (Dorsten)-DE,-0.0
+982,Combs la ville-FR,PZ 58 (Hagen)-DE,-0.0
+983,Combs la ville-FR,PZ 08 (Neumark)-DE,-0.0
+984,Combs la ville-FR,PZ 47 (Krefeld)-DE,-0.0
+985,Combs la ville-FR,PZ 15 (Rüdersdorf)-DE,-0.0
+986,Combs la ville-FR,PZ 24 (Neumünster)-DE,-0.0
+987,Combs la ville-FR,PZ 44 (Bochum) [im Bau]-DE,-0.0
+988,Combs la ville-FR,Eindhoven-Noord-NL,0.0
+989,Combs la ville-FR,Zaltbommel-NL,0.0
+990,Combs la ville-FR,Suwałki (Ełk)-PL,-0.0
+991,Combs la ville-FR,Poznań-PL,0.0
+992,Combs la ville-FR,Zabrze-PL,0.0
+993,Combs la ville-FR,Koninko-PL,0.0
+994,Combs la ville-FR,Wrocław-PL,0.0
+995,Combs la ville-FR,Bydgoszcz (Solec Kujawski)-PL,-0.0
+996,Combs la ville-FR,Hub Wien I-AT,-0.0
+997,Combs la ville-FR,Hub Wien II-AT,-0.0
+998,Combs la ville-FR,Hub Graz-AT,-0.0
+999,Combs la ville-FR,Hagenbrunn-AT,-0.0
+1000,Combs la ville-FR,Allhaming-AT,0.0
+1001,Combs la ville-FR,Enns-AT,0.0
+1002,Combs la ville-FR,Wernberg-AT,-0.0
+1003,Combs la ville-FR,Wals-AT,0.0
+1004,Combs la ville-FR,Hall in Tirol-AT,0.0
+1005,Combs la ville-FR,Liesing-AT,-0.0
+1006,Combs la ville-FR,Wundschuh-AT,-0.0
+1007,Combs la ville-FR,Sofia-BG,0.0
+1008,Combs la ville-FR,Kolding-DK,-0.0
+1009,Combs la ville-FR,Barcelona-ES,-0.0
+1010,Combs la ville-FR,Madrid-ES,-0.0
+1011,Combs la ville-FR,Araba (Vitoria)-ES,-0.0
+1012,Combs la ville-FR,Lieto (Turku)-FL,0.0
+1013,Combs la ville-FR,Vantaa (Helsinki)-FL,-0.0
+1014,Combs la ville-FR,Slough-GB,-0.0
+1015,Combs la ville-FR,Ryton Gateway-GB,-0.0
+1016,Combs la ville-FR,Spata-GR,-0.0
+1017,Combs la ville-FR,Zagreb-HR,-0.0
+1018,Combs la ville-FR,Budapest OLK-HU,-0.0
+1019,Combs la ville-FR,Budapest NPKK (OE)-HU,-0.0
+1020,Combs la ville-FR,Portlaoise-IE,-0.0
+1021,Combs la ville-FR,Dublin-IE,0.0
+1022,Combs la ville-FR,Kaunas-LT,-0.0
+1023,Combs la ville-FR,Lisboa-PT,-0.0
+1024,Combs la ville-FR,Göteborg-SE,0.0
+1025,Combs la ville-FR,Stockholm - Västberga-SE,-0.0
+1026,Combs la ville-FR,Helsingborg-SE,0.0
+1027,Combs la ville-FR,Arlöv-SE,0.0
+1028,Combs la ville-FR,Malmö-SE,-0.0
+1029,Combs la ville-FR,Ljubljana-SI,-0.0
+1030,Combs la ville-FR,Zilina- Strecno-SK,-0.0
+1031,Combs la ville-FR,Ivanka pri Dunaji-SK,-0.0
+1032,Combs la ville-FR,Brüssel-BE,-0.0
+1033,Combs la ville-FR,Bettembourg-LU,-0.0
+1034,Combs la ville-FR,Oslo-NO,0.0
+1035,Combs la ville-FR,Oradea-RO,-0.0
+1036,Spata-GR,Brno-CZ,-0.0
+1037,Spata-GR,Ostrava-CZ,-0.0
+1038,Spata-GR,Krupka 1-CZ,-0.0
+1039,Spata-GR,Plzen 1-CZ,-0.0
+1040,Spata-GR,Hradec Kralove - Brezhrad-CZ,-0.0
+1041,Spata-GR,Ricany -CZ,-0.0
+1042,Spata-GR,Zlin-CZ,-0.0
+1043,Spata-GR,Olomouc-CZ,-0.0
+1044,Spata-GR,PZ 67 (Speyer)-DE,-0.0
+1045,Spata-GR,PZ 50 (Köln)-DE,-0.0
+1046,Spata-GR,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+1047,Spata-GR,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+1048,Spata-GR,PZ 77 (Lahr)-DE,-0.0
+1049,Spata-GR,PZ 93 (Regensburg)-DE,-0.0
+1050,Spata-GR,PZ 21 (Hamburg)-DE,-0.0
+1051,Spata-GR,PZ 46 (Dorsten)-DE,-0.0
+1052,Spata-GR,PZ 58 (Hagen)-DE,-0.0
+1053,Spata-GR,PZ 08 (Neumark)-DE,-0.0
+1054,Spata-GR,PZ 47 (Krefeld)-DE,-0.0
+1055,Spata-GR,PZ 15 (Rüdersdorf)-DE,-0.0
+1056,Spata-GR,PZ 24 (Neumünster)-DE,-0.0
+1057,Spata-GR,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1058,Spata-GR,Eindhoven-Noord-NL,-0.0
+1059,Spata-GR,Zaltbommel-NL,-0.0
+1060,Spata-GR,Suwałki (Ełk)-PL,-0.0
+1061,Spata-GR,Poznań-PL,-0.0
+1062,Spata-GR,Zabrze-PL,-0.0
+1063,Spata-GR,Koninko-PL,-0.0
+1064,Spata-GR,Wrocław-PL,-0.0
+1065,Spata-GR,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1066,Spata-GR,Hub Wien I-AT,-0.0
+1067,Spata-GR,Hub Wien II-AT,-0.0
+1068,Spata-GR,Hub Graz-AT,-0.0
+1069,Spata-GR,Hagenbrunn-AT,-0.0
+1070,Spata-GR,Allhaming-AT,-0.0
+1071,Spata-GR,Enns-AT,-0.0
+1072,Spata-GR,Wernberg-AT,-0.0
+1073,Spata-GR,Wals-AT,-0.0
+1074,Spata-GR,Hall in Tirol-AT,-0.0
+1075,Spata-GR,Liesing-AT,-0.0
+1076,Spata-GR,Wundschuh-AT,-0.0
+1077,Spata-GR,Sofia-BG,0.0
+1078,Spata-GR,Kolding-DK,-0.0
+1079,Spata-GR,Barcelona-ES,-0.0
+1080,Spata-GR,Madrid-ES,-0.0
+1081,Spata-GR,Araba (Vitoria)-ES,-0.0
+1082,Spata-GR,Lieto (Turku)-FL,-0.0
+1083,Spata-GR,Vantaa (Helsinki)-FL,-0.0
+1084,Spata-GR,Combs la ville-FR,-0.0
+1085,Spata-GR,Slough-GB,-0.0
+1086,Spata-GR,Ryton Gateway-GB,-0.0
+1087,Spata-GR,Zagreb-HR,-0.0
+1088,Spata-GR,Budapest OLK-HU,-0.0
+1089,Spata-GR,Budapest NPKK (OE)-HU,-0.0
+1090,Spata-GR,Portlaoise-IE,-0.0
+1091,Spata-GR,Dublin-IE,-0.0
+1092,Spata-GR,Kaunas-LT,-0.0
+1093,Spata-GR,Lisboa-PT,-0.0
+1094,Spata-GR,Göteborg-SE,-0.0
+1095,Spata-GR,Stockholm - Västberga-SE,-0.0
+1096,Spata-GR,Helsingborg-SE,-0.0
+1097,Spata-GR,Arlöv-SE,-0.0
+1098,Spata-GR,Malmö-SE,-0.0
+1099,Spata-GR,Ljubljana-SI,-0.0
+1100,Spata-GR,Zilina- Strecno-SK,-0.0
+1101,Spata-GR,Ivanka pri Dunaji-SK,-0.0
+1102,Spata-GR,Brüssel-BE,-0.0
+1103,Spata-GR,Bettembourg-LU,-0.0
+1104,Spata-GR,Oslo-NO,0.0
+1105,Spata-GR,Oradea-RO,-0.0
+1106,Zagreb-HR,Brno-CZ,-0.0
+1107,Zagreb-HR,Ostrava-CZ,-0.0
+1108,Zagreb-HR,Krupka 1-CZ,-0.0
+1109,Zagreb-HR,Plzen 1-CZ,-0.0
+1110,Zagreb-HR,Hradec Kralove - Brezhrad-CZ,-0.0
+1111,Zagreb-HR,Ricany -CZ,-0.0
+1112,Zagreb-HR,Zlin-CZ,-0.0
+1113,Zagreb-HR,Olomouc-CZ,-0.0
+1114,Zagreb-HR,PZ 67 (Speyer)-DE,-0.0
+1115,Zagreb-HR,PZ 50 (Köln)-DE,-0.0
+1116,Zagreb-HR,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+1117,Zagreb-HR,PZ 90 (Feucht/Nürnberg)-DE,0.0
+1118,Zagreb-HR,PZ 77 (Lahr)-DE,-0.0
+1119,Zagreb-HR,PZ 93 (Regensburg)-DE,0.0
+1120,Zagreb-HR,PZ 21 (Hamburg)-DE,-0.0
+1121,Zagreb-HR,PZ 46 (Dorsten)-DE,-0.0
+1122,Zagreb-HR,PZ 58 (Hagen)-DE,-0.0
+1123,Zagreb-HR,PZ 08 (Neumark)-DE,-0.0
+1124,Zagreb-HR,PZ 47 (Krefeld)-DE,-0.0
+1125,Zagreb-HR,PZ 15 (Rüdersdorf)-DE,-0.0
+1126,Zagreb-HR,PZ 24 (Neumünster)-DE,-0.0
+1127,Zagreb-HR,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1128,Zagreb-HR,Eindhoven-Noord-NL,-0.0
+1129,Zagreb-HR,Zaltbommel-NL,-0.0
+1130,Zagreb-HR,Suwałki (Ełk)-PL,-0.0
+1131,Zagreb-HR,Poznań-PL,-0.0
+1132,Zagreb-HR,Zabrze-PL,-0.0
+1133,Zagreb-HR,Koninko-PL,-0.0
+1134,Zagreb-HR,Wrocław-PL,-0.0
+1135,Zagreb-HR,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1136,Zagreb-HR,Hub Wien I-AT,0.0
+1137,Zagreb-HR,Hub Wien II-AT,0.0
+1138,Zagreb-HR,Hub Graz-AT,-0.0
+1139,Zagreb-HR,Hagenbrunn-AT,0.0
+1140,Zagreb-HR,Allhaming-AT,0.0
+1141,Zagreb-HR,Enns-AT,0.0
+1142,Zagreb-HR,Wernberg-AT,-0.0
+1143,Zagreb-HR,Wals-AT,0.0
+1144,Zagreb-HR,Hall in Tirol-AT,0.0
+1145,Zagreb-HR,Liesing-AT,-0.0
+1146,Zagreb-HR,Wundschuh-AT,-0.0
+1147,Zagreb-HR,Sofia-BG,-0.0
+1148,Zagreb-HR,Kolding-DK,-0.0
+1149,Zagreb-HR,Barcelona-ES,0.0
+1150,Zagreb-HR,Madrid-ES,-0.0
+1151,Zagreb-HR,Araba (Vitoria)-ES,-0.0
+1152,Zagreb-HR,Lieto (Turku)-FL,-0.0
+1153,Zagreb-HR,Vantaa (Helsinki)-FL,-0.0
+1154,Zagreb-HR,Combs la ville-FR,-0.0
+1155,Zagreb-HR,Slough-GB,-0.0
+1156,Zagreb-HR,Ryton Gateway-GB,-0.0
+1157,Zagreb-HR,Spata-GR,-0.0
+1158,Zagreb-HR,Budapest OLK-HU,0.0
+1159,Zagreb-HR,Budapest NPKK (OE)-HU,-0.0
+1160,Zagreb-HR,Portlaoise-IE,-0.0
+1161,Zagreb-HR,Dublin-IE,-0.0
+1162,Zagreb-HR,Kaunas-LT,-0.0
+1163,Zagreb-HR,Lisboa-PT,-0.0
+1164,Zagreb-HR,Göteborg-SE,-0.0
+1165,Zagreb-HR,Stockholm - Västberga-SE,-0.0
+1166,Zagreb-HR,Helsingborg-SE,-0.0
+1167,Zagreb-HR,Arlöv-SE,-0.0
+1168,Zagreb-HR,Malmö-SE,-0.0
+1169,Zagreb-HR,Ljubljana-SI,0.0
+1170,Zagreb-HR,Zilina- Strecno-SK,-0.0
+1171,Zagreb-HR,Ivanka pri Dunaji-SK,-0.0
+1172,Zagreb-HR,Brüssel-BE,-0.0
+1173,Zagreb-HR,Bettembourg-LU,-0.0
+1174,Zagreb-HR,Oslo-NO,0.0
+1175,Zagreb-HR,Oradea-RO,-0.0
+1176,Portlaoise-IE,Brno-CZ,-0.0
+1177,Portlaoise-IE,Ostrava-CZ,-0.0
+1178,Portlaoise-IE,Krupka 1-CZ,-0.0
+1179,Portlaoise-IE,Plzen 1-CZ,-0.0
+1180,Portlaoise-IE,Hradec Kralove - Brezhrad-CZ,-0.0
+1181,Portlaoise-IE,Ricany -CZ,-0.0
+1182,Portlaoise-IE,Zlin-CZ,-0.0
+1183,Portlaoise-IE,Olomouc-CZ,-0.0
+1184,Dublin-IE,Brno-CZ,-0.0
+1185,Dublin-IE,Ostrava-CZ,-0.0
+1186,Dublin-IE,Krupka 1-CZ,-0.0
+1187,Dublin-IE,Plzen 1-CZ,-0.0
+1188,Dublin-IE,Hradec Kralove - Brezhrad-CZ,-0.0
+1189,Dublin-IE,Ricany -CZ,-0.0
+1190,Dublin-IE,Zlin-CZ,-0.0
+1191,Dublin-IE,Olomouc-CZ,-0.0
+1192,Portlaoise-IE,PZ 67 (Speyer)-DE,-0.0
+1193,Portlaoise-IE,PZ 50 (Köln)-DE,-0.0
+1194,Portlaoise-IE,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+1195,Portlaoise-IE,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+1196,Portlaoise-IE,PZ 77 (Lahr)-DE,-0.0
+1197,Portlaoise-IE,PZ 93 (Regensburg)-DE,-0.0
+1198,Portlaoise-IE,PZ 21 (Hamburg)-DE,-0.0
+1199,Portlaoise-IE,PZ 46 (Dorsten)-DE,-0.0
+1200,Portlaoise-IE,PZ 58 (Hagen)-DE,-0.0
+1201,Portlaoise-IE,PZ 08 (Neumark)-DE,-0.0
+1202,Portlaoise-IE,PZ 47 (Krefeld)-DE,-0.0
+1203,Portlaoise-IE,PZ 15 (Rüdersdorf)-DE,-0.0
+1204,Portlaoise-IE,PZ 24 (Neumünster)-DE,-0.0
+1205,Portlaoise-IE,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1206,Dublin-IE,PZ 67 (Speyer)-DE,-0.0
+1207,Dublin-IE,PZ 50 (Köln)-DE,-0.0
+1208,Dublin-IE,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+1209,Dublin-IE,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+1210,Dublin-IE,PZ 77 (Lahr)-DE,-0.0
+1211,Dublin-IE,PZ 93 (Regensburg)-DE,-0.0
+1212,Dublin-IE,PZ 21 (Hamburg)-DE,-0.0
+1213,Dublin-IE,PZ 46 (Dorsten)-DE,-0.0
+1214,Dublin-IE,PZ 58 (Hagen)-DE,-0.0
+1215,Dublin-IE,PZ 08 (Neumark)-DE,-0.0
+1216,Dublin-IE,PZ 47 (Krefeld)-DE,-0.0
+1217,Dublin-IE,PZ 15 (Rüdersdorf)-DE,-0.0
+1218,Dublin-IE,PZ 24 (Neumünster)-DE,-0.0
+1219,Dublin-IE,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1220,Portlaoise-IE,Eindhoven-Noord-NL,-0.0
+1221,Portlaoise-IE,Zaltbommel-NL,-0.0
+1222,Dublin-IE,Eindhoven-Noord-NL,-0.0
+1223,Dublin-IE,Zaltbommel-NL,-0.0
+1224,Portlaoise-IE,Suwałki (Ełk)-PL,-0.0
+1225,Portlaoise-IE,Poznań-PL,-0.0
+1226,Portlaoise-IE,Zabrze-PL,-0.0
+1227,Portlaoise-IE,Koninko-PL,-0.0
+1228,Portlaoise-IE,Wrocław-PL,-0.0
+1229,Portlaoise-IE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1230,Dublin-IE,Suwałki (Ełk)-PL,-0.0
+1231,Dublin-IE,Poznań-PL,-0.0
+1232,Dublin-IE,Zabrze-PL,-0.0
+1233,Dublin-IE,Koninko-PL,-0.0
+1234,Dublin-IE,Wrocław-PL,-0.0
+1235,Dublin-IE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1236,Portlaoise-IE,Hub Wien I-AT,-0.0
+1237,Portlaoise-IE,Hub Wien II-AT,-0.0
+1238,Portlaoise-IE,Hub Graz-AT,-0.0
+1239,Portlaoise-IE,Hagenbrunn-AT,-0.0
+1240,Portlaoise-IE,Allhaming-AT,-0.0
+1241,Portlaoise-IE,Enns-AT,-0.0
+1242,Portlaoise-IE,Wernberg-AT,-0.0
+1243,Portlaoise-IE,Wals-AT,-0.0
+1244,Portlaoise-IE,Hall in Tirol-AT,-0.0
+1245,Portlaoise-IE,Liesing-AT,-0.0
+1246,Portlaoise-IE,Wundschuh-AT,-0.0
+1247,Dublin-IE,Hub Wien I-AT,-0.0
+1248,Dublin-IE,Hub Wien II-AT,-0.0
+1249,Dublin-IE,Hub Graz-AT,-0.0
+1250,Dublin-IE,Hagenbrunn-AT,-0.0
+1251,Dublin-IE,Allhaming-AT,-0.0
+1252,Dublin-IE,Enns-AT,-0.0
+1253,Dublin-IE,Wernberg-AT,-0.0
+1254,Dublin-IE,Wals-AT,-0.0
+1255,Dublin-IE,Hall in Tirol-AT,-0.0
+1256,Dublin-IE,Liesing-AT,-0.0
+1257,Dublin-IE,Wundschuh-AT,-0.0
+1258,Portlaoise-IE,Sofia-BG,-0.0
+1259,Dublin-IE,Sofia-BG,-0.0
+1260,Portlaoise-IE,Kolding-DK,-0.0
+1261,Dublin-IE,Kolding-DK,-0.0
+1262,Portlaoise-IE,Barcelona-ES,-0.0
+1263,Portlaoise-IE,Madrid-ES,-0.0
+1264,Portlaoise-IE,Araba (Vitoria)-ES,-0.0
+1265,Dublin-IE,Barcelona-ES,-0.0
+1266,Dublin-IE,Madrid-ES,-0.0
+1267,Dublin-IE,Araba (Vitoria)-ES,-0.0
+1268,Portlaoise-IE,Lieto (Turku)-FL,-0.0
+1269,Portlaoise-IE,Vantaa (Helsinki)-FL,-0.0
+1270,Dublin-IE,Lieto (Turku)-FL,-0.0
+1271,Dublin-IE,Vantaa (Helsinki)-FL,-0.0
+1272,Portlaoise-IE,Combs la ville-FR,-0.0
+1273,Dublin-IE,Combs la ville-FR,-0.0
+1274,Portlaoise-IE,Slough-GB,-0.0
+1275,Portlaoise-IE,Ryton Gateway-GB,-0.0
+1276,Dublin-IE,Slough-GB,-0.0
+1277,Dublin-IE,Ryton Gateway-GB,-0.0
+1278,Portlaoise-IE,Spata-GR,-0.0
+1279,Dublin-IE,Spata-GR,-0.0
+1280,Portlaoise-IE,Zagreb-HR,-0.0
+1281,Dublin-IE,Zagreb-HR,-0.0
+1282,Portlaoise-IE,Budapest OLK-HU,-0.0
+1283,Portlaoise-IE,Budapest NPKK (OE)-HU,-0.0
+1284,Dublin-IE,Budapest OLK-HU,-0.0
+1285,Dublin-IE,Budapest NPKK (OE)-HU,-0.0
+1286,Portlaoise-IE,Kaunas-LT,-0.0
+1287,Dublin-IE,Kaunas-LT,-0.0
+1288,Portlaoise-IE,Lisboa-PT,-0.0
+1289,Dublin-IE,Lisboa-PT,-0.0
+1290,Portlaoise-IE,Göteborg-SE,-0.0
+1291,Portlaoise-IE,Stockholm - Västberga-SE,-0.0
+1292,Portlaoise-IE,Helsingborg-SE,-0.0
+1293,Portlaoise-IE,Arlöv-SE,-0.0
+1294,Portlaoise-IE,Malmö-SE,-0.0
+1295,Dublin-IE,Göteborg-SE,0.0
+1296,Dublin-IE,Stockholm - Västberga-SE,-0.0
+1297,Dublin-IE,Helsingborg-SE,-0.0
+1298,Dublin-IE,Arlöv-SE,-0.0
+1299,Dublin-IE,Malmö-SE,-0.0
+1300,Portlaoise-IE,Ljubljana-SI,-0.0
+1301,Dublin-IE,Ljubljana-SI,-0.0
+1302,Portlaoise-IE,Zilina- Strecno-SK,-0.0
+1303,Portlaoise-IE,Ivanka pri Dunaji-SK,-0.0
+1304,Dublin-IE,Zilina- Strecno-SK,-0.0
+1305,Dublin-IE,Ivanka pri Dunaji-SK,-0.0
+1306,Portlaoise-IE,Brüssel-BE,-0.0
+1307,Dublin-IE,Brüssel-BE,-0.0
+1308,Portlaoise-IE,Bettembourg-LU,-0.0
+1309,Dublin-IE,Bettembourg-LU,-0.0
+1310,Portlaoise-IE,Oslo-NO,0.0
+1311,Dublin-IE,Oslo-NO,0.0
+1312,Portlaoise-IE,Oradea-RO,-0.0
+1313,Dublin-IE,Oradea-RO,-0.0
+1314,Bettembourg-LU,Brno-CZ,-0.0
+1315,Bettembourg-LU,Ostrava-CZ,-0.0
+1316,Bettembourg-LU,Krupka 1-CZ,-0.0
+1317,Bettembourg-LU,Plzen 1-CZ,0.0
+1318,Bettembourg-LU,Hradec Kralove - Brezhrad-CZ,-0.0
+1319,Bettembourg-LU,Ricany -CZ,-0.0
+1320,Bettembourg-LU,Zlin-CZ,-0.0
+1321,Bettembourg-LU,Olomouc-CZ,-0.0
+1322,Bettembourg-LU,PZ 67 (Speyer)-DE,-0.0
+1323,Bettembourg-LU,PZ 50 (Köln)-DE,-0.0
+1324,Bettembourg-LU,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+1325,Bettembourg-LU,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+1326,Bettembourg-LU,PZ 77 (Lahr)-DE,-0.0
+1327,Bettembourg-LU,PZ 93 (Regensburg)-DE,-0.0
+1328,Bettembourg-LU,PZ 21 (Hamburg)-DE,-0.0
+1329,Bettembourg-LU,PZ 46 (Dorsten)-DE,-0.0
+1330,Bettembourg-LU,PZ 58 (Hagen)-DE,-0.0
+1331,Bettembourg-LU,PZ 08 (Neumark)-DE,-0.0
+1332,Bettembourg-LU,PZ 47 (Krefeld)-DE,-0.0
+1333,Bettembourg-LU,PZ 15 (Rüdersdorf)-DE,-0.0
+1334,Bettembourg-LU,PZ 24 (Neumünster)-DE,-0.0
+1335,Bettembourg-LU,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1336,Bettembourg-LU,Eindhoven-Noord-NL,0.0
+1337,Bettembourg-LU,Zaltbommel-NL,0.0
+1338,Bettembourg-LU,Suwałki (Ełk)-PL,-0.0
+1339,Bettembourg-LU,Poznań-PL,-0.0
+1340,Bettembourg-LU,Zabrze-PL,-0.0
+1341,Bettembourg-LU,Koninko-PL,-0.0
+1342,Bettembourg-LU,Wrocław-PL,-0.0
+1343,Bettembourg-LU,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1344,Bettembourg-LU,Hub Wien I-AT,-0.0
+1345,Bettembourg-LU,Hub Wien II-AT,-0.0
+1346,Bettembourg-LU,Hub Graz-AT,-0.0
+1347,Bettembourg-LU,Hagenbrunn-AT,-0.0
+1348,Bettembourg-LU,Allhaming-AT,-0.0
+1349,Bettembourg-LU,Enns-AT,-0.0
+1350,Bettembourg-LU,Wernberg-AT,-0.0
+1351,Bettembourg-LU,Wals-AT,-0.0
+1352,Bettembourg-LU,Hall in Tirol-AT,-0.0
+1353,Bettembourg-LU,Liesing-AT,-0.0
+1354,Bettembourg-LU,Wundschuh-AT,-0.0
+1355,Bettembourg-LU,Sofia-BG,-0.0
+1356,Bettembourg-LU,Kolding-DK,-0.0
+1357,Bettembourg-LU,Barcelona-ES,0.0
+1358,Bettembourg-LU,Madrid-ES,-0.0
+1359,Bettembourg-LU,Araba (Vitoria)-ES,-0.0
+1360,Bettembourg-LU,Lieto (Turku)-FL,-0.0
+1361,Bettembourg-LU,Vantaa (Helsinki)-FL,-0.0
+1362,Bettembourg-LU,Combs la ville-FR,-0.0
+1363,Bettembourg-LU,Slough-GB,-0.0
+1364,Bettembourg-LU,Ryton Gateway-GB,-0.0
+1365,Bettembourg-LU,Spata-GR,-0.0
+1366,Bettembourg-LU,Zagreb-HR,-0.0
+1367,Bettembourg-LU,Budapest OLK-HU,-0.0
+1368,Bettembourg-LU,Budapest NPKK (OE)-HU,-0.0
+1369,Bettembourg-LU,Portlaoise-IE,0.0
+1370,Bettembourg-LU,Dublin-IE,0.0
+1371,Bettembourg-LU,Kaunas-LT,-0.0
+1372,Bettembourg-LU,Lisboa-PT,-0.0
+1373,Bettembourg-LU,Göteborg-SE,-0.0
+1374,Bettembourg-LU,Stockholm - Västberga-SE,-0.0
+1375,Bettembourg-LU,Helsingborg-SE,-0.0
+1376,Bettembourg-LU,Arlöv-SE,-0.0
+1377,Bettembourg-LU,Malmö-SE,-0.0
+1378,Bettembourg-LU,Ljubljana-SI,1382.0
+1379,Bettembourg-LU,Zilina- Strecno-SK,-0.0
+1380,Bettembourg-LU,Ivanka pri Dunaji-SK,-0.0
+1381,Bettembourg-LU,Brüssel-BE,0.0
+1382,Bettembourg-LU,Oslo-NO,0.0
+1383,Bettembourg-LU,Oradea-RO,-0.0
+1384,Oslo-NO,Brno-CZ,-0.0
+1385,Oslo-NO,Ostrava-CZ,-0.0
+1386,Oslo-NO,Krupka 1-CZ,-0.0
+1387,Oslo-NO,Plzen 1-CZ,-0.0
+1388,Oslo-NO,Hradec Kralove - Brezhrad-CZ,-0.0
+1389,Oslo-NO,Ricany -CZ,-0.0
+1390,Oslo-NO,Zlin-CZ,-0.0
+1391,Oslo-NO,Olomouc-CZ,-0.0
+1392,Oslo-NO,PZ 67 (Speyer)-DE,-0.0
+1393,Oslo-NO,PZ 50 (Köln)-DE,-0.0
+1394,Oslo-NO,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+1395,Oslo-NO,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+1396,Oslo-NO,PZ 77 (Lahr)-DE,-0.0
+1397,Oslo-NO,PZ 93 (Regensburg)-DE,-0.0
+1398,Oslo-NO,PZ 21 (Hamburg)-DE,-0.0
+1399,Oslo-NO,PZ 46 (Dorsten)-DE,-0.0
+1400,Oslo-NO,PZ 58 (Hagen)-DE,-0.0
+1401,Oslo-NO,PZ 08 (Neumark)-DE,-0.0
+1402,Oslo-NO,PZ 47 (Krefeld)-DE,-0.0
+1403,Oslo-NO,PZ 15 (Rüdersdorf)-DE,-0.0
+1404,Oslo-NO,PZ 24 (Neumünster)-DE,-0.0
+1405,Oslo-NO,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1406,Oslo-NO,Eindhoven-Noord-NL,-0.0
+1407,Oslo-NO,Zaltbommel-NL,-0.0
+1408,Oslo-NO,Suwałki (Ełk)-PL,-0.0
+1409,Oslo-NO,Poznań-PL,-0.0
+1410,Oslo-NO,Zabrze-PL,-0.0
+1411,Oslo-NO,Koninko-PL,-0.0
+1412,Oslo-NO,Wrocław-PL,-0.0
+1413,Oslo-NO,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1414,Oslo-NO,Hub Wien I-AT,-0.0
+1415,Oslo-NO,Hub Wien II-AT,-0.0
+1416,Oslo-NO,Hub Graz-AT,-0.0
+1417,Oslo-NO,Hagenbrunn-AT,-0.0
+1418,Oslo-NO,Allhaming-AT,-0.0
+1419,Oslo-NO,Enns-AT,-0.0
+1420,Oslo-NO,Wernberg-AT,-0.0
+1421,Oslo-NO,Wals-AT,-0.0
+1422,Oslo-NO,Hall in Tirol-AT,-0.0
+1423,Oslo-NO,Liesing-AT,-0.0
+1424,Oslo-NO,Wundschuh-AT,-0.0
+1425,Oslo-NO,Sofia-BG,-0.0
+1426,Oslo-NO,Kolding-DK,-0.0
+1427,Oslo-NO,Barcelona-ES,-0.0
+1428,Oslo-NO,Madrid-ES,-0.0
+1429,Oslo-NO,Araba (Vitoria)-ES,-0.0
+1430,Oslo-NO,Lieto (Turku)-FL,-0.0
+1431,Oslo-NO,Vantaa (Helsinki)-FL,-0.0
+1432,Oslo-NO,Combs la ville-FR,-0.0
+1433,Oslo-NO,Slough-GB,-0.0
+1434,Oslo-NO,Ryton Gateway-GB,-0.0
+1435,Oslo-NO,Spata-GR,-0.0
+1436,Oslo-NO,Zagreb-HR,-0.0
+1437,Oslo-NO,Budapest OLK-HU,-0.0
+1438,Oslo-NO,Budapest NPKK (OE)-HU,-0.0
+1439,Oslo-NO,Portlaoise-IE,-0.0
+1440,Oslo-NO,Dublin-IE,-0.0
+1441,Oslo-NO,Kaunas-LT,-0.0
+1442,Oslo-NO,Lisboa-PT,-0.0
+1443,Oslo-NO,Göteborg-SE,-0.0
+1444,Oslo-NO,Stockholm - Västberga-SE,-0.0
+1445,Oslo-NO,Helsingborg-SE,-0.0
+1446,Oslo-NO,Arlöv-SE,-0.0
+1447,Oslo-NO,Malmö-SE,-0.0
+1448,Oslo-NO,Ljubljana-SI,-0.0
+1449,Oslo-NO,Zilina- Strecno-SK,-0.0
+1450,Oslo-NO,Ivanka pri Dunaji-SK,-0.0
+1451,Oslo-NO,Brüssel-BE,-0.0
+1452,Oslo-NO,Bettembourg-LU,-0.0
+1453,Oslo-NO,Oradea-RO,-0.0
+1454,Oradea-RO,Brno-CZ,0.0
+1455,Oradea-RO,Ostrava-CZ,0.0
+1456,Oradea-RO,Krupka 1-CZ,-0.0
+1457,Oradea-RO,Plzen 1-CZ,-0.0
+1458,Oradea-RO,Hradec Kralove - Brezhrad-CZ,-0.0
+1459,Oradea-RO,Ricany -CZ,-0.0
+1460,Oradea-RO,Zlin-CZ,0.0
+1461,Oradea-RO,Olomouc-CZ,0.0
+1462,Oradea-RO,PZ 67 (Speyer)-DE,-0.0
+1463,Oradea-RO,PZ 50 (Köln)-DE,-0.0
+1464,Oradea-RO,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+1465,Oradea-RO,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+1466,Oradea-RO,PZ 77 (Lahr)-DE,-0.0
+1467,Oradea-RO,PZ 93 (Regensburg)-DE,-0.0
+1468,Oradea-RO,PZ 21 (Hamburg)-DE,-0.0
+1469,Oradea-RO,PZ 46 (Dorsten)-DE,-0.0
+1470,Oradea-RO,PZ 58 (Hagen)-DE,-0.0
+1471,Oradea-RO,PZ 08 (Neumark)-DE,-0.0
+1472,Oradea-RO,PZ 47 (Krefeld)-DE,-0.0
+1473,Oradea-RO,PZ 15 (Rüdersdorf)-DE,-0.0
+1474,Oradea-RO,PZ 24 (Neumünster)-DE,-0.0
+1475,Oradea-RO,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1476,Oradea-RO,Eindhoven-Noord-NL,-0.0
+1477,Oradea-RO,Zaltbommel-NL,-0.0
+1478,Oradea-RO,Suwałki (Ełk)-PL,-0.0
+1479,Oradea-RO,Poznań-PL,-0.0
+1480,Oradea-RO,Zabrze-PL,0.0
+1481,Oradea-RO,Koninko-PL,-0.0
+1482,Oradea-RO,Wrocław-PL,-0.0
+1483,Oradea-RO,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1484,Oradea-RO,Hub Wien I-AT,0.0
+1485,Oradea-RO,Hub Wien II-AT,0.0
+1486,Oradea-RO,Hub Graz-AT,0.0
+1487,Oradea-RO,Hagenbrunn-AT,0.0
+1488,Oradea-RO,Allhaming-AT,0.0
+1489,Oradea-RO,Enns-AT,0.0
+1490,Oradea-RO,Wernberg-AT,-0.0
+1491,Oradea-RO,Wals-AT,0.0
+1492,Oradea-RO,Hall in Tirol-AT,-0.0
+1493,Oradea-RO,Liesing-AT,0.0
+1494,Oradea-RO,Wundschuh-AT,0.0
+1495,Oradea-RO,Sofia-BG,0.0
+1496,Oradea-RO,Kolding-DK,-0.0
+1497,Oradea-RO,Barcelona-ES,-0.0
+1498,Oradea-RO,Madrid-ES,-0.0
+1499,Oradea-RO,Araba (Vitoria)-ES,-0.0
+1500,Oradea-RO,Lieto (Turku)-FL,-0.0
+1501,Oradea-RO,Vantaa (Helsinki)-FL,-0.0
+1502,Oradea-RO,Combs la ville-FR,-0.0
+1503,Oradea-RO,Slough-GB,-0.0
+1504,Oradea-RO,Ryton Gateway-GB,-0.0
+1505,Oradea-RO,Spata-GR,-0.0
+1506,Oradea-RO,Zagreb-HR,0.0
+1507,Oradea-RO,Budapest OLK-HU,0.0
+1508,Oradea-RO,Budapest NPKK (OE)-HU,-0.0
+1509,Oradea-RO,Portlaoise-IE,-0.0
+1510,Oradea-RO,Dublin-IE,-0.0
+1511,Oradea-RO,Kaunas-LT,-0.0
+1512,Oradea-RO,Lisboa-PT,-0.0
+1513,Oradea-RO,Göteborg-SE,-0.0
+1514,Oradea-RO,Stockholm - Västberga-SE,-0.0
+1515,Oradea-RO,Helsingborg-SE,-0.0
+1516,Oradea-RO,Arlöv-SE,-0.0
+1517,Oradea-RO,Malmö-SE,-0.0
+1518,Oradea-RO,Ljubljana-SI,-0.0
+1519,Oradea-RO,Zilina- Strecno-SK,0.0
+1520,Oradea-RO,Ivanka pri Dunaji-SK,-0.0
+1521,Oradea-RO,Brüssel-BE,-0.0
+1522,Oradea-RO,Bettembourg-LU,-0.0
+1523,Oradea-RO,Oslo-NO,0.0
+1524,Hub Wien I-AT,Brno-CZ,333.0
+1525,Hub Wien I-AT,Ostrava-CZ,-0.0
+1526,Hub Wien I-AT,Krupka 1-CZ,-0.0
+1527,Hub Wien I-AT,Plzen 1-CZ,-0.0
+1528,Hub Wien I-AT,Hradec Kralove - Brezhrad-CZ,-0.0
+1529,Hub Wien I-AT,Ricany -CZ,-0.0
+1530,Hub Wien I-AT,Zlin-CZ,-0.0
+1531,Hub Wien I-AT,Olomouc-CZ,-0.0
+1532,Hub Wien II-AT,Brno-CZ,-0.0
+1533,Hub Wien II-AT,Ostrava-CZ,-0.0
+1534,Hub Wien II-AT,Krupka 1-CZ,-0.0
+1535,Hub Wien II-AT,Plzen 1-CZ,-0.0
+1536,Hub Wien II-AT,Hradec Kralove - Brezhrad-CZ,-0.0
+1537,Hub Wien II-AT,Ricany -CZ,-0.0
+1538,Hub Wien II-AT,Zlin-CZ,-0.0
+1539,Hub Wien II-AT,Olomouc-CZ,-0.0
+1540,Hub Graz-AT,Brno-CZ,-0.0
+1541,Hub Graz-AT,Ostrava-CZ,-0.0
+1542,Hub Graz-AT,Krupka 1-CZ,-0.0
+1543,Hub Graz-AT,Plzen 1-CZ,-0.0
+1544,Hub Graz-AT,Hradec Kralove - Brezhrad-CZ,-0.0
+1545,Hub Graz-AT,Ricany -CZ,-0.0
+1546,Hub Graz-AT,Zlin-CZ,-0.0
+1547,Hub Graz-AT,Olomouc-CZ,-0.0
+1548,Hagenbrunn-AT,Brno-CZ,146713.0
+1549,Hagenbrunn-AT,Ostrava-CZ,-0.0
+1550,Hagenbrunn-AT,Krupka 1-CZ,-0.0
+1551,Hagenbrunn-AT,Plzen 1-CZ,-0.0
+1552,Hagenbrunn-AT,Hradec Kralove - Brezhrad-CZ,-0.0
+1553,Hagenbrunn-AT,Ricany -CZ,-0.0
+1554,Hagenbrunn-AT,Zlin-CZ,-0.0
+1555,Hagenbrunn-AT,Olomouc-CZ,-0.0
+1556,Allhaming-AT,Brno-CZ,-0.0
+1557,Allhaming-AT,Ostrava-CZ,-0.0
+1558,Allhaming-AT,Krupka 1-CZ,-0.0
+1559,Allhaming-AT,Plzen 1-CZ,-0.0
+1560,Allhaming-AT,Hradec Kralove - Brezhrad-CZ,-0.0
+1561,Allhaming-AT,Ricany -CZ,-0.0
+1562,Allhaming-AT,Zlin-CZ,-0.0
+1563,Allhaming-AT,Olomouc-CZ,-0.0
+1564,Enns-AT,Brno-CZ,-0.0
+1565,Enns-AT,Ostrava-CZ,-0.0
+1566,Enns-AT,Krupka 1-CZ,-0.0
+1567,Enns-AT,Plzen 1-CZ,-0.0
+1568,Enns-AT,Hradec Kralove - Brezhrad-CZ,-0.0
+1569,Enns-AT,Ricany -CZ,-0.0
+1570,Enns-AT,Zlin-CZ,-0.0
+1571,Enns-AT,Olomouc-CZ,-0.0
+1572,Wernberg-AT,Brno-CZ,-0.0
+1573,Wernberg-AT,Ostrava-CZ,-0.0
+1574,Wernberg-AT,Krupka 1-CZ,-0.0
+1575,Wernberg-AT,Plzen 1-CZ,-0.0
+1576,Wernberg-AT,Hradec Kralove - Brezhrad-CZ,-0.0
+1577,Wernberg-AT,Ricany -CZ,-0.0
+1578,Wernberg-AT,Zlin-CZ,-0.0
+1579,Wernberg-AT,Olomouc-CZ,-0.0
+1580,Wals-AT,Brno-CZ,-0.0
+1581,Wals-AT,Ostrava-CZ,-0.0
+1582,Wals-AT,Krupka 1-CZ,-0.0
+1583,Wals-AT,Plzen 1-CZ,0.0
+1584,Wals-AT,Hradec Kralove - Brezhrad-CZ,-0.0
+1585,Wals-AT,Ricany -CZ,-0.0
+1586,Wals-AT,Zlin-CZ,-0.0
+1587,Wals-AT,Olomouc-CZ,-0.0
+1588,Hall in Tirol-AT,Brno-CZ,-0.0
+1589,Hall in Tirol-AT,Ostrava-CZ,-0.0
+1590,Hall in Tirol-AT,Krupka 1-CZ,-0.0
+1591,Hall in Tirol-AT,Plzen 1-CZ,-0.0
+1592,Hall in Tirol-AT,Hradec Kralove - Brezhrad-CZ,-0.0
+1593,Hall in Tirol-AT,Ricany -CZ,-0.0
+1594,Hall in Tirol-AT,Zlin-CZ,-0.0
+1595,Hall in Tirol-AT,Olomouc-CZ,-0.0
+1596,Liesing-AT,Brno-CZ,-0.0
+1597,Liesing-AT,Ostrava-CZ,-0.0
+1598,Liesing-AT,Krupka 1-CZ,-0.0
+1599,Liesing-AT,Plzen 1-CZ,-0.0
+1600,Liesing-AT,Hradec Kralove - Brezhrad-CZ,-0.0
+1601,Liesing-AT,Ricany -CZ,-0.0
+1602,Liesing-AT,Zlin-CZ,-0.0
+1603,Liesing-AT,Olomouc-CZ,-0.0
+1604,Wundschuh-AT,Brno-CZ,-0.0
+1605,Wundschuh-AT,Ostrava-CZ,-0.0
+1606,Wundschuh-AT,Krupka 1-CZ,-0.0
+1607,Wundschuh-AT,Plzen 1-CZ,-0.0
+1608,Wundschuh-AT,Hradec Kralove - Brezhrad-CZ,-0.0
+1609,Wundschuh-AT,Ricany -CZ,-0.0
+1610,Wundschuh-AT,Zlin-CZ,-0.0
+1611,Wundschuh-AT,Olomouc-CZ,-0.0
+1612,Hub Wien I-AT,PZ 67 (Speyer)-DE,-0.0
+1613,Hub Wien I-AT,PZ 50 (Köln)-DE,-0.0
+1614,Hub Wien I-AT,PZ 04 (Radefeld/Leipzig)-DE,0.0
+1615,Hub Wien I-AT,PZ 90 (Feucht/Nürnberg)-DE,268.0
+1616,Hub Wien I-AT,PZ 77 (Lahr)-DE,-0.0
+1617,Hub Wien I-AT,PZ 93 (Regensburg)-DE,0.0
+1618,Hub Wien I-AT,PZ 21 (Hamburg)-DE,-0.0
+1619,Hub Wien I-AT,PZ 46 (Dorsten)-DE,-0.0
+1620,Hub Wien I-AT,PZ 58 (Hagen)-DE,-0.0
+1621,Hub Wien I-AT,PZ 08 (Neumark)-DE,0.0
+1622,Hub Wien I-AT,PZ 47 (Krefeld)-DE,-0.0
+1623,Hub Wien I-AT,PZ 15 (Rüdersdorf)-DE,0.0
+1624,Hub Wien I-AT,PZ 24 (Neumünster)-DE,-0.0
+1625,Hub Wien I-AT,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1626,Hub Wien II-AT,PZ 67 (Speyer)-DE,-0.0
+1627,Hub Wien II-AT,PZ 50 (Köln)-DE,-0.0
+1628,Hub Wien II-AT,PZ 04 (Radefeld/Leipzig)-DE,0.0
+1629,Hub Wien II-AT,PZ 90 (Feucht/Nürnberg)-DE,0.0
+1630,Hub Wien II-AT,PZ 77 (Lahr)-DE,-0.0
+1631,Hub Wien II-AT,PZ 93 (Regensburg)-DE,0.0
+1632,Hub Wien II-AT,PZ 21 (Hamburg)-DE,-0.0
+1633,Hub Wien II-AT,PZ 46 (Dorsten)-DE,-0.0
+1634,Hub Wien II-AT,PZ 58 (Hagen)-DE,-0.0
+1635,Hub Wien II-AT,PZ 08 (Neumark)-DE,0.0
+1636,Hub Wien II-AT,PZ 47 (Krefeld)-DE,-0.0
+1637,Hub Wien II-AT,PZ 15 (Rüdersdorf)-DE,0.0
+1638,Hub Wien II-AT,PZ 24 (Neumünster)-DE,-0.0
+1639,Hub Wien II-AT,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1640,Hub Graz-AT,PZ 67 (Speyer)-DE,-0.0
+1641,Hub Graz-AT,PZ 50 (Köln)-DE,-0.0
+1642,Hub Graz-AT,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+1643,Hub Graz-AT,PZ 90 (Feucht/Nürnberg)-DE,0.0
+1644,Hub Graz-AT,PZ 77 (Lahr)-DE,-0.0
+1645,Hub Graz-AT,PZ 93 (Regensburg)-DE,0.0
+1646,Hub Graz-AT,PZ 21 (Hamburg)-DE,-0.0
+1647,Hub Graz-AT,PZ 46 (Dorsten)-DE,-0.0
+1648,Hub Graz-AT,PZ 58 (Hagen)-DE,-0.0
+1649,Hub Graz-AT,PZ 08 (Neumark)-DE,0.0
+1650,Hub Graz-AT,PZ 47 (Krefeld)-DE,-0.0
+1651,Hub Graz-AT,PZ 15 (Rüdersdorf)-DE,-0.0
+1652,Hub Graz-AT,PZ 24 (Neumünster)-DE,-0.0
+1653,Hub Graz-AT,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1654,Hagenbrunn-AT,PZ 67 (Speyer)-DE,-0.0
+1655,Hagenbrunn-AT,PZ 50 (Köln)-DE,-0.0
+1656,Hagenbrunn-AT,PZ 04 (Radefeld/Leipzig)-DE,0.0
+1657,Hagenbrunn-AT,PZ 90 (Feucht/Nürnberg)-DE,0.0
+1658,Hagenbrunn-AT,PZ 77 (Lahr)-DE,-0.0
+1659,Hagenbrunn-AT,PZ 93 (Regensburg)-DE,0.0
+1660,Hagenbrunn-AT,PZ 21 (Hamburg)-DE,-0.0
+1661,Hagenbrunn-AT,PZ 46 (Dorsten)-DE,-0.0
+1662,Hagenbrunn-AT,PZ 58 (Hagen)-DE,-0.0
+1663,Hagenbrunn-AT,PZ 08 (Neumark)-DE,0.0
+1664,Hagenbrunn-AT,PZ 47 (Krefeld)-DE,-0.0
+1665,Hagenbrunn-AT,PZ 15 (Rüdersdorf)-DE,0.0
+1666,Hagenbrunn-AT,PZ 24 (Neumünster)-DE,-0.0
+1667,Hagenbrunn-AT,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1668,Allhaming-AT,PZ 67 (Speyer)-DE,0.0
+1669,Allhaming-AT,PZ 50 (Köln)-DE,0.0
+1670,Allhaming-AT,PZ 04 (Radefeld/Leipzig)-DE,0.0
+1671,Allhaming-AT,PZ 90 (Feucht/Nürnberg)-DE,0.0
+1672,Allhaming-AT,PZ 77 (Lahr)-DE,0.0
+1673,Allhaming-AT,PZ 93 (Regensburg)-DE,0.0
+1674,Allhaming-AT,PZ 21 (Hamburg)-DE,-0.0
+1675,Allhaming-AT,PZ 46 (Dorsten)-DE,0.0
+1676,Allhaming-AT,PZ 58 (Hagen)-DE,0.0
+1677,Allhaming-AT,PZ 08 (Neumark)-DE,0.0
+1678,Allhaming-AT,PZ 47 (Krefeld)-DE,0.0
+1679,Allhaming-AT,PZ 15 (Rüdersdorf)-DE,0.0
+1680,Allhaming-AT,PZ 24 (Neumünster)-DE,-0.0
+1681,Allhaming-AT,PZ 44 (Bochum) [im Bau]-DE,0.0
+1682,Enns-AT,PZ 67 (Speyer)-DE,0.0
+1683,Enns-AT,PZ 50 (Köln)-DE,0.0
+1684,Enns-AT,PZ 04 (Radefeld/Leipzig)-DE,0.0
+1685,Enns-AT,PZ 90 (Feucht/Nürnberg)-DE,0.0
+1686,Enns-AT,PZ 77 (Lahr)-DE,0.0
+1687,Enns-AT,PZ 93 (Regensburg)-DE,0.0
+1688,Enns-AT,PZ 21 (Hamburg)-DE,-0.0
+1689,Enns-AT,PZ 46 (Dorsten)-DE,0.0
+1690,Enns-AT,PZ 58 (Hagen)-DE,0.0
+1691,Enns-AT,PZ 08 (Neumark)-DE,0.0
+1692,Enns-AT,PZ 47 (Krefeld)-DE,0.0
+1693,Enns-AT,PZ 15 (Rüdersdorf)-DE,0.0
+1694,Enns-AT,PZ 24 (Neumünster)-DE,-0.0
+1695,Enns-AT,PZ 44 (Bochum) [im Bau]-DE,0.0
+1696,Wernberg-AT,PZ 67 (Speyer)-DE,-0.0
+1697,Wernberg-AT,PZ 50 (Köln)-DE,-0.0
+1698,Wernberg-AT,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+1699,Wernberg-AT,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+1700,Wernberg-AT,PZ 77 (Lahr)-DE,-0.0
+1701,Wernberg-AT,PZ 93 (Regensburg)-DE,-0.0
+1702,Wernberg-AT,PZ 21 (Hamburg)-DE,-0.0
+1703,Wernberg-AT,PZ 46 (Dorsten)-DE,-0.0
+1704,Wernberg-AT,PZ 58 (Hagen)-DE,-0.0
+1705,Wernberg-AT,PZ 08 (Neumark)-DE,-0.0
+1706,Wernberg-AT,PZ 47 (Krefeld)-DE,-0.0
+1707,Wernberg-AT,PZ 15 (Rüdersdorf)-DE,-0.0
+1708,Wernberg-AT,PZ 24 (Neumünster)-DE,-0.0
+1709,Wernberg-AT,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1710,Wals-AT,PZ 67 (Speyer)-DE,0.0
+1711,Wals-AT,PZ 50 (Köln)-DE,0.0
+1712,Wals-AT,PZ 04 (Radefeld/Leipzig)-DE,0.0
+1713,Wals-AT,PZ 90 (Feucht/Nürnberg)-DE,0.0
+1714,Wals-AT,PZ 77 (Lahr)-DE,0.0
+1715,Wals-AT,PZ 93 (Regensburg)-DE,932495.0
+1716,Wals-AT,PZ 21 (Hamburg)-DE,-0.0
+1717,Wals-AT,PZ 46 (Dorsten)-DE,0.0
+1718,Wals-AT,PZ 58 (Hagen)-DE,0.0
+1719,Wals-AT,PZ 08 (Neumark)-DE,0.0
+1720,Wals-AT,PZ 47 (Krefeld)-DE,0.0
+1721,Wals-AT,PZ 15 (Rüdersdorf)-DE,-0.0
+1722,Wals-AT,PZ 24 (Neumünster)-DE,-0.0
+1723,Wals-AT,PZ 44 (Bochum) [im Bau]-DE,0.0
+1724,Hall in Tirol-AT,PZ 67 (Speyer)-DE,0.0
+1725,Hall in Tirol-AT,PZ 50 (Köln)-DE,0.0
+1726,Hall in Tirol-AT,PZ 04 (Radefeld/Leipzig)-DE,0.0
+1727,Hall in Tirol-AT,PZ 90 (Feucht/Nürnberg)-DE,0.0
+1728,Hall in Tirol-AT,PZ 77 (Lahr)-DE,0.0
+1729,Hall in Tirol-AT,PZ 93 (Regensburg)-DE,0.0
+1730,Hall in Tirol-AT,PZ 21 (Hamburg)-DE,-0.0
+1731,Hall in Tirol-AT,PZ 46 (Dorsten)-DE,0.0
+1732,Hall in Tirol-AT,PZ 58 (Hagen)-DE,0.0
+1733,Hall in Tirol-AT,PZ 08 (Neumark)-DE,0.0
+1734,Hall in Tirol-AT,PZ 47 (Krefeld)-DE,0.0
+1735,Hall in Tirol-AT,PZ 15 (Rüdersdorf)-DE,-0.0
+1736,Hall in Tirol-AT,PZ 24 (Neumünster)-DE,-0.0
+1737,Hall in Tirol-AT,PZ 44 (Bochum) [im Bau]-DE,0.0
+1738,Liesing-AT,PZ 67 (Speyer)-DE,-0.0
+1739,Liesing-AT,PZ 50 (Köln)-DE,-0.0
+1740,Liesing-AT,PZ 04 (Radefeld/Leipzig)-DE,0.0
+1741,Liesing-AT,PZ 90 (Feucht/Nürnberg)-DE,0.0
+1742,Liesing-AT,PZ 77 (Lahr)-DE,-0.0
+1743,Liesing-AT,PZ 93 (Regensburg)-DE,0.0
+1744,Liesing-AT,PZ 21 (Hamburg)-DE,-0.0
+1745,Liesing-AT,PZ 46 (Dorsten)-DE,-0.0
+1746,Liesing-AT,PZ 58 (Hagen)-DE,-0.0
+1747,Liesing-AT,PZ 08 (Neumark)-DE,0.0
+1748,Liesing-AT,PZ 47 (Krefeld)-DE,-0.0
+1749,Liesing-AT,PZ 15 (Rüdersdorf)-DE,0.0
+1750,Liesing-AT,PZ 24 (Neumünster)-DE,-0.0
+1751,Liesing-AT,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1752,Wundschuh-AT,PZ 67 (Speyer)-DE,-0.0
+1753,Wundschuh-AT,PZ 50 (Köln)-DE,-0.0
+1754,Wundschuh-AT,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+1755,Wundschuh-AT,PZ 90 (Feucht/Nürnberg)-DE,0.0
+1756,Wundschuh-AT,PZ 77 (Lahr)-DE,-0.0
+1757,Wundschuh-AT,PZ 93 (Regensburg)-DE,0.0
+1758,Wundschuh-AT,PZ 21 (Hamburg)-DE,-0.0
+1759,Wundschuh-AT,PZ 46 (Dorsten)-DE,-0.0
+1760,Wundschuh-AT,PZ 58 (Hagen)-DE,-0.0
+1761,Wundschuh-AT,PZ 08 (Neumark)-DE,0.0
+1762,Wundschuh-AT,PZ 47 (Krefeld)-DE,-0.0
+1763,Wundschuh-AT,PZ 15 (Rüdersdorf)-DE,-0.0
+1764,Wundschuh-AT,PZ 24 (Neumünster)-DE,-0.0
+1765,Wundschuh-AT,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1766,Hub Wien I-AT,Eindhoven-Noord-NL,0.0
+1767,Hub Wien I-AT,Zaltbommel-NL,0.0
+1768,Hub Wien II-AT,Eindhoven-Noord-NL,0.0
+1769,Hub Wien II-AT,Zaltbommel-NL,0.0
+1770,Hub Graz-AT,Eindhoven-Noord-NL,0.0
+1771,Hub Graz-AT,Zaltbommel-NL,0.0
+1772,Hagenbrunn-AT,Eindhoven-Noord-NL,0.0
+1773,Hagenbrunn-AT,Zaltbommel-NL,0.0
+1774,Allhaming-AT,Eindhoven-Noord-NL,0.0
+1775,Allhaming-AT,Zaltbommel-NL,0.0
+1776,Enns-AT,Eindhoven-Noord-NL,0.0
+1777,Enns-AT,Zaltbommel-NL,0.0
+1778,Wernberg-AT,Eindhoven-Noord-NL,0.0
+1779,Wernberg-AT,Zaltbommel-NL,0.0
+1780,Wals-AT,Eindhoven-Noord-NL,0.0
+1781,Wals-AT,Zaltbommel-NL,0.0
+1782,Hall in Tirol-AT,Eindhoven-Noord-NL,0.0
+1783,Hall in Tirol-AT,Zaltbommel-NL,0.0
+1784,Liesing-AT,Eindhoven-Noord-NL,0.0
+1785,Liesing-AT,Zaltbommel-NL,0.0
+1786,Wundschuh-AT,Eindhoven-Noord-NL,0.0
+1787,Wundschuh-AT,Zaltbommel-NL,0.0
+1788,Hub Wien I-AT,Suwałki (Ełk)-PL,-0.0
+1789,Hub Wien I-AT,Poznań-PL,-0.0
+1790,Hub Wien I-AT,Zabrze-PL,-0.0
+1791,Hub Wien I-AT,Koninko-PL,0.0
+1792,Hub Wien I-AT,Wrocław-PL,-0.0
+1793,Hub Wien I-AT,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1794,Hub Wien II-AT,Suwałki (Ełk)-PL,-0.0
+1795,Hub Wien II-AT,Poznań-PL,0.0
+1796,Hub Wien II-AT,Zabrze-PL,-0.0
+1797,Hub Wien II-AT,Koninko-PL,0.0
+1798,Hub Wien II-AT,Wrocław-PL,-0.0
+1799,Hub Wien II-AT,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1800,Hub Graz-AT,Suwałki (Ełk)-PL,-0.0
+1801,Hub Graz-AT,Poznań-PL,-0.0
+1802,Hub Graz-AT,Zabrze-PL,0.0
+1803,Hub Graz-AT,Koninko-PL,-0.0
+1804,Hub Graz-AT,Wrocław-PL,-0.0
+1805,Hub Graz-AT,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1806,Hagenbrunn-AT,Suwałki (Ełk)-PL,-0.0
+1807,Hagenbrunn-AT,Poznań-PL,0.0
+1808,Hagenbrunn-AT,Zabrze-PL,37699.0
+1809,Hagenbrunn-AT,Koninko-PL,0.0
+1810,Hagenbrunn-AT,Wrocław-PL,-0.0
+1811,Hagenbrunn-AT,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1812,Allhaming-AT,Suwałki (Ełk)-PL,-0.0
+1813,Allhaming-AT,Poznań-PL,0.0
+1814,Allhaming-AT,Zabrze-PL,-0.0
+1815,Allhaming-AT,Koninko-PL,0.0
+1816,Allhaming-AT,Wrocław-PL,0.0
+1817,Allhaming-AT,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1818,Enns-AT,Suwałki (Ełk)-PL,-0.0
+1819,Enns-AT,Poznań-PL,0.0
+1820,Enns-AT,Zabrze-PL,0.0
+1821,Enns-AT,Koninko-PL,0.0
+1822,Enns-AT,Wrocław-PL,0.0
+1823,Enns-AT,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1824,Wernberg-AT,Suwałki (Ełk)-PL,-0.0
+1825,Wernberg-AT,Poznań-PL,-0.0
+1826,Wernberg-AT,Zabrze-PL,-0.0
+1827,Wernberg-AT,Koninko-PL,-0.0
+1828,Wernberg-AT,Wrocław-PL,-0.0
+1829,Wernberg-AT,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1830,Wals-AT,Suwałki (Ełk)-PL,-0.0
+1831,Wals-AT,Poznań-PL,0.0
+1832,Wals-AT,Zabrze-PL,-0.0
+1833,Wals-AT,Koninko-PL,-0.0
+1834,Wals-AT,Wrocław-PL,0.0
+1835,Wals-AT,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1836,Hall in Tirol-AT,Suwałki (Ełk)-PL,-0.0
+1837,Hall in Tirol-AT,Poznań-PL,-0.0
+1838,Hall in Tirol-AT,Zabrze-PL,-0.0
+1839,Hall in Tirol-AT,Koninko-PL,-0.0
+1840,Hall in Tirol-AT,Wrocław-PL,-0.0
+1841,Hall in Tirol-AT,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1842,Liesing-AT,Suwałki (Ełk)-PL,-0.0
+1843,Liesing-AT,Poznań-PL,-0.0
+1844,Liesing-AT,Zabrze-PL,-0.0
+1845,Liesing-AT,Koninko-PL,0.0
+1846,Liesing-AT,Wrocław-PL,-0.0
+1847,Liesing-AT,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1848,Wundschuh-AT,Suwałki (Ełk)-PL,-0.0
+1849,Wundschuh-AT,Poznań-PL,-0.0
+1850,Wundschuh-AT,Zabrze-PL,0.0
+1851,Wundschuh-AT,Koninko-PL,-0.0
+1852,Wundschuh-AT,Wrocław-PL,-0.0
+1853,Wundschuh-AT,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1854,Brüssel-BE,Hub Wien I-AT,-0.0
+1855,Brüssel-BE,Hub Wien II-AT,-0.0
+1856,Brüssel-BE,Hub Graz-AT,-0.0
+1857,Brüssel-BE,Hagenbrunn-AT,-0.0
+1858,Brüssel-BE,Allhaming-AT,-0.0
+1859,Brüssel-BE,Enns-AT,-0.0
+1860,Brüssel-BE,Wernberg-AT,-0.0
+1861,Brüssel-BE,Wals-AT,6048.0
+1862,Brüssel-BE,Hall in Tirol-AT,-0.0
+1863,Brüssel-BE,Liesing-AT,-0.0
+1864,Brüssel-BE,Wundschuh-AT,-0.0
+1865,Brüssel-BE,Sofia-BG,-0.0
+1866,Brüssel-BE,Brno-CZ,-0.0
+1867,Brüssel-BE,Ostrava-CZ,-0.0
+1868,Brüssel-BE,Krupka 1-CZ,-0.0
+1869,Brüssel-BE,Plzen 1-CZ,0.0
+1870,Brüssel-BE,Hradec Kralove - Brezhrad-CZ,-0.0
+1871,Brüssel-BE,Ricany -CZ,-0.0
+1872,Brüssel-BE,Zlin-CZ,-0.0
+1873,Brüssel-BE,Olomouc-CZ,-0.0
+1874,Brüssel-BE,PZ 67 (Speyer)-DE,199.0
+1875,Brüssel-BE,PZ 50 (Köln)-DE,0.0
+1876,Brüssel-BE,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+1877,Brüssel-BE,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+1878,Brüssel-BE,PZ 77 (Lahr)-DE,0.0
+1879,Brüssel-BE,PZ 93 (Regensburg)-DE,474.0
+1880,Brüssel-BE,PZ 21 (Hamburg)-DE,0.0
+1881,Brüssel-BE,PZ 46 (Dorsten)-DE,-0.0
+1882,Brüssel-BE,PZ 58 (Hagen)-DE,-0.0
+1883,Brüssel-BE,PZ 08 (Neumark)-DE,-0.0
+1884,Brüssel-BE,PZ 47 (Krefeld)-DE,85320.0
+1885,Brüssel-BE,PZ 15 (Rüdersdorf)-DE,-0.0
+1886,Brüssel-BE,PZ 24 (Neumünster)-DE,0.0
+1887,Brüssel-BE,PZ 44 (Bochum) [im Bau]-DE,0.0
+1888,Brüssel-BE,Kolding-DK,1695.0
+1889,Brüssel-BE,Barcelona-ES,-0.0
+1890,Brüssel-BE,Madrid-ES,-0.0
+1891,Brüssel-BE,Araba (Vitoria)-ES,2017.0
+1892,Brüssel-BE,Lieto (Turku)-FL,-0.0
+1893,Brüssel-BE,Vantaa (Helsinki)-FL,0.0
+1894,Brüssel-BE,Combs la ville-FR,3339.0
+1895,Brüssel-BE,Slough-GB,40589.0
+1896,Brüssel-BE,Ryton Gateway-GB,-0.0
+1897,Brüssel-BE,Spata-GR,-0.0
+1898,Brüssel-BE,Zagreb-HR,0.0
+1899,Brüssel-BE,Budapest OLK-HU,-0.0
+1900,Brüssel-BE,Budapest NPKK (OE)-HU,0.0
+1901,Brüssel-BE,Portlaoise-IE,0.0
+1902,Brüssel-BE,Dublin-IE,0.0
+1903,Brüssel-BE,Kaunas-LT,-0.0
+1904,Brüssel-BE,Suwałki (Ełk)-PL,-0.0
+1905,Brüssel-BE,Poznań-PL,7096.0
+1906,Brüssel-BE,Zabrze-PL,-0.0
+1907,Brüssel-BE,Koninko-PL,0.0
+1908,Brüssel-BE,Wrocław-PL,-0.0
+1909,Brüssel-BE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+1910,Brüssel-BE,Lisboa-PT,-0.0
+1911,Brüssel-BE,Göteborg-SE,-0.0
+1912,Brüssel-BE,Stockholm - Västberga-SE,-0.0
+1913,Brüssel-BE,Helsingborg-SE,-0.0
+1914,Brüssel-BE,Arlöv-SE,0.0
+1915,Brüssel-BE,Malmö-SE,-0.0
+1916,Brüssel-BE,Ljubljana-SI,-0.0
+1917,Brüssel-BE,Zilina- Strecno-SK,-0.0
+1918,Brüssel-BE,Ivanka pri Dunaji-SK,-0.0
+1919,Sofia-BG,Hub Wien I-AT,61.0
+1920,Sofia-BG,Hub Wien II-AT,-0.0
+1921,Sofia-BG,Hub Graz-AT,0.0
+1922,Sofia-BG,Hagenbrunn-AT,-0.0
+1923,Sofia-BG,Allhaming-AT,-0.0
+1924,Sofia-BG,Enns-AT,0.0
+1925,Sofia-BG,Wernberg-AT,-0.0
+1926,Sofia-BG,Wals-AT,-0.0
+1927,Sofia-BG,Hall in Tirol-AT,-0.0
+1928,Sofia-BG,Liesing-AT,-0.0
+1929,Sofia-BG,Wundschuh-AT,0.0
+1930,Sofia-BG,PZ 67 (Speyer)-DE,-0.0
+1931,Sofia-BG,PZ 50 (Köln)-DE,-0.0
+1932,Sofia-BG,PZ 04 (Radefeld/Leipzig)-DE,0.0
+1933,Sofia-BG,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+1934,Sofia-BG,PZ 77 (Lahr)-DE,-0.0
+1935,Sofia-BG,PZ 93 (Regensburg)-DE,-0.0
+1936,Sofia-BG,PZ 21 (Hamburg)-DE,-0.0
+1937,Sofia-BG,PZ 46 (Dorsten)-DE,-0.0
+1938,Sofia-BG,PZ 58 (Hagen)-DE,-0.0
+1939,Sofia-BG,PZ 08 (Neumark)-DE,-0.0
+1940,Sofia-BG,PZ 47 (Krefeld)-DE,-0.0
+1941,Sofia-BG,PZ 15 (Rüdersdorf)-DE,-0.0
+1942,Sofia-BG,PZ 24 (Neumünster)-DE,-0.0
+1943,Sofia-BG,PZ 44 (Bochum) [im Bau]-DE,-0.0
+1944,Sofia-BG,Barcelona-ES,-0.0
+1945,Sofia-BG,Madrid-ES,-0.0
+1946,Sofia-BG,Araba (Vitoria)-ES,0.0
+1947,Sofia-BG,Lieto (Turku)-FL,-0.0
+1948,Sofia-BG,Vantaa (Helsinki)-FL,0.0
+1949,Sofia-BG,Kaunas-LT,48.0
+1950,Sofia-BG,Lisboa-PT,-0.0
+1951,Brno-CZ,Hub Wien I-AT,0.0
+1952,Brno-CZ,Hub Wien II-AT,-0.0
+1953,Brno-CZ,Hub Graz-AT,0.0
+1954,Brno-CZ,Hagenbrunn-AT,22601.0
+1955,Brno-CZ,Allhaming-AT,0.0
+1956,Brno-CZ,Enns-AT,0.0
+1957,Brno-CZ,Wernberg-AT,0.0
+1958,Brno-CZ,Wals-AT,0.0
+1959,Brno-CZ,Hall in Tirol-AT,0.0
+1960,Brno-CZ,Liesing-AT,0.0
+1961,Brno-CZ,Wundschuh-AT,0.0
+1962,Ostrava-CZ,Hub Wien I-AT,0.0
+1963,Ostrava-CZ,Hub Wien II-AT,0.0
+1964,Ostrava-CZ,Hub Graz-AT,0.0
+1965,Ostrava-CZ,Hagenbrunn-AT,0.0
+1966,Ostrava-CZ,Allhaming-AT,0.0
+1967,Ostrava-CZ,Enns-AT,0.0
+1968,Ostrava-CZ,Wernberg-AT,0.0
+1969,Ostrava-CZ,Wals-AT,0.0
+1970,Ostrava-CZ,Hall in Tirol-AT,-0.0
+1971,Ostrava-CZ,Liesing-AT,0.0
+1972,Ostrava-CZ,Wundschuh-AT,0.0
+1973,Krupka 1-CZ,Hub Wien I-AT,-0.0
+1974,Krupka 1-CZ,Hub Wien II-AT,-0.0
+1975,Krupka 1-CZ,Hub Graz-AT,-0.0
+1976,Krupka 1-CZ,Hagenbrunn-AT,-0.0
+1977,Krupka 1-CZ,Allhaming-AT,-0.0
+1978,Krupka 1-CZ,Enns-AT,-0.0
+1979,Krupka 1-CZ,Wernberg-AT,-0.0
+1980,Krupka 1-CZ,Wals-AT,-0.0
+1981,Krupka 1-CZ,Hall in Tirol-AT,-0.0
+1982,Krupka 1-CZ,Liesing-AT,-0.0
+1983,Krupka 1-CZ,Wundschuh-AT,-0.0
+1984,Plzen 1-CZ,Hub Wien I-AT,-0.0
+1985,Plzen 1-CZ,Hub Wien II-AT,-0.0
+1986,Plzen 1-CZ,Hub Graz-AT,-0.0
+1987,Plzen 1-CZ,Hagenbrunn-AT,-0.0
+1988,Plzen 1-CZ,Allhaming-AT,-0.0
+1989,Plzen 1-CZ,Enns-AT,-0.0
+1990,Plzen 1-CZ,Wernberg-AT,-0.0
+1991,Plzen 1-CZ,Wals-AT,-0.0
+1992,Plzen 1-CZ,Hall in Tirol-AT,-0.0
+1993,Plzen 1-CZ,Liesing-AT,-0.0
+1994,Plzen 1-CZ,Wundschuh-AT,-0.0
+1995,Hradec Kralove - Brezhrad-CZ,Hub Wien I-AT,0.0
+1996,Hradec Kralove - Brezhrad-CZ,Hub Wien II-AT,0.0
+1997,Hradec Kralove - Brezhrad-CZ,Hub Graz-AT,0.0
+1998,Hradec Kralove - Brezhrad-CZ,Hagenbrunn-AT,0.0
+1999,Hradec Kralove - Brezhrad-CZ,Allhaming-AT,0.0
+2000,Hradec Kralove - Brezhrad-CZ,Enns-AT,0.0
+2001,Hradec Kralove - Brezhrad-CZ,Wernberg-AT,0.0
+2002,Hradec Kralove - Brezhrad-CZ,Wals-AT,0.0
+2003,Hradec Kralove - Brezhrad-CZ,Hall in Tirol-AT,0.0
+2004,Hradec Kralove - Brezhrad-CZ,Liesing-AT,0.0
+2005,Hradec Kralove - Brezhrad-CZ,Wundschuh-AT,0.0
+2006,Ricany -CZ,Hub Wien I-AT,-0.0
+2007,Ricany -CZ,Hub Wien II-AT,-0.0
+2008,Ricany -CZ,Hub Graz-AT,-0.0
+2009,Ricany -CZ,Hagenbrunn-AT,-0.0
+2010,Ricany -CZ,Allhaming-AT,-0.0
+2011,Ricany -CZ,Enns-AT,0.0
+2012,Ricany -CZ,Wernberg-AT,-0.0
+2013,Ricany -CZ,Wals-AT,-0.0
+2014,Ricany -CZ,Hall in Tirol-AT,-0.0
+2015,Ricany -CZ,Liesing-AT,-0.0
+2016,Ricany -CZ,Wundschuh-AT,-0.0
+2017,Zlin-CZ,Hub Wien I-AT,0.0
+2018,Zlin-CZ,Hub Wien II-AT,0.0
+2019,Zlin-CZ,Hub Graz-AT,0.0
+2020,Zlin-CZ,Hagenbrunn-AT,0.0
+2021,Zlin-CZ,Allhaming-AT,0.0
+2022,Zlin-CZ,Enns-AT,0.0
+2023,Zlin-CZ,Wernberg-AT,0.0
+2024,Zlin-CZ,Wals-AT,0.0
+2025,Zlin-CZ,Hall in Tirol-AT,0.0
+2026,Zlin-CZ,Liesing-AT,0.0
+2027,Zlin-CZ,Wundschuh-AT,0.0
+2028,Olomouc-CZ,Hub Wien I-AT,0.0
+2029,Olomouc-CZ,Hub Wien II-AT,0.0
+2030,Olomouc-CZ,Hub Graz-AT,0.0
+2031,Olomouc-CZ,Hagenbrunn-AT,0.0
+2032,Olomouc-CZ,Allhaming-AT,0.0
+2033,Olomouc-CZ,Enns-AT,0.0
+2034,Olomouc-CZ,Wernberg-AT,0.0
+2035,Olomouc-CZ,Wals-AT,0.0
+2036,Olomouc-CZ,Hall in Tirol-AT,0.0
+2037,Olomouc-CZ,Liesing-AT,0.0
+2038,Olomouc-CZ,Wundschuh-AT,0.0
+2039,Brno-CZ,PZ 67 (Speyer)-DE,-0.0
+2040,Brno-CZ,PZ 50 (Köln)-DE,-0.0
+2041,Brno-CZ,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+2042,Brno-CZ,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+2043,Brno-CZ,PZ 77 (Lahr)-DE,-0.0
+2044,Brno-CZ,PZ 93 (Regensburg)-DE,-0.0
+2045,Brno-CZ,PZ 21 (Hamburg)-DE,-0.0
+2046,Brno-CZ,PZ 46 (Dorsten)-DE,-0.0
+2047,Brno-CZ,PZ 58 (Hagen)-DE,-0.0
+2048,Brno-CZ,PZ 08 (Neumark)-DE,-0.0
+2049,Brno-CZ,PZ 47 (Krefeld)-DE,-0.0
+2050,Brno-CZ,PZ 15 (Rüdersdorf)-DE,-0.0
+2051,Brno-CZ,PZ 24 (Neumünster)-DE,-0.0
+2052,Brno-CZ,PZ 44 (Bochum) [im Bau]-DE,-0.0
+2053,Ostrava-CZ,PZ 67 (Speyer)-DE,-0.0
+2054,Ostrava-CZ,PZ 50 (Köln)-DE,-0.0
+2055,Ostrava-CZ,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+2056,Ostrava-CZ,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+2057,Ostrava-CZ,PZ 77 (Lahr)-DE,-0.0
+2058,Ostrava-CZ,PZ 93 (Regensburg)-DE,-0.0
+2059,Ostrava-CZ,PZ 21 (Hamburg)-DE,-0.0
+2060,Ostrava-CZ,PZ 46 (Dorsten)-DE,-0.0
+2061,Ostrava-CZ,PZ 58 (Hagen)-DE,-0.0
+2062,Ostrava-CZ,PZ 08 (Neumark)-DE,-0.0
+2063,Ostrava-CZ,PZ 47 (Krefeld)-DE,-0.0
+2064,Ostrava-CZ,PZ 15 (Rüdersdorf)-DE,-0.0
+2065,Ostrava-CZ,PZ 24 (Neumünster)-DE,-0.0
+2066,Ostrava-CZ,PZ 44 (Bochum) [im Bau]-DE,-0.0
+2067,Krupka 1-CZ,PZ 67 (Speyer)-DE,-0.0
+2068,Krupka 1-CZ,PZ 50 (Köln)-DE,-0.0
+2069,Krupka 1-CZ,PZ 04 (Radefeld/Leipzig)-DE,199103.0
+2070,Krupka 1-CZ,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+2071,Krupka 1-CZ,PZ 77 (Lahr)-DE,-0.0
+2072,Krupka 1-CZ,PZ 93 (Regensburg)-DE,-0.0
+2073,Krupka 1-CZ,PZ 21 (Hamburg)-DE,-0.0
+2074,Krupka 1-CZ,PZ 46 (Dorsten)-DE,-0.0
+2075,Krupka 1-CZ,PZ 58 (Hagen)-DE,0.0
+2076,Krupka 1-CZ,PZ 08 (Neumark)-DE,-0.0
+2077,Krupka 1-CZ,PZ 47 (Krefeld)-DE,0.0
+2078,Krupka 1-CZ,PZ 15 (Rüdersdorf)-DE,211.0
+2079,Krupka 1-CZ,PZ 24 (Neumünster)-DE,-0.0
+2080,Krupka 1-CZ,PZ 44 (Bochum) [im Bau]-DE,-0.0
+2081,Plzen 1-CZ,PZ 67 (Speyer)-DE,-0.0
+2082,Plzen 1-CZ,PZ 50 (Köln)-DE,-0.0
+2083,Plzen 1-CZ,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+2084,Plzen 1-CZ,PZ 90 (Feucht/Nürnberg)-DE,0.0
+2085,Plzen 1-CZ,PZ 77 (Lahr)-DE,-0.0
+2086,Plzen 1-CZ,PZ 93 (Regensburg)-DE,-0.0
+2087,Plzen 1-CZ,PZ 21 (Hamburg)-DE,-0.0
+2088,Plzen 1-CZ,PZ 46 (Dorsten)-DE,-0.0
+2089,Plzen 1-CZ,PZ 58 (Hagen)-DE,-0.0
+2090,Plzen 1-CZ,PZ 08 (Neumark)-DE,-0.0
+2091,Plzen 1-CZ,PZ 47 (Krefeld)-DE,-0.0
+2092,Plzen 1-CZ,PZ 15 (Rüdersdorf)-DE,0.0
+2093,Plzen 1-CZ,PZ 24 (Neumünster)-DE,-0.0
+2094,Plzen 1-CZ,PZ 44 (Bochum) [im Bau]-DE,-0.0
+2095,Hradec Kralove - Brezhrad-CZ,PZ 67 (Speyer)-DE,-0.0
+2096,Hradec Kralove - Brezhrad-CZ,PZ 50 (Köln)-DE,-0.0
+2097,Hradec Kralove - Brezhrad-CZ,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+2098,Hradec Kralove - Brezhrad-CZ,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+2099,Hradec Kralove - Brezhrad-CZ,PZ 77 (Lahr)-DE,-0.0
+2100,Hradec Kralove - Brezhrad-CZ,PZ 93 (Regensburg)-DE,-0.0
+2101,Hradec Kralove - Brezhrad-CZ,PZ 21 (Hamburg)-DE,-0.0
+2102,Hradec Kralove - Brezhrad-CZ,PZ 46 (Dorsten)-DE,-0.0
+2103,Hradec Kralove - Brezhrad-CZ,PZ 58 (Hagen)-DE,0.0
+2104,Hradec Kralove - Brezhrad-CZ,PZ 08 (Neumark)-DE,-0.0
+2105,Hradec Kralove - Brezhrad-CZ,PZ 47 (Krefeld)-DE,-0.0
+2106,Hradec Kralove - Brezhrad-CZ,PZ 15 (Rüdersdorf)-DE,-0.0
+2107,Hradec Kralove - Brezhrad-CZ,PZ 24 (Neumünster)-DE,-0.0
+2108,Hradec Kralove - Brezhrad-CZ,PZ 44 (Bochum) [im Bau]-DE,-0.0
+2109,Ricany -CZ,PZ 67 (Speyer)-DE,-0.0
+2110,Ricany -CZ,PZ 50 (Köln)-DE,-0.0
+2111,Ricany -CZ,PZ 04 (Radefeld/Leipzig)-DE,0.0
+2112,Ricany -CZ,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+2113,Ricany -CZ,PZ 77 (Lahr)-DE,-0.0
+2114,Ricany -CZ,PZ 93 (Regensburg)-DE,-0.0
+2115,Ricany -CZ,PZ 21 (Hamburg)-DE,-0.0
+2116,Ricany -CZ,PZ 46 (Dorsten)-DE,-0.0
+2117,Ricany -CZ,PZ 58 (Hagen)-DE,0.0
+2118,Ricany -CZ,PZ 08 (Neumark)-DE,-0.0
+2119,Ricany -CZ,PZ 47 (Krefeld)-DE,-0.0
+2120,Ricany -CZ,PZ 15 (Rüdersdorf)-DE,0.0
+2121,Ricany -CZ,PZ 24 (Neumünster)-DE,-0.0
+2122,Ricany -CZ,PZ 44 (Bochum) [im Bau]-DE,-0.0
+2123,Zlin-CZ,PZ 67 (Speyer)-DE,-0.0
+2124,Zlin-CZ,PZ 50 (Köln)-DE,-0.0
+2125,Zlin-CZ,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+2126,Zlin-CZ,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+2127,Zlin-CZ,PZ 77 (Lahr)-DE,-0.0
+2128,Zlin-CZ,PZ 93 (Regensburg)-DE,-0.0
+2129,Zlin-CZ,PZ 21 (Hamburg)-DE,-0.0
+2130,Zlin-CZ,PZ 46 (Dorsten)-DE,-0.0
+2131,Zlin-CZ,PZ 58 (Hagen)-DE,-0.0
+2132,Zlin-CZ,PZ 08 (Neumark)-DE,-0.0
+2133,Zlin-CZ,PZ 47 (Krefeld)-DE,-0.0
+2134,Zlin-CZ,PZ 15 (Rüdersdorf)-DE,-0.0
+2135,Zlin-CZ,PZ 24 (Neumünster)-DE,-0.0
+2136,Zlin-CZ,PZ 44 (Bochum) [im Bau]-DE,-0.0
+2137,Olomouc-CZ,PZ 67 (Speyer)-DE,-0.0
+2138,Olomouc-CZ,PZ 50 (Köln)-DE,-0.0
+2139,Olomouc-CZ,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+2140,Olomouc-CZ,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+2141,Olomouc-CZ,PZ 77 (Lahr)-DE,-0.0
+2142,Olomouc-CZ,PZ 93 (Regensburg)-DE,-0.0
+2143,Olomouc-CZ,PZ 21 (Hamburg)-DE,-0.0
+2144,Olomouc-CZ,PZ 46 (Dorsten)-DE,-0.0
+2145,Olomouc-CZ,PZ 58 (Hagen)-DE,-0.0
+2146,Olomouc-CZ,PZ 08 (Neumark)-DE,-0.0
+2147,Olomouc-CZ,PZ 47 (Krefeld)-DE,-0.0
+2148,Olomouc-CZ,PZ 15 (Rüdersdorf)-DE,0.0
+2149,Olomouc-CZ,PZ 24 (Neumünster)-DE,-0.0
+2150,Olomouc-CZ,PZ 44 (Bochum) [im Bau]-DE,-0.0
+2151,Brno-CZ,Barcelona-ES,0.0
+2152,Brno-CZ,Madrid-ES,-0.0
+2153,Brno-CZ,Araba (Vitoria)-ES,-0.0
+2154,Ostrava-CZ,Barcelona-ES,-0.0
+2155,Ostrava-CZ,Madrid-ES,-0.0
+2156,Ostrava-CZ,Araba (Vitoria)-ES,-0.0
+2157,Krupka 1-CZ,Barcelona-ES,0.0
+2158,Krupka 1-CZ,Madrid-ES,-0.0
+2159,Krupka 1-CZ,Araba (Vitoria)-ES,-0.0
+2160,Plzen 1-CZ,Barcelona-ES,5956.0
+2161,Plzen 1-CZ,Madrid-ES,-0.0
+2162,Plzen 1-CZ,Araba (Vitoria)-ES,0.0
+2163,Hradec Kralove - Brezhrad-CZ,Barcelona-ES,0.0
+2164,Hradec Kralove - Brezhrad-CZ,Madrid-ES,-0.0
+2165,Hradec Kralove - Brezhrad-CZ,Araba (Vitoria)-ES,-0.0
+2166,Ricany -CZ,Barcelona-ES,-0.0
+2167,Ricany -CZ,Madrid-ES,-0.0
+2168,Ricany -CZ,Araba (Vitoria)-ES,0.0
+2169,Zlin-CZ,Barcelona-ES,-0.0
+2170,Zlin-CZ,Madrid-ES,-0.0
+2171,Zlin-CZ,Araba (Vitoria)-ES,-0.0
+2172,Olomouc-CZ,Barcelona-ES,0.0
+2173,Olomouc-CZ,Madrid-ES,-0.0
+2174,Olomouc-CZ,Araba (Vitoria)-ES,-0.0
+2175,Brno-CZ,Lieto (Turku)-FL,-0.0
+2176,Brno-CZ,Vantaa (Helsinki)-FL,-0.0
+2177,Ostrava-CZ,Lieto (Turku)-FL,-0.0
+2178,Ostrava-CZ,Vantaa (Helsinki)-FL,-0.0
+2179,Krupka 1-CZ,Lieto (Turku)-FL,-0.0
+2180,Krupka 1-CZ,Vantaa (Helsinki)-FL,-0.0
+2181,Plzen 1-CZ,Lieto (Turku)-FL,-0.0
+2182,Plzen 1-CZ,Vantaa (Helsinki)-FL,-0.0
+2183,Hradec Kralove - Brezhrad-CZ,Lieto (Turku)-FL,-0.0
+2184,Hradec Kralove - Brezhrad-CZ,Vantaa (Helsinki)-FL,-0.0
+2185,Ricany -CZ,Lieto (Turku)-FL,-0.0
+2186,Ricany -CZ,Vantaa (Helsinki)-FL,-0.0
+2187,Zlin-CZ,Lieto (Turku)-FL,-0.0
+2188,Zlin-CZ,Vantaa (Helsinki)-FL,-0.0
+2189,Olomouc-CZ,Lieto (Turku)-FL,-0.0
+2190,Olomouc-CZ,Vantaa (Helsinki)-FL,-0.0
+2191,Brno-CZ,Budapest OLK-HU,28845.0
+2192,Brno-CZ,Budapest NPKK (OE)-HU,-0.0
+2193,Ostrava-CZ,Budapest OLK-HU,-0.0
+2194,Ostrava-CZ,Budapest NPKK (OE)-HU,-0.0
+2195,Krupka 1-CZ,Budapest OLK-HU,-0.0
+2196,Krupka 1-CZ,Budapest NPKK (OE)-HU,-0.0
+2197,Plzen 1-CZ,Budapest OLK-HU,-0.0
+2198,Plzen 1-CZ,Budapest NPKK (OE)-HU,-0.0
+2199,Hradec Kralove - Brezhrad-CZ,Budapest OLK-HU,-0.0
+2200,Hradec Kralove - Brezhrad-CZ,Budapest NPKK (OE)-HU,-0.0
+2201,Ricany -CZ,Budapest OLK-HU,-0.0
+2202,Ricany -CZ,Budapest NPKK (OE)-HU,0.0
+2203,Zlin-CZ,Budapest OLK-HU,-0.0
+2204,Zlin-CZ,Budapest NPKK (OE)-HU,-0.0
+2205,Olomouc-CZ,Budapest OLK-HU,-0.0
+2206,Olomouc-CZ,Budapest NPKK (OE)-HU,-0.0
+2207,Brno-CZ,Portlaoise-IE,-0.0
+2208,Brno-CZ,Dublin-IE,0.0
+2209,Ostrava-CZ,Portlaoise-IE,-0.0
+2210,Ostrava-CZ,Dublin-IE,0.0
+2211,Krupka 1-CZ,Portlaoise-IE,-0.0
+2212,Krupka 1-CZ,Dublin-IE,0.0
+2213,Plzen 1-CZ,Portlaoise-IE,0.0
+2214,Plzen 1-CZ,Dublin-IE,0.0
+2215,Hradec Kralove - Brezhrad-CZ,Portlaoise-IE,0.0
+2216,Hradec Kralove - Brezhrad-CZ,Dublin-IE,0.0
+2217,Ricany -CZ,Portlaoise-IE,-0.0
+2218,Ricany -CZ,Dublin-IE,0.0
+2219,Zlin-CZ,Portlaoise-IE,-0.0
+2220,Zlin-CZ,Dublin-IE,-0.0
+2221,Olomouc-CZ,Portlaoise-IE,-0.0
+2222,Olomouc-CZ,Dublin-IE,0.0
+2223,Brno-CZ,Kaunas-LT,-0.0
+2224,Ostrava-CZ,Kaunas-LT,-0.0
+2225,Krupka 1-CZ,Kaunas-LT,-0.0
+2226,Plzen 1-CZ,Kaunas-LT,-0.0
+2227,Hradec Kralove - Brezhrad-CZ,Kaunas-LT,-0.0
+2228,Ricany -CZ,Kaunas-LT,-0.0
+2229,Zlin-CZ,Kaunas-LT,-0.0
+2230,Olomouc-CZ,Kaunas-LT,-0.0
+2231,Brno-CZ,Suwałki (Ełk)-PL,-0.0
+2232,Brno-CZ,Poznań-PL,-0.0
+2233,Brno-CZ,Zabrze-PL,0.0
+2234,Brno-CZ,Koninko-PL,0.0
+2235,Brno-CZ,Wrocław-PL,-0.0
+2236,Brno-CZ,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2237,Ostrava-CZ,Suwałki (Ełk)-PL,0.0
+2238,Ostrava-CZ,Poznań-PL,-0.0
+2239,Ostrava-CZ,Zabrze-PL,61940.0
+2240,Ostrava-CZ,Koninko-PL,0.0
+2241,Ostrava-CZ,Wrocław-PL,-0.0
+2242,Ostrava-CZ,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2243,Krupka 1-CZ,Suwałki (Ełk)-PL,-0.0
+2244,Krupka 1-CZ,Poznań-PL,-0.0
+2245,Krupka 1-CZ,Zabrze-PL,-0.0
+2246,Krupka 1-CZ,Koninko-PL,-0.0
+2247,Krupka 1-CZ,Wrocław-PL,0.0
+2248,Krupka 1-CZ,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2249,Plzen 1-CZ,Suwałki (Ełk)-PL,-0.0
+2250,Plzen 1-CZ,Poznań-PL,0.0
+2251,Plzen 1-CZ,Zabrze-PL,-0.0
+2252,Plzen 1-CZ,Koninko-PL,-0.0
+2253,Plzen 1-CZ,Wrocław-PL,-0.0
+2254,Plzen 1-CZ,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2255,Hradec Kralove - Brezhrad-CZ,Suwałki (Ełk)-PL,-0.0
+2256,Hradec Kralove - Brezhrad-CZ,Poznań-PL,-0.0
+2257,Hradec Kralove - Brezhrad-CZ,Zabrze-PL,-0.0
+2258,Hradec Kralove - Brezhrad-CZ,Koninko-PL,-0.0
+2259,Hradec Kralove - Brezhrad-CZ,Wrocław-PL,0.0
+2260,Hradec Kralove - Brezhrad-CZ,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2261,Ricany -CZ,Suwałki (Ełk)-PL,-0.0
+2262,Ricany -CZ,Poznań-PL,-0.0
+2263,Ricany -CZ,Zabrze-PL,-0.0
+2264,Ricany -CZ,Koninko-PL,0.0
+2265,Ricany -CZ,Wrocław-PL,0.0
+2266,Ricany -CZ,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2267,Zlin-CZ,Suwałki (Ełk)-PL,-0.0
+2268,Zlin-CZ,Poznań-PL,0.0
+2269,Zlin-CZ,Zabrze-PL,0.0
+2270,Zlin-CZ,Koninko-PL,0.0
+2271,Zlin-CZ,Wrocław-PL,-0.0
+2272,Zlin-CZ,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2273,Olomouc-CZ,Suwałki (Ełk)-PL,-0.0
+2274,Olomouc-CZ,Poznań-PL,0.0
+2275,Olomouc-CZ,Zabrze-PL,0.0
+2276,Olomouc-CZ,Koninko-PL,-0.0
+2277,Olomouc-CZ,Wrocław-PL,-0.0
+2278,Olomouc-CZ,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2279,Brno-CZ,Lisboa-PT,-0.0
+2280,Ostrava-CZ,Lisboa-PT,-0.0
+2281,Krupka 1-CZ,Lisboa-PT,0.0
+2282,Plzen 1-CZ,Lisboa-PT,-0.0
+2283,Hradec Kralove - Brezhrad-CZ,Lisboa-PT,-0.0
+2284,Ricany -CZ,Lisboa-PT,0.0
+2285,Zlin-CZ,Lisboa-PT,-0.0
+2286,Olomouc-CZ,Lisboa-PT,-0.0
+2287,Brno-CZ,Göteborg-SE,-0.0
+2288,Brno-CZ,Stockholm - Västberga-SE,-0.0
+2289,Brno-CZ,Helsingborg-SE,-0.0
+2290,Brno-CZ,Arlöv-SE,-0.0
+2291,Brno-CZ,Malmö-SE,-0.0
+2292,Ostrava-CZ,Göteborg-SE,-0.0
+2293,Ostrava-CZ,Stockholm - Västberga-SE,-0.0
+2294,Ostrava-CZ,Helsingborg-SE,-0.0
+2295,Ostrava-CZ,Arlöv-SE,-0.0
+2296,Ostrava-CZ,Malmö-SE,-0.0
+2297,Krupka 1-CZ,Göteborg-SE,-0.0
+2298,Krupka 1-CZ,Stockholm - Västberga-SE,-0.0
+2299,Krupka 1-CZ,Helsingborg-SE,-0.0
+2300,Krupka 1-CZ,Arlöv-SE,0.0
+2301,Krupka 1-CZ,Malmö-SE,-0.0
+2302,Plzen 1-CZ,Göteborg-SE,-0.0
+2303,Plzen 1-CZ,Stockholm - Västberga-SE,-0.0
+2304,Plzen 1-CZ,Helsingborg-SE,-0.0
+2305,Plzen 1-CZ,Arlöv-SE,-0.0
+2306,Plzen 1-CZ,Malmö-SE,-0.0
+2307,Hradec Kralove - Brezhrad-CZ,Göteborg-SE,-0.0
+2308,Hradec Kralove - Brezhrad-CZ,Stockholm - Västberga-SE,-0.0
+2309,Hradec Kralove - Brezhrad-CZ,Helsingborg-SE,-0.0
+2310,Hradec Kralove - Brezhrad-CZ,Arlöv-SE,-0.0
+2311,Hradec Kralove - Brezhrad-CZ,Malmö-SE,-0.0
+2312,Ricany -CZ,Göteborg-SE,-0.0
+2313,Ricany -CZ,Stockholm - Västberga-SE,-0.0
+2314,Ricany -CZ,Helsingborg-SE,-0.0
+2315,Ricany -CZ,Arlöv-SE,-0.0
+2316,Ricany -CZ,Malmö-SE,-0.0
+2317,Zlin-CZ,Göteborg-SE,-0.0
+2318,Zlin-CZ,Stockholm - Västberga-SE,-0.0
+2319,Zlin-CZ,Helsingborg-SE,-0.0
+2320,Zlin-CZ,Arlöv-SE,-0.0
+2321,Zlin-CZ,Malmö-SE,-0.0
+2322,Olomouc-CZ,Göteborg-SE,-0.0
+2323,Olomouc-CZ,Stockholm - Västberga-SE,-0.0
+2324,Olomouc-CZ,Helsingborg-SE,-0.0
+2325,Olomouc-CZ,Arlöv-SE,-0.0
+2326,Olomouc-CZ,Malmö-SE,-0.0
+2327,PZ 67 (Speyer)-DE,Hub Wien I-AT,-0.0
+2328,PZ 67 (Speyer)-DE,Hub Wien II-AT,-0.0
+2329,PZ 67 (Speyer)-DE,Hub Graz-AT,-0.0
+2330,PZ 67 (Speyer)-DE,Hagenbrunn-AT,-0.0
+2331,PZ 67 (Speyer)-DE,Allhaming-AT,-0.0
+2332,PZ 67 (Speyer)-DE,Enns-AT,-0.0
+2333,PZ 67 (Speyer)-DE,Wernberg-AT,-0.0
+2334,PZ 67 (Speyer)-DE,Wals-AT,0.0
+2335,PZ 67 (Speyer)-DE,Hall in Tirol-AT,-0.0
+2336,PZ 67 (Speyer)-DE,Liesing-AT,-0.0
+2337,PZ 67 (Speyer)-DE,Wundschuh-AT,-0.0
+2338,PZ 50 (Köln)-DE,Hub Wien I-AT,-0.0
+2339,PZ 50 (Köln)-DE,Hub Wien II-AT,-0.0
+2340,PZ 50 (Köln)-DE,Hub Graz-AT,-0.0
+2341,PZ 50 (Köln)-DE,Hagenbrunn-AT,-0.0
+2342,PZ 50 (Köln)-DE,Allhaming-AT,-0.0
+2343,PZ 50 (Köln)-DE,Enns-AT,-0.0
+2344,PZ 50 (Köln)-DE,Wernberg-AT,-0.0
+2345,PZ 50 (Köln)-DE,Wals-AT,-0.0
+2346,PZ 50 (Köln)-DE,Hall in Tirol-AT,-0.0
+2347,PZ 50 (Köln)-DE,Liesing-AT,-0.0
+2348,PZ 50 (Köln)-DE,Wundschuh-AT,-0.0
+2349,PZ 04 (Radefeld/Leipzig)-DE,Hub Wien I-AT,-0.0
+2350,PZ 04 (Radefeld/Leipzig)-DE,Hub Wien II-AT,-0.0
+2351,PZ 04 (Radefeld/Leipzig)-DE,Hub Graz-AT,-0.0
+2352,PZ 04 (Radefeld/Leipzig)-DE,Hagenbrunn-AT,-0.0
+2353,PZ 04 (Radefeld/Leipzig)-DE,Allhaming-AT,-0.0
+2354,PZ 04 (Radefeld/Leipzig)-DE,Enns-AT,-0.0
+2355,PZ 04 (Radefeld/Leipzig)-DE,Wernberg-AT,-0.0
+2356,PZ 04 (Radefeld/Leipzig)-DE,Wals-AT,-0.0
+2357,PZ 04 (Radefeld/Leipzig)-DE,Hall in Tirol-AT,-0.0
+2358,PZ 04 (Radefeld/Leipzig)-DE,Liesing-AT,-0.0
+2359,PZ 04 (Radefeld/Leipzig)-DE,Wundschuh-AT,-0.0
+2360,PZ 90 (Feucht/Nürnberg)-DE,Hub Wien I-AT,432.0
+2361,PZ 90 (Feucht/Nürnberg)-DE,Hub Wien II-AT,-0.0
+2362,PZ 90 (Feucht/Nürnberg)-DE,Hub Graz-AT,-0.0
+2363,PZ 90 (Feucht/Nürnberg)-DE,Hagenbrunn-AT,-0.0
+2364,PZ 90 (Feucht/Nürnberg)-DE,Allhaming-AT,0.0
+2365,PZ 90 (Feucht/Nürnberg)-DE,Enns-AT,-0.0
+2366,PZ 90 (Feucht/Nürnberg)-DE,Wernberg-AT,-0.0
+2367,PZ 90 (Feucht/Nürnberg)-DE,Wals-AT,-0.0
+2368,PZ 90 (Feucht/Nürnberg)-DE,Hall in Tirol-AT,-0.0
+2369,PZ 90 (Feucht/Nürnberg)-DE,Liesing-AT,-0.0
+2370,PZ 90 (Feucht/Nürnberg)-DE,Wundschuh-AT,0.0
+2371,PZ 77 (Lahr)-DE,Hub Wien I-AT,-0.0
+2372,PZ 77 (Lahr)-DE,Hub Wien II-AT,-0.0
+2373,PZ 77 (Lahr)-DE,Hub Graz-AT,-0.0
+2374,PZ 77 (Lahr)-DE,Hagenbrunn-AT,-0.0
+2375,PZ 77 (Lahr)-DE,Allhaming-AT,-0.0
+2376,PZ 77 (Lahr)-DE,Enns-AT,-0.0
+2377,PZ 77 (Lahr)-DE,Wernberg-AT,-0.0
+2378,PZ 77 (Lahr)-DE,Wals-AT,-0.0
+2379,PZ 77 (Lahr)-DE,Hall in Tirol-AT,-0.0
+2380,PZ 77 (Lahr)-DE,Liesing-AT,-0.0
+2381,PZ 77 (Lahr)-DE,Wundschuh-AT,-0.0
+2382,PZ 93 (Regensburg)-DE,Hub Wien I-AT,-0.0
+2383,PZ 93 (Regensburg)-DE,Hub Wien II-AT,-0.0
+2384,PZ 93 (Regensburg)-DE,Hub Graz-AT,-0.0
+2385,PZ 93 (Regensburg)-DE,Hagenbrunn-AT,-0.0
+2386,PZ 93 (Regensburg)-DE,Allhaming-AT,-0.0
+2387,PZ 93 (Regensburg)-DE,Enns-AT,-0.0
+2388,PZ 93 (Regensburg)-DE,Wernberg-AT,0.0
+2389,PZ 93 (Regensburg)-DE,Wals-AT,89665.0
+2390,PZ 93 (Regensburg)-DE,Hall in Tirol-AT,-0.0
+2391,PZ 93 (Regensburg)-DE,Liesing-AT,-0.0
+2392,PZ 93 (Regensburg)-DE,Wundschuh-AT,-0.0
+2393,PZ 21 (Hamburg)-DE,Hub Wien I-AT,0.0
+2394,PZ 21 (Hamburg)-DE,Hub Wien II-AT,-0.0
+2395,PZ 21 (Hamburg)-DE,Hub Graz-AT,-0.0
+2396,PZ 21 (Hamburg)-DE,Hagenbrunn-AT,-0.0
+2397,PZ 21 (Hamburg)-DE,Allhaming-AT,-0.0
+2398,PZ 21 (Hamburg)-DE,Enns-AT,-0.0
+2399,PZ 21 (Hamburg)-DE,Wernberg-AT,-0.0
+2400,PZ 21 (Hamburg)-DE,Wals-AT,-0.0
+2401,PZ 21 (Hamburg)-DE,Hall in Tirol-AT,-0.0
+2402,PZ 21 (Hamburg)-DE,Liesing-AT,-0.0
+2403,PZ 21 (Hamburg)-DE,Wundschuh-AT,-0.0
+2404,PZ 46 (Dorsten)-DE,Hub Wien I-AT,-0.0
+2405,PZ 46 (Dorsten)-DE,Hub Wien II-AT,-0.0
+2406,PZ 46 (Dorsten)-DE,Hub Graz-AT,-0.0
+2407,PZ 46 (Dorsten)-DE,Hagenbrunn-AT,-0.0
+2408,PZ 46 (Dorsten)-DE,Allhaming-AT,-0.0
+2409,PZ 46 (Dorsten)-DE,Enns-AT,-0.0
+2410,PZ 46 (Dorsten)-DE,Wernberg-AT,-0.0
+2411,PZ 46 (Dorsten)-DE,Wals-AT,-0.0
+2412,PZ 46 (Dorsten)-DE,Hall in Tirol-AT,-0.0
+2413,PZ 46 (Dorsten)-DE,Liesing-AT,-0.0
+2414,PZ 46 (Dorsten)-DE,Wundschuh-AT,-0.0
+2415,PZ 58 (Hagen)-DE,Hub Wien I-AT,-0.0
+2416,PZ 58 (Hagen)-DE,Hub Wien II-AT,-0.0
+2417,PZ 58 (Hagen)-DE,Hub Graz-AT,-0.0
+2418,PZ 58 (Hagen)-DE,Hagenbrunn-AT,-0.0
+2419,PZ 58 (Hagen)-DE,Allhaming-AT,-0.0
+2420,PZ 58 (Hagen)-DE,Enns-AT,-0.0
+2421,PZ 58 (Hagen)-DE,Wernberg-AT,-0.0
+2422,PZ 58 (Hagen)-DE,Wals-AT,-0.0
+2423,PZ 58 (Hagen)-DE,Hall in Tirol-AT,-0.0
+2424,PZ 58 (Hagen)-DE,Liesing-AT,-0.0
+2425,PZ 58 (Hagen)-DE,Wundschuh-AT,-0.0
+2426,PZ 08 (Neumark)-DE,Hub Wien I-AT,-0.0
+2427,PZ 08 (Neumark)-DE,Hub Wien II-AT,-0.0
+2428,PZ 08 (Neumark)-DE,Hub Graz-AT,-0.0
+2429,PZ 08 (Neumark)-DE,Hagenbrunn-AT,-0.0
+2430,PZ 08 (Neumark)-DE,Allhaming-AT,-0.0
+2431,PZ 08 (Neumark)-DE,Enns-AT,-0.0
+2432,PZ 08 (Neumark)-DE,Wernberg-AT,-0.0
+2433,PZ 08 (Neumark)-DE,Wals-AT,-0.0
+2434,PZ 08 (Neumark)-DE,Hall in Tirol-AT,-0.0
+2435,PZ 08 (Neumark)-DE,Liesing-AT,-0.0
+2436,PZ 08 (Neumark)-DE,Wundschuh-AT,-0.0
+2437,PZ 47 (Krefeld)-DE,Hub Wien I-AT,-0.0
+2438,PZ 47 (Krefeld)-DE,Hub Wien II-AT,-0.0
+2439,PZ 47 (Krefeld)-DE,Hub Graz-AT,-0.0
+2440,PZ 47 (Krefeld)-DE,Hagenbrunn-AT,-0.0
+2441,PZ 47 (Krefeld)-DE,Allhaming-AT,-0.0
+2442,PZ 47 (Krefeld)-DE,Enns-AT,-0.0
+2443,PZ 47 (Krefeld)-DE,Wernberg-AT,-0.0
+2444,PZ 47 (Krefeld)-DE,Wals-AT,-0.0
+2445,PZ 47 (Krefeld)-DE,Hall in Tirol-AT,-0.0
+2446,PZ 47 (Krefeld)-DE,Liesing-AT,-0.0
+2447,PZ 47 (Krefeld)-DE,Wundschuh-AT,-0.0
+2448,PZ 15 (Rüdersdorf)-DE,Hub Wien I-AT,-0.0
+2449,PZ 15 (Rüdersdorf)-DE,Hub Wien II-AT,-0.0
+2450,PZ 15 (Rüdersdorf)-DE,Hub Graz-AT,-0.0
+2451,PZ 15 (Rüdersdorf)-DE,Hagenbrunn-AT,0.0
+2452,PZ 15 (Rüdersdorf)-DE,Allhaming-AT,-0.0
+2453,PZ 15 (Rüdersdorf)-DE,Enns-AT,-0.0
+2454,PZ 15 (Rüdersdorf)-DE,Wernberg-AT,-0.0
+2455,PZ 15 (Rüdersdorf)-DE,Wals-AT,-0.0
+2456,PZ 15 (Rüdersdorf)-DE,Hall in Tirol-AT,-0.0
+2457,PZ 15 (Rüdersdorf)-DE,Liesing-AT,-0.0
+2458,PZ 15 (Rüdersdorf)-DE,Wundschuh-AT,-0.0
+2459,PZ 24 (Neumünster)-DE,Hub Wien I-AT,-0.0
+2460,PZ 24 (Neumünster)-DE,Hub Wien II-AT,-0.0
+2461,PZ 24 (Neumünster)-DE,Hub Graz-AT,-0.0
+2462,PZ 24 (Neumünster)-DE,Hagenbrunn-AT,-0.0
+2463,PZ 24 (Neumünster)-DE,Allhaming-AT,-0.0
+2464,PZ 24 (Neumünster)-DE,Enns-AT,-0.0
+2465,PZ 24 (Neumünster)-DE,Wernberg-AT,-0.0
+2466,PZ 24 (Neumünster)-DE,Wals-AT,-0.0
+2467,PZ 24 (Neumünster)-DE,Hall in Tirol-AT,-0.0
+2468,PZ 24 (Neumünster)-DE,Liesing-AT,-0.0
+2469,PZ 24 (Neumünster)-DE,Wundschuh-AT,-0.0
+2470,PZ 44 (Bochum) [im Bau]-DE,Hub Wien I-AT,-0.0
+2471,PZ 44 (Bochum) [im Bau]-DE,Hub Wien II-AT,-0.0
+2472,PZ 44 (Bochum) [im Bau]-DE,Hub Graz-AT,-0.0
+2473,PZ 44 (Bochum) [im Bau]-DE,Hagenbrunn-AT,-0.0
+2474,PZ 44 (Bochum) [im Bau]-DE,Allhaming-AT,-0.0
+2475,PZ 44 (Bochum) [im Bau]-DE,Enns-AT,-0.0
+2476,PZ 44 (Bochum) [im Bau]-DE,Wernberg-AT,-0.0
+2477,PZ 44 (Bochum) [im Bau]-DE,Wals-AT,-0.0
+2478,PZ 44 (Bochum) [im Bau]-DE,Hall in Tirol-AT,-0.0
+2479,PZ 44 (Bochum) [im Bau]-DE,Liesing-AT,-0.0
+2480,PZ 44 (Bochum) [im Bau]-DE,Wundschuh-AT,-0.0
+2481,PZ 67 (Speyer)-DE,Brüssel-BE,-0.0
+2482,PZ 50 (Köln)-DE,Brüssel-BE,0.0
+2483,PZ 04 (Radefeld/Leipzig)-DE,Brüssel-BE,-0.0
+2484,PZ 90 (Feucht/Nürnberg)-DE,Brüssel-BE,1428.0
+2485,PZ 77 (Lahr)-DE,Brüssel-BE,-0.0
+2486,PZ 93 (Regensburg)-DE,Brüssel-BE,0.0
+2487,PZ 21 (Hamburg)-DE,Brüssel-BE,-0.0
+2488,PZ 46 (Dorsten)-DE,Brüssel-BE,-0.0
+2489,PZ 58 (Hagen)-DE,Brüssel-BE,-0.0
+2490,PZ 08 (Neumark)-DE,Brüssel-BE,-0.0
+2491,PZ 47 (Krefeld)-DE,Brüssel-BE,38721.0
+2492,PZ 15 (Rüdersdorf)-DE,Brüssel-BE,-0.0
+2493,PZ 24 (Neumünster)-DE,Brüssel-BE,-0.0
+2494,PZ 44 (Bochum) [im Bau]-DE,Brüssel-BE,-0.0
+2495,PZ 67 (Speyer)-DE,Sofia-BG,0.0
+2496,PZ 50 (Köln)-DE,Sofia-BG,-0.0
+2497,PZ 04 (Radefeld/Leipzig)-DE,Sofia-BG,-0.0
+2498,PZ 90 (Feucht/Nürnberg)-DE,Sofia-BG,20.0
+2499,PZ 77 (Lahr)-DE,Sofia-BG,-0.0
+2500,PZ 93 (Regensburg)-DE,Sofia-BG,9056.0
+2501,PZ 21 (Hamburg)-DE,Sofia-BG,-0.0
+2502,PZ 46 (Dorsten)-DE,Sofia-BG,-0.0
+2503,PZ 58 (Hagen)-DE,Sofia-BG,-0.0
+2504,PZ 08 (Neumark)-DE,Sofia-BG,0.0
+2505,PZ 47 (Krefeld)-DE,Sofia-BG,-0.0
+2506,PZ 15 (Rüdersdorf)-DE,Sofia-BG,-0.0
+2507,PZ 24 (Neumünster)-DE,Sofia-BG,-0.0
+2508,PZ 44 (Bochum) [im Bau]-DE,Sofia-BG,-0.0
+2509,PZ 67 (Speyer)-DE,Brno-CZ,-0.0
+2510,PZ 67 (Speyer)-DE,Ostrava-CZ,-0.0
+2511,PZ 67 (Speyer)-DE,Krupka 1-CZ,0.0
+2512,PZ 67 (Speyer)-DE,Plzen 1-CZ,199.0
+2513,PZ 67 (Speyer)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2514,PZ 67 (Speyer)-DE,Ricany -CZ,-0.0
+2515,PZ 67 (Speyer)-DE,Zlin-CZ,-0.0
+2516,PZ 67 (Speyer)-DE,Olomouc-CZ,-0.0
+2517,PZ 50 (Köln)-DE,Brno-CZ,-0.0
+2518,PZ 50 (Köln)-DE,Ostrava-CZ,-0.0
+2519,PZ 50 (Köln)-DE,Krupka 1-CZ,-0.0
+2520,PZ 50 (Köln)-DE,Plzen 1-CZ,0.0
+2521,PZ 50 (Köln)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2522,PZ 50 (Köln)-DE,Ricany -CZ,-0.0
+2523,PZ 50 (Köln)-DE,Zlin-CZ,-0.0
+2524,PZ 50 (Köln)-DE,Olomouc-CZ,-0.0
+2525,PZ 04 (Radefeld/Leipzig)-DE,Brno-CZ,-0.0
+2526,PZ 04 (Radefeld/Leipzig)-DE,Ostrava-CZ,-0.0
+2527,PZ 04 (Radefeld/Leipzig)-DE,Krupka 1-CZ,34848.0
+2528,PZ 04 (Radefeld/Leipzig)-DE,Plzen 1-CZ,-0.0
+2529,PZ 04 (Radefeld/Leipzig)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2530,PZ 04 (Radefeld/Leipzig)-DE,Ricany -CZ,-0.0
+2531,PZ 04 (Radefeld/Leipzig)-DE,Zlin-CZ,-0.0
+2532,PZ 04 (Radefeld/Leipzig)-DE,Olomouc-CZ,-0.0
+2533,PZ 90 (Feucht/Nürnberg)-DE,Brno-CZ,-0.0
+2534,PZ 90 (Feucht/Nürnberg)-DE,Ostrava-CZ,-0.0
+2535,PZ 90 (Feucht/Nürnberg)-DE,Krupka 1-CZ,-0.0
+2536,PZ 90 (Feucht/Nürnberg)-DE,Plzen 1-CZ,0.0
+2537,PZ 90 (Feucht/Nürnberg)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2538,PZ 90 (Feucht/Nürnberg)-DE,Ricany -CZ,0.0
+2539,PZ 90 (Feucht/Nürnberg)-DE,Zlin-CZ,-0.0
+2540,PZ 90 (Feucht/Nürnberg)-DE,Olomouc-CZ,-0.0
+2541,PZ 77 (Lahr)-DE,Brno-CZ,-0.0
+2542,PZ 77 (Lahr)-DE,Ostrava-CZ,-0.0
+2543,PZ 77 (Lahr)-DE,Krupka 1-CZ,0.0
+2544,PZ 77 (Lahr)-DE,Plzen 1-CZ,-0.0
+2545,PZ 77 (Lahr)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2546,PZ 77 (Lahr)-DE,Ricany -CZ,-0.0
+2547,PZ 77 (Lahr)-DE,Zlin-CZ,-0.0
+2548,PZ 77 (Lahr)-DE,Olomouc-CZ,-0.0
+2549,PZ 93 (Regensburg)-DE,Brno-CZ,0.0
+2550,PZ 93 (Regensburg)-DE,Ostrava-CZ,-0.0
+2551,PZ 93 (Regensburg)-DE,Krupka 1-CZ,-0.0
+2552,PZ 93 (Regensburg)-DE,Plzen 1-CZ,0.0
+2553,PZ 93 (Regensburg)-DE,Hradec Kralove - Brezhrad-CZ,0.0
+2554,PZ 93 (Regensburg)-DE,Ricany -CZ,0.0
+2555,PZ 93 (Regensburg)-DE,Zlin-CZ,-0.0
+2556,PZ 93 (Regensburg)-DE,Olomouc-CZ,0.0
+2557,PZ 21 (Hamburg)-DE,Brno-CZ,-0.0
+2558,PZ 21 (Hamburg)-DE,Ostrava-CZ,-0.0
+2559,PZ 21 (Hamburg)-DE,Krupka 1-CZ,-0.0
+2560,PZ 21 (Hamburg)-DE,Plzen 1-CZ,-0.0
+2561,PZ 21 (Hamburg)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2562,PZ 21 (Hamburg)-DE,Ricany -CZ,-0.0
+2563,PZ 21 (Hamburg)-DE,Zlin-CZ,-0.0
+2564,PZ 21 (Hamburg)-DE,Olomouc-CZ,-0.0
+2565,PZ 46 (Dorsten)-DE,Brno-CZ,-0.0
+2566,PZ 46 (Dorsten)-DE,Ostrava-CZ,-0.0
+2567,PZ 46 (Dorsten)-DE,Krupka 1-CZ,-0.0
+2568,PZ 46 (Dorsten)-DE,Plzen 1-CZ,-0.0
+2569,PZ 46 (Dorsten)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2570,PZ 46 (Dorsten)-DE,Ricany -CZ,-0.0
+2571,PZ 46 (Dorsten)-DE,Zlin-CZ,-0.0
+2572,PZ 46 (Dorsten)-DE,Olomouc-CZ,-0.0
+2573,PZ 58 (Hagen)-DE,Brno-CZ,-0.0
+2574,PZ 58 (Hagen)-DE,Ostrava-CZ,-0.0
+2575,PZ 58 (Hagen)-DE,Krupka 1-CZ,-0.0
+2576,PZ 58 (Hagen)-DE,Plzen 1-CZ,-0.0
+2577,PZ 58 (Hagen)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2578,PZ 58 (Hagen)-DE,Ricany -CZ,-0.0
+2579,PZ 58 (Hagen)-DE,Zlin-CZ,-0.0
+2580,PZ 58 (Hagen)-DE,Olomouc-CZ,-0.0
+2581,PZ 08 (Neumark)-DE,Brno-CZ,-0.0
+2582,PZ 08 (Neumark)-DE,Ostrava-CZ,-0.0
+2583,PZ 08 (Neumark)-DE,Krupka 1-CZ,-0.0
+2584,PZ 08 (Neumark)-DE,Plzen 1-CZ,-0.0
+2585,PZ 08 (Neumark)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2586,PZ 08 (Neumark)-DE,Ricany -CZ,-0.0
+2587,PZ 08 (Neumark)-DE,Zlin-CZ,-0.0
+2588,PZ 08 (Neumark)-DE,Olomouc-CZ,-0.0
+2589,PZ 47 (Krefeld)-DE,Brno-CZ,-0.0
+2590,PZ 47 (Krefeld)-DE,Ostrava-CZ,-0.0
+2591,PZ 47 (Krefeld)-DE,Krupka 1-CZ,-0.0
+2592,PZ 47 (Krefeld)-DE,Plzen 1-CZ,-0.0
+2593,PZ 47 (Krefeld)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2594,PZ 47 (Krefeld)-DE,Ricany -CZ,-0.0
+2595,PZ 47 (Krefeld)-DE,Zlin-CZ,-0.0
+2596,PZ 47 (Krefeld)-DE,Olomouc-CZ,-0.0
+2597,PZ 15 (Rüdersdorf)-DE,Brno-CZ,-0.0
+2598,PZ 15 (Rüdersdorf)-DE,Ostrava-CZ,-0.0
+2599,PZ 15 (Rüdersdorf)-DE,Krupka 1-CZ,0.0
+2600,PZ 15 (Rüdersdorf)-DE,Plzen 1-CZ,-0.0
+2601,PZ 15 (Rüdersdorf)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2602,PZ 15 (Rüdersdorf)-DE,Ricany -CZ,-0.0
+2603,PZ 15 (Rüdersdorf)-DE,Zlin-CZ,-0.0
+2604,PZ 15 (Rüdersdorf)-DE,Olomouc-CZ,-0.0
+2605,PZ 24 (Neumünster)-DE,Brno-CZ,-0.0
+2606,PZ 24 (Neumünster)-DE,Ostrava-CZ,-0.0
+2607,PZ 24 (Neumünster)-DE,Krupka 1-CZ,-0.0
+2608,PZ 24 (Neumünster)-DE,Plzen 1-CZ,-0.0
+2609,PZ 24 (Neumünster)-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2610,PZ 24 (Neumünster)-DE,Ricany -CZ,-0.0
+2611,PZ 24 (Neumünster)-DE,Zlin-CZ,-0.0
+2612,PZ 24 (Neumünster)-DE,Olomouc-CZ,-0.0
+2613,PZ 44 (Bochum) [im Bau]-DE,Brno-CZ,-0.0
+2614,PZ 44 (Bochum) [im Bau]-DE,Ostrava-CZ,-0.0
+2615,PZ 44 (Bochum) [im Bau]-DE,Krupka 1-CZ,-0.0
+2616,PZ 44 (Bochum) [im Bau]-DE,Plzen 1-CZ,-0.0
+2617,PZ 44 (Bochum) [im Bau]-DE,Hradec Kralove - Brezhrad-CZ,-0.0
+2618,PZ 44 (Bochum) [im Bau]-DE,Ricany -CZ,-0.0
+2619,PZ 44 (Bochum) [im Bau]-DE,Zlin-CZ,-0.0
+2620,PZ 44 (Bochum) [im Bau]-DE,Olomouc-CZ,-0.0
+2621,PZ 67 (Speyer)-DE,Kolding-DK,-0.0
+2622,PZ 50 (Köln)-DE,Kolding-DK,-0.0
+2623,PZ 04 (Radefeld/Leipzig)-DE,Kolding-DK,-0.0
+2624,PZ 90 (Feucht/Nürnberg)-DE,Kolding-DK,-0.0
+2625,PZ 77 (Lahr)-DE,Kolding-DK,-0.0
+2626,PZ 93 (Regensburg)-DE,Kolding-DK,-0.0
+2627,PZ 21 (Hamburg)-DE,Kolding-DK,1710.0
+2628,PZ 46 (Dorsten)-DE,Kolding-DK,0.0
+2629,PZ 58 (Hagen)-DE,Kolding-DK,-0.0
+2630,PZ 08 (Neumark)-DE,Kolding-DK,-0.0
+2631,PZ 47 (Krefeld)-DE,Kolding-DK,-0.0
+2632,PZ 15 (Rüdersdorf)-DE,Kolding-DK,-0.0
+2633,PZ 24 (Neumünster)-DE,Kolding-DK,0.0
+2634,PZ 44 (Bochum) [im Bau]-DE,Kolding-DK,-0.0
+2635,PZ 67 (Speyer)-DE,Barcelona-ES,0.0
+2636,PZ 67 (Speyer)-DE,Madrid-ES,-0.0
+2637,PZ 67 (Speyer)-DE,Araba (Vitoria)-ES,-0.0
+2638,PZ 50 (Köln)-DE,Barcelona-ES,0.0
+2639,PZ 50 (Köln)-DE,Madrid-ES,-0.0
+2640,PZ 50 (Köln)-DE,Araba (Vitoria)-ES,-0.0
+2641,PZ 04 (Radefeld/Leipzig)-DE,Barcelona-ES,0.0
+2642,PZ 04 (Radefeld/Leipzig)-DE,Madrid-ES,-0.0
+2643,PZ 04 (Radefeld/Leipzig)-DE,Araba (Vitoria)-ES,-0.0
+2644,PZ 90 (Feucht/Nürnberg)-DE,Barcelona-ES,0.0
+2645,PZ 90 (Feucht/Nürnberg)-DE,Madrid-ES,-0.0
+2646,PZ 90 (Feucht/Nürnberg)-DE,Araba (Vitoria)-ES,-0.0
+2647,PZ 77 (Lahr)-DE,Barcelona-ES,4425.0
+2648,PZ 77 (Lahr)-DE,Madrid-ES,-0.0
+2649,PZ 77 (Lahr)-DE,Araba (Vitoria)-ES,-0.0
+2650,PZ 93 (Regensburg)-DE,Barcelona-ES,-0.0
+2651,PZ 93 (Regensburg)-DE,Madrid-ES,-0.0
+2652,PZ 93 (Regensburg)-DE,Araba (Vitoria)-ES,-0.0
+2653,PZ 21 (Hamburg)-DE,Barcelona-ES,-0.0
+2654,PZ 21 (Hamburg)-DE,Madrid-ES,-0.0
+2655,PZ 21 (Hamburg)-DE,Araba (Vitoria)-ES,-0.0
+2656,PZ 46 (Dorsten)-DE,Barcelona-ES,-0.0
+2657,PZ 46 (Dorsten)-DE,Madrid-ES,-0.0
+2658,PZ 46 (Dorsten)-DE,Araba (Vitoria)-ES,-0.0
+2659,PZ 58 (Hagen)-DE,Barcelona-ES,0.0
+2660,PZ 58 (Hagen)-DE,Madrid-ES,-0.0
+2661,PZ 58 (Hagen)-DE,Araba (Vitoria)-ES,0.0
+2662,PZ 08 (Neumark)-DE,Barcelona-ES,0.0
+2663,PZ 08 (Neumark)-DE,Madrid-ES,-0.0
+2664,PZ 08 (Neumark)-DE,Araba (Vitoria)-ES,-0.0
+2665,PZ 47 (Krefeld)-DE,Barcelona-ES,-0.0
+2666,PZ 47 (Krefeld)-DE,Madrid-ES,-0.0
+2667,PZ 47 (Krefeld)-DE,Araba (Vitoria)-ES,-0.0
+2668,PZ 15 (Rüdersdorf)-DE,Barcelona-ES,-0.0
+2669,PZ 15 (Rüdersdorf)-DE,Madrid-ES,-0.0
+2670,PZ 15 (Rüdersdorf)-DE,Araba (Vitoria)-ES,-0.0
+2671,PZ 24 (Neumünster)-DE,Barcelona-ES,-0.0
+2672,PZ 24 (Neumünster)-DE,Madrid-ES,-0.0
+2673,PZ 24 (Neumünster)-DE,Araba (Vitoria)-ES,-0.0
+2674,PZ 44 (Bochum) [im Bau]-DE,Barcelona-ES,0.0
+2675,PZ 44 (Bochum) [im Bau]-DE,Madrid-ES,-0.0
+2676,PZ 44 (Bochum) [im Bau]-DE,Araba (Vitoria)-ES,-0.0
+2677,PZ 67 (Speyer)-DE,Combs la ville-FR,-0.0
+2678,PZ 50 (Köln)-DE,Combs la ville-FR,96813.0
+2679,PZ 04 (Radefeld/Leipzig)-DE,Combs la ville-FR,-0.0
+2680,PZ 90 (Feucht/Nürnberg)-DE,Combs la ville-FR,-0.0
+2681,PZ 77 (Lahr)-DE,Combs la ville-FR,-0.0
+2682,PZ 93 (Regensburg)-DE,Combs la ville-FR,-0.0
+2683,PZ 21 (Hamburg)-DE,Combs la ville-FR,-0.0
+2684,PZ 46 (Dorsten)-DE,Combs la ville-FR,-0.0
+2685,PZ 58 (Hagen)-DE,Combs la ville-FR,-0.0
+2686,PZ 08 (Neumark)-DE,Combs la ville-FR,-0.0
+2687,PZ 47 (Krefeld)-DE,Combs la ville-FR,0.0
+2688,PZ 15 (Rüdersdorf)-DE,Combs la ville-FR,-0.0
+2689,PZ 24 (Neumünster)-DE,Combs la ville-FR,-0.0
+2690,PZ 44 (Bochum) [im Bau]-DE,Combs la ville-FR,-0.0
+2691,PZ 67 (Speyer)-DE,Slough-GB,-0.0
+2692,PZ 67 (Speyer)-DE,Ryton Gateway-GB,-0.0
+2693,PZ 50 (Köln)-DE,Slough-GB,0.0
+2694,PZ 50 (Köln)-DE,Ryton Gateway-GB,-0.0
+2695,PZ 04 (Radefeld/Leipzig)-DE,Slough-GB,-0.0
+2696,PZ 04 (Radefeld/Leipzig)-DE,Ryton Gateway-GB,-0.0
+2697,PZ 90 (Feucht/Nürnberg)-DE,Slough-GB,-0.0
+2698,PZ 90 (Feucht/Nürnberg)-DE,Ryton Gateway-GB,-0.0
+2699,PZ 77 (Lahr)-DE,Slough-GB,-0.0
+2700,PZ 77 (Lahr)-DE,Ryton Gateway-GB,-0.0
+2701,PZ 93 (Regensburg)-DE,Slough-GB,-0.0
+2702,PZ 93 (Regensburg)-DE,Ryton Gateway-GB,-0.0
+2703,PZ 21 (Hamburg)-DE,Slough-GB,-0.0
+2704,PZ 21 (Hamburg)-DE,Ryton Gateway-GB,-0.0
+2705,PZ 46 (Dorsten)-DE,Slough-GB,0.0
+2706,PZ 46 (Dorsten)-DE,Ryton Gateway-GB,-0.0
+2707,PZ 58 (Hagen)-DE,Slough-GB,0.0
+2708,PZ 58 (Hagen)-DE,Ryton Gateway-GB,-0.0
+2709,PZ 08 (Neumark)-DE,Slough-GB,-0.0
+2710,PZ 08 (Neumark)-DE,Ryton Gateway-GB,-0.0
+2711,PZ 47 (Krefeld)-DE,Slough-GB,100793.0
+2712,PZ 47 (Krefeld)-DE,Ryton Gateway-GB,-0.0
+2713,PZ 15 (Rüdersdorf)-DE,Slough-GB,-0.0
+2714,PZ 15 (Rüdersdorf)-DE,Ryton Gateway-GB,-0.0
+2715,PZ 24 (Neumünster)-DE,Slough-GB,-0.0
+2716,PZ 24 (Neumünster)-DE,Ryton Gateway-GB,-0.0
+2717,PZ 44 (Bochum) [im Bau]-DE,Slough-GB,0.0
+2718,PZ 44 (Bochum) [im Bau]-DE,Ryton Gateway-GB,-0.0
+2719,PZ 67 (Speyer)-DE,Spata-GR,0.0
+2720,PZ 50 (Köln)-DE,Spata-GR,-0.0
+2721,PZ 04 (Radefeld/Leipzig)-DE,Spata-GR,-0.0
+2722,PZ 90 (Feucht/Nürnberg)-DE,Spata-GR,-0.0
+2723,PZ 77 (Lahr)-DE,Spata-GR,-0.0
+2724,PZ 93 (Regensburg)-DE,Spata-GR,-0.0
+2725,PZ 21 (Hamburg)-DE,Spata-GR,0.0
+2726,PZ 46 (Dorsten)-DE,Spata-GR,-0.0
+2727,PZ 58 (Hagen)-DE,Spata-GR,0.0
+2728,PZ 08 (Neumark)-DE,Spata-GR,-0.0
+2729,PZ 47 (Krefeld)-DE,Spata-GR,-0.0
+2730,PZ 15 (Rüdersdorf)-DE,Spata-GR,-0.0
+2731,PZ 24 (Neumünster)-DE,Spata-GR,0.0
+2732,PZ 44 (Bochum) [im Bau]-DE,Spata-GR,-0.0
+2733,PZ 67 (Speyer)-DE,Zagreb-HR,-0.0
+2734,PZ 50 (Köln)-DE,Zagreb-HR,0.0
+2735,PZ 04 (Radefeld/Leipzig)-DE,Zagreb-HR,0.0
+2736,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR,343.0
+2737,PZ 77 (Lahr)-DE,Zagreb-HR,-0.0
+2738,PZ 93 (Regensburg)-DE,Zagreb-HR,-0.0
+2739,PZ 21 (Hamburg)-DE,Zagreb-HR,-0.0
+2740,PZ 46 (Dorsten)-DE,Zagreb-HR,-0.0
+2741,PZ 58 (Hagen)-DE,Zagreb-HR,-0.0
+2742,PZ 08 (Neumark)-DE,Zagreb-HR,0.0
+2743,PZ 47 (Krefeld)-DE,Zagreb-HR,-0.0
+2744,PZ 15 (Rüdersdorf)-DE,Zagreb-HR,-0.0
+2745,PZ 24 (Neumünster)-DE,Zagreb-HR,-0.0
+2746,PZ 44 (Bochum) [im Bau]-DE,Zagreb-HR,-0.0
+2747,PZ 67 (Speyer)-DE,Budapest OLK-HU,-0.0
+2748,PZ 67 (Speyer)-DE,Budapest NPKK (OE)-HU,-0.0
+2749,PZ 50 (Köln)-DE,Budapest OLK-HU,-0.0
+2750,PZ 50 (Köln)-DE,Budapest NPKK (OE)-HU,-0.0
+2751,PZ 04 (Radefeld/Leipzig)-DE,Budapest OLK-HU,-0.0
+2752,PZ 04 (Radefeld/Leipzig)-DE,Budapest NPKK (OE)-HU,-0.0
+2753,PZ 90 (Feucht/Nürnberg)-DE,Budapest OLK-HU,94.0
+2754,PZ 90 (Feucht/Nürnberg)-DE,Budapest NPKK (OE)-HU,-0.0
+2755,PZ 77 (Lahr)-DE,Budapest OLK-HU,-0.0
+2756,PZ 77 (Lahr)-DE,Budapest NPKK (OE)-HU,-0.0
+2757,PZ 93 (Regensburg)-DE,Budapest OLK-HU,22696.0
+2758,PZ 93 (Regensburg)-DE,Budapest NPKK (OE)-HU,-0.0
+2759,PZ 21 (Hamburg)-DE,Budapest OLK-HU,-0.0
+2760,PZ 21 (Hamburg)-DE,Budapest NPKK (OE)-HU,-0.0
+2761,PZ 46 (Dorsten)-DE,Budapest OLK-HU,-0.0
+2762,PZ 46 (Dorsten)-DE,Budapest NPKK (OE)-HU,-0.0
+2763,PZ 58 (Hagen)-DE,Budapest OLK-HU,-0.0
+2764,PZ 58 (Hagen)-DE,Budapest NPKK (OE)-HU,-0.0
+2765,PZ 08 (Neumark)-DE,Budapest OLK-HU,-0.0
+2766,PZ 08 (Neumark)-DE,Budapest NPKK (OE)-HU,-0.0
+2767,PZ 47 (Krefeld)-DE,Budapest OLK-HU,-0.0
+2768,PZ 47 (Krefeld)-DE,Budapest NPKK (OE)-HU,-0.0
+2769,PZ 15 (Rüdersdorf)-DE,Budapest OLK-HU,0.0
+2770,PZ 15 (Rüdersdorf)-DE,Budapest NPKK (OE)-HU,-0.0
+2771,PZ 24 (Neumünster)-DE,Budapest OLK-HU,-0.0
+2772,PZ 24 (Neumünster)-DE,Budapest NPKK (OE)-HU,-0.0
+2773,PZ 44 (Bochum) [im Bau]-DE,Budapest OLK-HU,-0.0
+2774,PZ 44 (Bochum) [im Bau]-DE,Budapest NPKK (OE)-HU,-0.0
+2775,PZ 67 (Speyer)-DE,Portlaoise-IE,-0.0
+2776,PZ 67 (Speyer)-DE,Dublin-IE,0.0
+2777,PZ 50 (Köln)-DE,Portlaoise-IE,0.0
+2778,PZ 50 (Köln)-DE,Dublin-IE,-0.0
+2779,PZ 04 (Radefeld/Leipzig)-DE,Portlaoise-IE,-0.0
+2780,PZ 04 (Radefeld/Leipzig)-DE,Dublin-IE,-0.0
+2781,PZ 90 (Feucht/Nürnberg)-DE,Portlaoise-IE,-0.0
+2782,PZ 90 (Feucht/Nürnberg)-DE,Dublin-IE,-0.0
+2783,PZ 77 (Lahr)-DE,Portlaoise-IE,-0.0
+2784,PZ 77 (Lahr)-DE,Dublin-IE,0.0
+2785,PZ 93 (Regensburg)-DE,Portlaoise-IE,-0.0
+2786,PZ 93 (Regensburg)-DE,Dublin-IE,-0.0
+2787,PZ 21 (Hamburg)-DE,Portlaoise-IE,-0.0
+2788,PZ 21 (Hamburg)-DE,Dublin-IE,-0.0
+2789,PZ 46 (Dorsten)-DE,Portlaoise-IE,-0.0
+2790,PZ 46 (Dorsten)-DE,Dublin-IE,-0.0
+2791,PZ 58 (Hagen)-DE,Portlaoise-IE,0.0
+2792,PZ 58 (Hagen)-DE,Dublin-IE,0.0
+2793,PZ 08 (Neumark)-DE,Portlaoise-IE,-0.0
+2794,PZ 08 (Neumark)-DE,Dublin-IE,-0.0
+2795,PZ 47 (Krefeld)-DE,Portlaoise-IE,0.0
+2796,PZ 47 (Krefeld)-DE,Dublin-IE,-0.0
+2797,PZ 15 (Rüdersdorf)-DE,Portlaoise-IE,-0.0
+2798,PZ 15 (Rüdersdorf)-DE,Dublin-IE,-0.0
+2799,PZ 24 (Neumünster)-DE,Portlaoise-IE,-0.0
+2800,PZ 24 (Neumünster)-DE,Dublin-IE,-0.0
+2801,PZ 44 (Bochum) [im Bau]-DE,Portlaoise-IE,-0.0
+2802,PZ 44 (Bochum) [im Bau]-DE,Dublin-IE,-0.0
+2803,PZ 67 (Speyer)-DE,Kaunas-LT,-0.0
+2804,PZ 50 (Köln)-DE,Kaunas-LT,0.0
+2805,PZ 04 (Radefeld/Leipzig)-DE,Kaunas-LT,-0.0
+2806,PZ 90 (Feucht/Nürnberg)-DE,Kaunas-LT,-0.0
+2807,PZ 77 (Lahr)-DE,Kaunas-LT,0.0
+2808,PZ 93 (Regensburg)-DE,Kaunas-LT,0.0
+2809,PZ 21 (Hamburg)-DE,Kaunas-LT,-0.0
+2810,PZ 46 (Dorsten)-DE,Kaunas-LT,0.0
+2811,PZ 58 (Hagen)-DE,Kaunas-LT,-0.0
+2812,PZ 08 (Neumark)-DE,Kaunas-LT,0.0
+2813,PZ 47 (Krefeld)-DE,Kaunas-LT,-0.0
+2814,PZ 15 (Rüdersdorf)-DE,Kaunas-LT,0.0
+2815,PZ 24 (Neumünster)-DE,Kaunas-LT,-0.0
+2816,PZ 44 (Bochum) [im Bau]-DE,Kaunas-LT,-0.0
+2817,PZ 67 (Speyer)-DE,Bettembourg-LU,-0.0
+2818,PZ 50 (Köln)-DE,Bettembourg-LU,2113.0
+2819,PZ 04 (Radefeld/Leipzig)-DE,Bettembourg-LU,-0.0
+2820,PZ 90 (Feucht/Nürnberg)-DE,Bettembourg-LU,-0.0
+2821,PZ 77 (Lahr)-DE,Bettembourg-LU,-0.0
+2822,PZ 93 (Regensburg)-DE,Bettembourg-LU,-0.0
+2823,PZ 21 (Hamburg)-DE,Bettembourg-LU,0.0
+2824,PZ 46 (Dorsten)-DE,Bettembourg-LU,-0.0
+2825,PZ 58 (Hagen)-DE,Bettembourg-LU,-0.0
+2826,PZ 08 (Neumark)-DE,Bettembourg-LU,-0.0
+2827,PZ 47 (Krefeld)-DE,Bettembourg-LU,-0.0
+2828,PZ 15 (Rüdersdorf)-DE,Bettembourg-LU,-0.0
+2829,PZ 24 (Neumünster)-DE,Bettembourg-LU,0.0
+2830,PZ 44 (Bochum) [im Bau]-DE,Bettembourg-LU,0.0
+2831,PZ 67 (Speyer)-DE,Eindhoven-Noord-NL,-0.0
+2832,PZ 67 (Speyer)-DE,Zaltbommel-NL,-0.0
+2833,PZ 50 (Köln)-DE,Eindhoven-Noord-NL,-0.0
+2834,PZ 50 (Köln)-DE,Zaltbommel-NL,-0.0
+2835,PZ 04 (Radefeld/Leipzig)-DE,Eindhoven-Noord-NL,-0.0
+2836,PZ 04 (Radefeld/Leipzig)-DE,Zaltbommel-NL,-0.0
+2837,PZ 90 (Feucht/Nürnberg)-DE,Eindhoven-Noord-NL,1722.0
+2838,PZ 90 (Feucht/Nürnberg)-DE,Zaltbommel-NL,-0.0
+2839,PZ 77 (Lahr)-DE,Eindhoven-Noord-NL,-0.0
+2840,PZ 77 (Lahr)-DE,Zaltbommel-NL,-0.0
+2841,PZ 93 (Regensburg)-DE,Eindhoven-Noord-NL,-0.0
+2842,PZ 93 (Regensburg)-DE,Zaltbommel-NL,-0.0
+2843,PZ 21 (Hamburg)-DE,Eindhoven-Noord-NL,-0.0
+2844,PZ 21 (Hamburg)-DE,Zaltbommel-NL,-0.0
+2845,PZ 46 (Dorsten)-DE,Eindhoven-Noord-NL,-0.0
+2846,PZ 46 (Dorsten)-DE,Zaltbommel-NL,-0.0
+2847,PZ 58 (Hagen)-DE,Eindhoven-Noord-NL,-0.0
+2848,PZ 58 (Hagen)-DE,Zaltbommel-NL,-0.0
+2849,PZ 08 (Neumark)-DE,Eindhoven-Noord-NL,-0.0
+2850,PZ 08 (Neumark)-DE,Zaltbommel-NL,-0.0
+2851,PZ 47 (Krefeld)-DE,Eindhoven-Noord-NL,280911.0
+2852,PZ 47 (Krefeld)-DE,Zaltbommel-NL,-0.0
+2853,PZ 15 (Rüdersdorf)-DE,Eindhoven-Noord-NL,-0.0
+2854,PZ 15 (Rüdersdorf)-DE,Zaltbommel-NL,-0.0
+2855,PZ 24 (Neumünster)-DE,Eindhoven-Noord-NL,-0.0
+2856,PZ 24 (Neumünster)-DE,Zaltbommel-NL,-0.0
+2857,PZ 44 (Bochum) [im Bau]-DE,Eindhoven-Noord-NL,-0.0
+2858,PZ 44 (Bochum) [im Bau]-DE,Zaltbommel-NL,-0.0
+2859,PZ 67 (Speyer)-DE,Oslo-NO,-0.0
+2860,PZ 50 (Köln)-DE,Oslo-NO,-0.0
+2861,PZ 04 (Radefeld/Leipzig)-DE,Oslo-NO,-0.0
+2862,PZ 90 (Feucht/Nürnberg)-DE,Oslo-NO,-0.0
+2863,PZ 77 (Lahr)-DE,Oslo-NO,-0.0
+2864,PZ 93 (Regensburg)-DE,Oslo-NO,-0.0
+2865,PZ 21 (Hamburg)-DE,Oslo-NO,124.0
+2866,PZ 46 (Dorsten)-DE,Oslo-NO,-0.0
+2867,PZ 58 (Hagen)-DE,Oslo-NO,-0.0
+2868,PZ 08 (Neumark)-DE,Oslo-NO,-0.0
+2869,PZ 47 (Krefeld)-DE,Oslo-NO,-0.0
+2870,PZ 15 (Rüdersdorf)-DE,Oslo-NO,-0.0
+2871,PZ 24 (Neumünster)-DE,Oslo-NO,0.0
+2872,PZ 44 (Bochum) [im Bau]-DE,Oslo-NO,-0.0
+2873,PZ 67 (Speyer)-DE,Suwałki (Ełk)-PL,-0.0
+2874,PZ 67 (Speyer)-DE,Poznań-PL,0.0
+2875,PZ 67 (Speyer)-DE,Zabrze-PL,-0.0
+2876,PZ 67 (Speyer)-DE,Koninko-PL,-0.0
+2877,PZ 67 (Speyer)-DE,Wrocław-PL,0.0
+2878,PZ 67 (Speyer)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2879,PZ 50 (Köln)-DE,Suwałki (Ełk)-PL,-0.0
+2880,PZ 50 (Köln)-DE,Poznań-PL,-0.0
+2881,PZ 50 (Köln)-DE,Zabrze-PL,-0.0
+2882,PZ 50 (Köln)-DE,Koninko-PL,0.0
+2883,PZ 50 (Köln)-DE,Wrocław-PL,-0.0
+2884,PZ 50 (Köln)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2885,PZ 04 (Radefeld/Leipzig)-DE,Suwałki (Ełk)-PL,-0.0
+2886,PZ 04 (Radefeld/Leipzig)-DE,Poznań-PL,-0.0
+2887,PZ 04 (Radefeld/Leipzig)-DE,Zabrze-PL,-0.0
+2888,PZ 04 (Radefeld/Leipzig)-DE,Koninko-PL,-0.0
+2889,PZ 04 (Radefeld/Leipzig)-DE,Wrocław-PL,-0.0
+2890,PZ 04 (Radefeld/Leipzig)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2891,PZ 90 (Feucht/Nürnberg)-DE,Suwałki (Ełk)-PL,-0.0
+2892,PZ 90 (Feucht/Nürnberg)-DE,Poznań-PL,220.0
+2893,PZ 90 (Feucht/Nürnberg)-DE,Zabrze-PL,-0.0
+2894,PZ 90 (Feucht/Nürnberg)-DE,Koninko-PL,-0.0
+2895,PZ 90 (Feucht/Nürnberg)-DE,Wrocław-PL,0.0
+2896,PZ 90 (Feucht/Nürnberg)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2897,PZ 77 (Lahr)-DE,Suwałki (Ełk)-PL,-0.0
+2898,PZ 77 (Lahr)-DE,Poznań-PL,-0.0
+2899,PZ 77 (Lahr)-DE,Zabrze-PL,-0.0
+2900,PZ 77 (Lahr)-DE,Koninko-PL,-0.0
+2901,PZ 77 (Lahr)-DE,Wrocław-PL,-0.0
+2902,PZ 77 (Lahr)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2903,PZ 93 (Regensburg)-DE,Suwałki (Ełk)-PL,-0.0
+2904,PZ 93 (Regensburg)-DE,Poznań-PL,-0.0
+2905,PZ 93 (Regensburg)-DE,Zabrze-PL,-0.0
+2906,PZ 93 (Regensburg)-DE,Koninko-PL,-0.0
+2907,PZ 93 (Regensburg)-DE,Wrocław-PL,0.0
+2908,PZ 93 (Regensburg)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2909,PZ 21 (Hamburg)-DE,Suwałki (Ełk)-PL,-0.0
+2910,PZ 21 (Hamburg)-DE,Poznań-PL,-0.0
+2911,PZ 21 (Hamburg)-DE,Zabrze-PL,-0.0
+2912,PZ 21 (Hamburg)-DE,Koninko-PL,-0.0
+2913,PZ 21 (Hamburg)-DE,Wrocław-PL,-0.0
+2914,PZ 21 (Hamburg)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2915,PZ 46 (Dorsten)-DE,Suwałki (Ełk)-PL,-0.0
+2916,PZ 46 (Dorsten)-DE,Poznań-PL,-0.0
+2917,PZ 46 (Dorsten)-DE,Zabrze-PL,-0.0
+2918,PZ 46 (Dorsten)-DE,Koninko-PL,-0.0
+2919,PZ 46 (Dorsten)-DE,Wrocław-PL,-0.0
+2920,PZ 46 (Dorsten)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2921,PZ 58 (Hagen)-DE,Suwałki (Ełk)-PL,-0.0
+2922,PZ 58 (Hagen)-DE,Poznań-PL,-0.0
+2923,PZ 58 (Hagen)-DE,Zabrze-PL,-0.0
+2924,PZ 58 (Hagen)-DE,Koninko-PL,-0.0
+2925,PZ 58 (Hagen)-DE,Wrocław-PL,0.0
+2926,PZ 58 (Hagen)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2927,PZ 08 (Neumark)-DE,Suwałki (Ełk)-PL,-0.0
+2928,PZ 08 (Neumark)-DE,Poznań-PL,-0.0
+2929,PZ 08 (Neumark)-DE,Zabrze-PL,-0.0
+2930,PZ 08 (Neumark)-DE,Koninko-PL,-0.0
+2931,PZ 08 (Neumark)-DE,Wrocław-PL,-0.0
+2932,PZ 08 (Neumark)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2933,PZ 47 (Krefeld)-DE,Suwałki (Ełk)-PL,-0.0
+2934,PZ 47 (Krefeld)-DE,Poznań-PL,-0.0
+2935,PZ 47 (Krefeld)-DE,Zabrze-PL,-0.0
+2936,PZ 47 (Krefeld)-DE,Koninko-PL,-0.0
+2937,PZ 47 (Krefeld)-DE,Wrocław-PL,0.0
+2938,PZ 47 (Krefeld)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2939,PZ 15 (Rüdersdorf)-DE,Suwałki (Ełk)-PL,-0.0
+2940,PZ 15 (Rüdersdorf)-DE,Poznań-PL,75953.0
+2941,PZ 15 (Rüdersdorf)-DE,Zabrze-PL,-0.0
+2942,PZ 15 (Rüdersdorf)-DE,Koninko-PL,0.0
+2943,PZ 15 (Rüdersdorf)-DE,Wrocław-PL,-0.0
+2944,PZ 15 (Rüdersdorf)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2945,PZ 24 (Neumünster)-DE,Suwałki (Ełk)-PL,-0.0
+2946,PZ 24 (Neumünster)-DE,Poznań-PL,-0.0
+2947,PZ 24 (Neumünster)-DE,Zabrze-PL,-0.0
+2948,PZ 24 (Neumünster)-DE,Koninko-PL,-0.0
+2949,PZ 24 (Neumünster)-DE,Wrocław-PL,-0.0
+2950,PZ 24 (Neumünster)-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2951,PZ 44 (Bochum) [im Bau]-DE,Suwałki (Ełk)-PL,-0.0
+2952,PZ 44 (Bochum) [im Bau]-DE,Poznań-PL,0.0
+2953,PZ 44 (Bochum) [im Bau]-DE,Zabrze-PL,-0.0
+2954,PZ 44 (Bochum) [im Bau]-DE,Koninko-PL,-0.0
+2955,PZ 44 (Bochum) [im Bau]-DE,Wrocław-PL,-0.0
+2956,PZ 44 (Bochum) [im Bau]-DE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+2957,PZ 67 (Speyer)-DE,Lisboa-PT,-0.0
+2958,PZ 50 (Köln)-DE,Lisboa-PT,1933.0
+2959,PZ 04 (Radefeld/Leipzig)-DE,Lisboa-PT,-0.0
+2960,PZ 90 (Feucht/Nürnberg)-DE,Lisboa-PT,-0.0
+2961,PZ 77 (Lahr)-DE,Lisboa-PT,-0.0
+2962,PZ 93 (Regensburg)-DE,Lisboa-PT,-0.0
+2963,PZ 21 (Hamburg)-DE,Lisboa-PT,-0.0
+2964,PZ 46 (Dorsten)-DE,Lisboa-PT,-0.0
+2965,PZ 58 (Hagen)-DE,Lisboa-PT,-0.0
+2966,PZ 08 (Neumark)-DE,Lisboa-PT,-0.0
+2967,PZ 47 (Krefeld)-DE,Lisboa-PT,-0.0
+2968,PZ 15 (Rüdersdorf)-DE,Lisboa-PT,0.0
+2969,PZ 24 (Neumünster)-DE,Lisboa-PT,-0.0
+2970,PZ 44 (Bochum) [im Bau]-DE,Lisboa-PT,-0.0
+2971,PZ 67 (Speyer)-DE,Göteborg-SE,-0.0
+2972,PZ 67 (Speyer)-DE,Stockholm - Västberga-SE,-0.0
+2973,PZ 67 (Speyer)-DE,Helsingborg-SE,-0.0
+2974,PZ 67 (Speyer)-DE,Arlöv-SE,-0.0
+2975,PZ 67 (Speyer)-DE,Malmö-SE,-0.0
+2976,PZ 50 (Köln)-DE,Göteborg-SE,-0.0
+2977,PZ 50 (Köln)-DE,Stockholm - Västberga-SE,-0.0
+2978,PZ 50 (Köln)-DE,Helsingborg-SE,54.0
+2979,PZ 50 (Köln)-DE,Arlöv-SE,-0.0
+2980,PZ 50 (Köln)-DE,Malmö-SE,-0.0
+2981,PZ 04 (Radefeld/Leipzig)-DE,Göteborg-SE,-0.0
+2982,PZ 04 (Radefeld/Leipzig)-DE,Stockholm - Västberga-SE,-0.0
+2983,PZ 04 (Radefeld/Leipzig)-DE,Helsingborg-SE,-0.0
+2984,PZ 04 (Radefeld/Leipzig)-DE,Arlöv-SE,0.0
+2985,PZ 04 (Radefeld/Leipzig)-DE,Malmö-SE,0.0
+2986,PZ 90 (Feucht/Nürnberg)-DE,Göteborg-SE,-0.0
+2987,PZ 90 (Feucht/Nürnberg)-DE,Stockholm - Västberga-SE,-0.0
+2988,PZ 90 (Feucht/Nürnberg)-DE,Helsingborg-SE,0.0
+2989,PZ 90 (Feucht/Nürnberg)-DE,Arlöv-SE,-0.0
+2990,PZ 90 (Feucht/Nürnberg)-DE,Malmö-SE,-0.0
+2991,PZ 77 (Lahr)-DE,Göteborg-SE,-0.0
+2992,PZ 77 (Lahr)-DE,Stockholm - Västberga-SE,-0.0
+2993,PZ 77 (Lahr)-DE,Helsingborg-SE,-0.0
+2994,PZ 77 (Lahr)-DE,Arlöv-SE,-0.0
+2995,PZ 77 (Lahr)-DE,Malmö-SE,-0.0
+2996,PZ 93 (Regensburg)-DE,Göteborg-SE,-0.0
+2997,PZ 93 (Regensburg)-DE,Stockholm - Västberga-SE,-0.0
+2998,PZ 93 (Regensburg)-DE,Helsingborg-SE,-0.0
+2999,PZ 93 (Regensburg)-DE,Arlöv-SE,-0.0
+3000,PZ 93 (Regensburg)-DE,Malmö-SE,-0.0
+3001,PZ 21 (Hamburg)-DE,Göteborg-SE,-0.0
+3002,PZ 21 (Hamburg)-DE,Stockholm - Västberga-SE,-0.0
+3003,PZ 21 (Hamburg)-DE,Helsingborg-SE,0.0
+3004,PZ 21 (Hamburg)-DE,Arlöv-SE,-0.0
+3005,PZ 21 (Hamburg)-DE,Malmö-SE,0.0
+3006,PZ 46 (Dorsten)-DE,Göteborg-SE,-0.0
+3007,PZ 46 (Dorsten)-DE,Stockholm - Västberga-SE,-0.0
+3008,PZ 46 (Dorsten)-DE,Helsingborg-SE,-0.0
+3009,PZ 46 (Dorsten)-DE,Arlöv-SE,-0.0
+3010,PZ 46 (Dorsten)-DE,Malmö-SE,0.0
+3011,PZ 58 (Hagen)-DE,Göteborg-SE,-0.0
+3012,PZ 58 (Hagen)-DE,Stockholm - Västberga-SE,-0.0
+3013,PZ 58 (Hagen)-DE,Helsingborg-SE,-0.0
+3014,PZ 58 (Hagen)-DE,Arlöv-SE,-0.0
+3015,PZ 58 (Hagen)-DE,Malmö-SE,-0.0
+3016,PZ 08 (Neumark)-DE,Göteborg-SE,-0.0
+3017,PZ 08 (Neumark)-DE,Stockholm - Västberga-SE,-0.0
+3018,PZ 08 (Neumark)-DE,Helsingborg-SE,-0.0
+3019,PZ 08 (Neumark)-DE,Arlöv-SE,-0.0
+3020,PZ 08 (Neumark)-DE,Malmö-SE,-0.0
+3021,PZ 47 (Krefeld)-DE,Göteborg-SE,-0.0
+3022,PZ 47 (Krefeld)-DE,Stockholm - Västberga-SE,-0.0
+3023,PZ 47 (Krefeld)-DE,Helsingborg-SE,-0.0
+3024,PZ 47 (Krefeld)-DE,Arlöv-SE,-0.0
+3025,PZ 47 (Krefeld)-DE,Malmö-SE,-0.0
+3026,PZ 15 (Rüdersdorf)-DE,Göteborg-SE,-0.0
+3027,PZ 15 (Rüdersdorf)-DE,Stockholm - Västberga-SE,-0.0
+3028,PZ 15 (Rüdersdorf)-DE,Helsingborg-SE,-0.0
+3029,PZ 15 (Rüdersdorf)-DE,Arlöv-SE,-0.0
+3030,PZ 15 (Rüdersdorf)-DE,Malmö-SE,211.0
+3031,PZ 24 (Neumünster)-DE,Göteborg-SE,-0.0
+3032,PZ 24 (Neumünster)-DE,Stockholm - Västberga-SE,-0.0
+3033,PZ 24 (Neumünster)-DE,Helsingborg-SE,-0.0
+3034,PZ 24 (Neumünster)-DE,Arlöv-SE,-0.0
+3035,PZ 24 (Neumünster)-DE,Malmö-SE,35601.0
+3036,PZ 44 (Bochum) [im Bau]-DE,Göteborg-SE,-0.0
+3037,PZ 44 (Bochum) [im Bau]-DE,Stockholm - Västberga-SE,-0.0
+3038,PZ 44 (Bochum) [im Bau]-DE,Helsingborg-SE,-0.0
+3039,PZ 44 (Bochum) [im Bau]-DE,Arlöv-SE,-0.0
+3040,PZ 44 (Bochum) [im Bau]-DE,Malmö-SE,-0.0
+3041,PZ 67 (Speyer)-DE,Ljubljana-SI,-0.0
+3042,PZ 50 (Köln)-DE,Ljubljana-SI,0.0
+3043,PZ 04 (Radefeld/Leipzig)-DE,Ljubljana-SI,-0.0
+3044,PZ 90 (Feucht/Nürnberg)-DE,Ljubljana-SI,-0.0
+3045,PZ 77 (Lahr)-DE,Ljubljana-SI,-0.0
+3046,PZ 93 (Regensburg)-DE,Ljubljana-SI,22421.0
+3047,PZ 21 (Hamburg)-DE,Ljubljana-SI,0.0
+3048,PZ 46 (Dorsten)-DE,Ljubljana-SI,-0.0
+3049,PZ 58 (Hagen)-DE,Ljubljana-SI,-0.0
+3050,PZ 08 (Neumark)-DE,Ljubljana-SI,-0.0
+3051,PZ 47 (Krefeld)-DE,Ljubljana-SI,-0.0
+3052,PZ 15 (Rüdersdorf)-DE,Ljubljana-SI,-0.0
+3053,PZ 24 (Neumünster)-DE,Ljubljana-SI,-0.0
+3054,PZ 44 (Bochum) [im Bau]-DE,Ljubljana-SI,0.0
+3055,PZ 67 (Speyer)-DE,Zilina- Strecno-SK,-0.0
+3056,PZ 67 (Speyer)-DE,Ivanka pri Dunaji-SK,-0.0
+3057,PZ 50 (Köln)-DE,Zilina- Strecno-SK,-0.0
+3058,PZ 50 (Köln)-DE,Ivanka pri Dunaji-SK,-0.0
+3059,PZ 04 (Radefeld/Leipzig)-DE,Zilina- Strecno-SK,-0.0
+3060,PZ 04 (Radefeld/Leipzig)-DE,Ivanka pri Dunaji-SK,-0.0
+3061,PZ 90 (Feucht/Nürnberg)-DE,Zilina- Strecno-SK,-0.0
+3062,PZ 90 (Feucht/Nürnberg)-DE,Ivanka pri Dunaji-SK,-0.0
+3063,PZ 77 (Lahr)-DE,Zilina- Strecno-SK,-0.0
+3064,PZ 77 (Lahr)-DE,Ivanka pri Dunaji-SK,0.0
+3065,PZ 93 (Regensburg)-DE,Zilina- Strecno-SK,0.0
+3066,PZ 93 (Regensburg)-DE,Ivanka pri Dunaji-SK,23013.0
+3067,PZ 21 (Hamburg)-DE,Zilina- Strecno-SK,-0.0
+3068,PZ 21 (Hamburg)-DE,Ivanka pri Dunaji-SK,-0.0
+3069,PZ 46 (Dorsten)-DE,Zilina- Strecno-SK,-0.0
+3070,PZ 46 (Dorsten)-DE,Ivanka pri Dunaji-SK,-0.0
+3071,PZ 58 (Hagen)-DE,Zilina- Strecno-SK,-0.0
+3072,PZ 58 (Hagen)-DE,Ivanka pri Dunaji-SK,-0.0
+3073,PZ 08 (Neumark)-DE,Zilina- Strecno-SK,-0.0
+3074,PZ 08 (Neumark)-DE,Ivanka pri Dunaji-SK,0.0
+3075,PZ 47 (Krefeld)-DE,Zilina- Strecno-SK,-0.0
+3076,PZ 47 (Krefeld)-DE,Ivanka pri Dunaji-SK,-0.0
+3077,PZ 15 (Rüdersdorf)-DE,Zilina- Strecno-SK,0.0
+3078,PZ 15 (Rüdersdorf)-DE,Ivanka pri Dunaji-SK,-0.0
+3079,PZ 24 (Neumünster)-DE,Zilina- Strecno-SK,-0.0
+3080,PZ 24 (Neumünster)-DE,Ivanka pri Dunaji-SK,-0.0
+3081,PZ 44 (Bochum) [im Bau]-DE,Zilina- Strecno-SK,-0.0
+3082,PZ 44 (Bochum) [im Bau]-DE,Ivanka pri Dunaji-SK,-0.0
+3083,Barcelona-ES,Hub Wien I-AT,3697.0
+3084,Barcelona-ES,Hub Wien II-AT,0.0
+3085,Barcelona-ES,Hub Graz-AT,-0.0
+3086,Barcelona-ES,Hagenbrunn-AT,-0.0
+3087,Barcelona-ES,Allhaming-AT,-0.0
+3088,Barcelona-ES,Enns-AT,-0.0
+3089,Barcelona-ES,Wernberg-AT,-0.0
+3090,Barcelona-ES,Wals-AT,-0.0
+3091,Barcelona-ES,Hall in Tirol-AT,0.0
+3092,Barcelona-ES,Liesing-AT,-0.0
+3093,Barcelona-ES,Wundschuh-AT,-0.0
+3094,Madrid-ES,Hub Wien I-AT,-0.0
+3095,Madrid-ES,Hub Wien II-AT,-0.0
+3096,Madrid-ES,Hub Graz-AT,-0.0
+3097,Madrid-ES,Hagenbrunn-AT,-0.0
+3098,Madrid-ES,Allhaming-AT,-0.0
+3099,Madrid-ES,Enns-AT,-0.0
+3100,Madrid-ES,Wernberg-AT,-0.0
+3101,Madrid-ES,Wals-AT,-0.0
+3102,Madrid-ES,Hall in Tirol-AT,-0.0
+3103,Madrid-ES,Liesing-AT,-0.0
+3104,Madrid-ES,Wundschuh-AT,-0.0
+3105,Araba (Vitoria)-ES,Hub Wien I-AT,-0.0
+3106,Araba (Vitoria)-ES,Hub Wien II-AT,-0.0
+3107,Araba (Vitoria)-ES,Hub Graz-AT,-0.0
+3108,Araba (Vitoria)-ES,Hagenbrunn-AT,-0.0
+3109,Araba (Vitoria)-ES,Allhaming-AT,-0.0
+3110,Araba (Vitoria)-ES,Enns-AT,0.0
+3111,Araba (Vitoria)-ES,Wernberg-AT,-0.0
+3112,Araba (Vitoria)-ES,Wals-AT,-0.0
+3113,Araba (Vitoria)-ES,Hall in Tirol-AT,0.0
+3114,Araba (Vitoria)-ES,Liesing-AT,-0.0
+3115,Araba (Vitoria)-ES,Wundschuh-AT,-0.0
+3116,Barcelona-ES,Brüssel-BE,-0.0
+3117,Madrid-ES,Brüssel-BE,-0.0
+3118,Araba (Vitoria)-ES,Brüssel-BE,4742.0
+3119,Barcelona-ES,Sofia-BG,0.0
+3120,Madrid-ES,Sofia-BG,0.0
+3121,Araba (Vitoria)-ES,Sofia-BG,0.0
+3122,Barcelona-ES,Brno-CZ,-0.0
+3123,Barcelona-ES,Ostrava-CZ,-0.0
+3124,Barcelona-ES,Krupka 1-CZ,-0.0
+3125,Barcelona-ES,Plzen 1-CZ,-0.0
+3126,Barcelona-ES,Hradec Kralove - Brezhrad-CZ,-0.0
+3127,Barcelona-ES,Ricany -CZ,-0.0
+3128,Barcelona-ES,Zlin-CZ,-0.0
+3129,Barcelona-ES,Olomouc-CZ,-0.0
+3130,Madrid-ES,Brno-CZ,-0.0
+3131,Madrid-ES,Ostrava-CZ,-0.0
+3132,Madrid-ES,Krupka 1-CZ,-0.0
+3133,Madrid-ES,Plzen 1-CZ,-0.0
+3134,Madrid-ES,Hradec Kralove - Brezhrad-CZ,-0.0
+3135,Madrid-ES,Ricany -CZ,-0.0
+3136,Madrid-ES,Zlin-CZ,-0.0
+3137,Madrid-ES,Olomouc-CZ,-0.0
+3138,Araba (Vitoria)-ES,Brno-CZ,-0.0
+3139,Araba (Vitoria)-ES,Ostrava-CZ,-0.0
+3140,Araba (Vitoria)-ES,Krupka 1-CZ,-0.0
+3141,Araba (Vitoria)-ES,Plzen 1-CZ,0.0
+3142,Araba (Vitoria)-ES,Hradec Kralove - Brezhrad-CZ,-0.0
+3143,Araba (Vitoria)-ES,Ricany -CZ,-0.0
+3144,Araba (Vitoria)-ES,Zlin-CZ,-0.0
+3145,Araba (Vitoria)-ES,Olomouc-CZ,-0.0
+3146,Barcelona-ES,PZ 67 (Speyer)-DE,0.0
+3147,Barcelona-ES,PZ 50 (Köln)-DE,0.0
+3148,Barcelona-ES,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3149,Barcelona-ES,PZ 90 (Feucht/Nürnberg)-DE,0.0
+3150,Barcelona-ES,PZ 77 (Lahr)-DE,94403.0
+3151,Barcelona-ES,PZ 93 (Regensburg)-DE,-0.0
+3152,Barcelona-ES,PZ 21 (Hamburg)-DE,-0.0
+3153,Barcelona-ES,PZ 46 (Dorsten)-DE,-0.0
+3154,Barcelona-ES,PZ 58 (Hagen)-DE,-0.0
+3155,Barcelona-ES,PZ 08 (Neumark)-DE,-0.0
+3156,Barcelona-ES,PZ 47 (Krefeld)-DE,-0.0
+3157,Barcelona-ES,PZ 15 (Rüdersdorf)-DE,0.0
+3158,Barcelona-ES,PZ 24 (Neumünster)-DE,-0.0
+3159,Barcelona-ES,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3160,Madrid-ES,PZ 67 (Speyer)-DE,-0.0
+3161,Madrid-ES,PZ 50 (Köln)-DE,-0.0
+3162,Madrid-ES,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3163,Madrid-ES,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3164,Madrid-ES,PZ 77 (Lahr)-DE,-0.0
+3165,Madrid-ES,PZ 93 (Regensburg)-DE,-0.0
+3166,Madrid-ES,PZ 21 (Hamburg)-DE,-0.0
+3167,Madrid-ES,PZ 46 (Dorsten)-DE,-0.0
+3168,Madrid-ES,PZ 58 (Hagen)-DE,-0.0
+3169,Madrid-ES,PZ 08 (Neumark)-DE,-0.0
+3170,Madrid-ES,PZ 47 (Krefeld)-DE,-0.0
+3171,Madrid-ES,PZ 15 (Rüdersdorf)-DE,-0.0
+3172,Madrid-ES,PZ 24 (Neumünster)-DE,-0.0
+3173,Madrid-ES,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3174,Araba (Vitoria)-ES,PZ 67 (Speyer)-DE,-0.0
+3175,Araba (Vitoria)-ES,PZ 50 (Köln)-DE,-0.0
+3176,Araba (Vitoria)-ES,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3177,Araba (Vitoria)-ES,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3178,Araba (Vitoria)-ES,PZ 77 (Lahr)-DE,-0.0
+3179,Araba (Vitoria)-ES,PZ 93 (Regensburg)-DE,0.0
+3180,Araba (Vitoria)-ES,PZ 21 (Hamburg)-DE,-0.0
+3181,Araba (Vitoria)-ES,PZ 46 (Dorsten)-DE,-0.0
+3182,Araba (Vitoria)-ES,PZ 58 (Hagen)-DE,-0.0
+3183,Araba (Vitoria)-ES,PZ 08 (Neumark)-DE,-0.0
+3184,Araba (Vitoria)-ES,PZ 47 (Krefeld)-DE,-0.0
+3185,Araba (Vitoria)-ES,PZ 15 (Rüdersdorf)-DE,-0.0
+3186,Araba (Vitoria)-ES,PZ 24 (Neumünster)-DE,-0.0
+3187,Araba (Vitoria)-ES,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3188,Barcelona-ES,Kolding-DK,0.0
+3189,Madrid-ES,Kolding-DK,-0.0
+3190,Araba (Vitoria)-ES,Kolding-DK,-0.0
+3191,Barcelona-ES,Lieto (Turku)-FL,-0.0
+3192,Barcelona-ES,Vantaa (Helsinki)-FL,0.0
+3193,Madrid-ES,Lieto (Turku)-FL,-0.0
+3194,Madrid-ES,Vantaa (Helsinki)-FL,-0.0
+3195,Araba (Vitoria)-ES,Lieto (Turku)-FL,-0.0
+3196,Araba (Vitoria)-ES,Vantaa (Helsinki)-FL,-0.0
+3197,Barcelona-ES,Slough-GB,-0.0
+3198,Barcelona-ES,Ryton Gateway-GB,-0.0
+3199,Madrid-ES,Slough-GB,-0.0
+3200,Madrid-ES,Ryton Gateway-GB,-0.0
+3201,Araba (Vitoria)-ES,Slough-GB,7523.0
+3202,Araba (Vitoria)-ES,Ryton Gateway-GB,-0.0
+3203,Barcelona-ES,Spata-GR,-0.0
+3204,Madrid-ES,Spata-GR,-0.0
+3205,Araba (Vitoria)-ES,Spata-GR,-0.0
+3206,Barcelona-ES,Zagreb-HR,0.0
+3207,Madrid-ES,Zagreb-HR,-0.0
+3208,Araba (Vitoria)-ES,Zagreb-HR,0.0
+3209,Barcelona-ES,Budapest OLK-HU,-0.0
+3210,Barcelona-ES,Budapest NPKK (OE)-HU,-0.0
+3211,Madrid-ES,Budapest OLK-HU,-0.0
+3212,Madrid-ES,Budapest NPKK (OE)-HU,-0.0
+3213,Araba (Vitoria)-ES,Budapest OLK-HU,-0.0
+3214,Araba (Vitoria)-ES,Budapest NPKK (OE)-HU,-0.0
+3215,Barcelona-ES,Portlaoise-IE,0.0
+3216,Barcelona-ES,Dublin-IE,0.0
+3217,Madrid-ES,Portlaoise-IE,-0.0
+3218,Madrid-ES,Dublin-IE,-0.0
+3219,Araba (Vitoria)-ES,Portlaoise-IE,-0.0
+3220,Araba (Vitoria)-ES,Dublin-IE,-0.0
+3221,Barcelona-ES,Kaunas-LT,-0.0
+3222,Madrid-ES,Kaunas-LT,-0.0
+3223,Araba (Vitoria)-ES,Kaunas-LT,-0.0
+3224,Barcelona-ES,Bettembourg-LU,-0.0
+3225,Madrid-ES,Bettembourg-LU,-0.0
+3226,Araba (Vitoria)-ES,Bettembourg-LU,-0.0
+3227,Barcelona-ES,Eindhoven-Noord-NL,0.0
+3228,Barcelona-ES,Zaltbommel-NL,0.0
+3229,Madrid-ES,Eindhoven-Noord-NL,-0.0
+3230,Madrid-ES,Zaltbommel-NL,-0.0
+3231,Araba (Vitoria)-ES,Eindhoven-Noord-NL,2055.0
+3232,Araba (Vitoria)-ES,Zaltbommel-NL,0.0
+3233,Barcelona-ES,Suwałki (Ełk)-PL,-0.0
+3234,Barcelona-ES,Poznań-PL,-0.0
+3235,Barcelona-ES,Zabrze-PL,-0.0
+3236,Barcelona-ES,Koninko-PL,-0.0
+3237,Barcelona-ES,Wrocław-PL,0.0
+3238,Barcelona-ES,Bydgoszcz (Solec Kujawski)-PL,-0.0
+3239,Madrid-ES,Suwałki (Ełk)-PL,-0.0
+3240,Madrid-ES,Poznań-PL,-0.0
+3241,Madrid-ES,Zabrze-PL,-0.0
+3242,Madrid-ES,Koninko-PL,-0.0
+3243,Madrid-ES,Wrocław-PL,-0.0
+3244,Madrid-ES,Bydgoszcz (Solec Kujawski)-PL,-0.0
+3245,Araba (Vitoria)-ES,Suwałki (Ełk)-PL,-0.0
+3246,Araba (Vitoria)-ES,Poznań-PL,-0.0
+3247,Araba (Vitoria)-ES,Zabrze-PL,-0.0
+3248,Araba (Vitoria)-ES,Koninko-PL,-0.0
+3249,Araba (Vitoria)-ES,Wrocław-PL,-0.0
+3250,Araba (Vitoria)-ES,Bydgoszcz (Solec Kujawski)-PL,-0.0
+3251,Barcelona-ES,Oradea-RO,-0.0
+3252,Madrid-ES,Oradea-RO,0.0
+3253,Araba (Vitoria)-ES,Oradea-RO,-0.0
+3254,Barcelona-ES,Göteborg-SE,0.0
+3255,Barcelona-ES,Stockholm - Västberga-SE,0.0
+3256,Barcelona-ES,Helsingborg-SE,282.0
+3257,Barcelona-ES,Arlöv-SE,-0.0
+3258,Barcelona-ES,Malmö-SE,-0.0
+3259,Madrid-ES,Göteborg-SE,-0.0
+3260,Madrid-ES,Stockholm - Västberga-SE,-0.0
+3261,Madrid-ES,Helsingborg-SE,-0.0
+3262,Madrid-ES,Arlöv-SE,-0.0
+3263,Madrid-ES,Malmö-SE,-0.0
+3264,Araba (Vitoria)-ES,Göteborg-SE,-0.0
+3265,Araba (Vitoria)-ES,Stockholm - Västberga-SE,-0.0
+3266,Araba (Vitoria)-ES,Helsingborg-SE,-0.0
+3267,Araba (Vitoria)-ES,Arlöv-SE,-0.0
+3268,Araba (Vitoria)-ES,Malmö-SE,-0.0
+3269,Barcelona-ES,Ljubljana-SI,-0.0
+3270,Madrid-ES,Ljubljana-SI,-0.0
+3271,Araba (Vitoria)-ES,Ljubljana-SI,-0.0
+3272,Barcelona-ES,Zilina- Strecno-SK,-0.0
+3273,Barcelona-ES,Ivanka pri Dunaji-SK,0.0
+3274,Madrid-ES,Zilina- Strecno-SK,-0.0
+3275,Madrid-ES,Ivanka pri Dunaji-SK,-0.0
+3276,Araba (Vitoria)-ES,Zilina- Strecno-SK,-0.0
+3277,Araba (Vitoria)-ES,Ivanka pri Dunaji-SK,-0.0
+3278,Lieto (Turku)-FL,Hub Wien I-AT,-0.0
+3279,Lieto (Turku)-FL,Hub Wien II-AT,-0.0
+3280,Lieto (Turku)-FL,Hub Graz-AT,-0.0
+3281,Lieto (Turku)-FL,Hagenbrunn-AT,-0.0
+3282,Lieto (Turku)-FL,Allhaming-AT,-0.0
+3283,Lieto (Turku)-FL,Enns-AT,-0.0
+3284,Lieto (Turku)-FL,Wernberg-AT,-0.0
+3285,Lieto (Turku)-FL,Wals-AT,-0.0
+3286,Lieto (Turku)-FL,Hall in Tirol-AT,-0.0
+3287,Lieto (Turku)-FL,Liesing-AT,0.0
+3288,Lieto (Turku)-FL,Wundschuh-AT,-0.0
+3289,Vantaa (Helsinki)-FL,Hub Wien I-AT,3872.0
+3290,Vantaa (Helsinki)-FL,Hub Wien II-AT,-0.0
+3291,Vantaa (Helsinki)-FL,Hub Graz-AT,0.0
+3292,Vantaa (Helsinki)-FL,Hagenbrunn-AT,-0.0
+3293,Vantaa (Helsinki)-FL,Allhaming-AT,-0.0
+3294,Vantaa (Helsinki)-FL,Enns-AT,0.0
+3295,Vantaa (Helsinki)-FL,Wernberg-AT,-0.0
+3296,Vantaa (Helsinki)-FL,Wals-AT,-0.0
+3297,Vantaa (Helsinki)-FL,Hall in Tirol-AT,-0.0
+3298,Vantaa (Helsinki)-FL,Liesing-AT,0.0
+3299,Vantaa (Helsinki)-FL,Wundschuh-AT,-0.0
+3300,Lieto (Turku)-FL,Brüssel-BE,2470.0
+3301,Vantaa (Helsinki)-FL,Brüssel-BE,-0.0
+3302,Lieto (Turku)-FL,Sofia-BG,-0.0
+3303,Vantaa (Helsinki)-FL,Sofia-BG,-0.0
+3304,Lieto (Turku)-FL,Brno-CZ,0.0
+3305,Lieto (Turku)-FL,Ostrava-CZ,-0.0
+3306,Lieto (Turku)-FL,Krupka 1-CZ,-0.0
+3307,Lieto (Turku)-FL,Plzen 1-CZ,-0.0
+3308,Lieto (Turku)-FL,Hradec Kralove - Brezhrad-CZ,-0.0
+3309,Lieto (Turku)-FL,Ricany -CZ,-0.0
+3310,Lieto (Turku)-FL,Zlin-CZ,-0.0
+3311,Lieto (Turku)-FL,Olomouc-CZ,-0.0
+3312,Vantaa (Helsinki)-FL,Brno-CZ,0.0
+3313,Vantaa (Helsinki)-FL,Ostrava-CZ,-0.0
+3314,Vantaa (Helsinki)-FL,Krupka 1-CZ,-0.0
+3315,Vantaa (Helsinki)-FL,Plzen 1-CZ,-0.0
+3316,Vantaa (Helsinki)-FL,Hradec Kralove - Brezhrad-CZ,-0.0
+3317,Vantaa (Helsinki)-FL,Ricany -CZ,0.0
+3318,Vantaa (Helsinki)-FL,Zlin-CZ,-0.0
+3319,Vantaa (Helsinki)-FL,Olomouc-CZ,-0.0
+3320,Lieto (Turku)-FL,PZ 67 (Speyer)-DE,-0.0
+3321,Lieto (Turku)-FL,PZ 50 (Köln)-DE,-0.0
+3322,Lieto (Turku)-FL,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3323,Lieto (Turku)-FL,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3324,Lieto (Turku)-FL,PZ 77 (Lahr)-DE,-0.0
+3325,Lieto (Turku)-FL,PZ 93 (Regensburg)-DE,-0.0
+3326,Lieto (Turku)-FL,PZ 21 (Hamburg)-DE,25037.0
+3327,Lieto (Turku)-FL,PZ 46 (Dorsten)-DE,0.0
+3328,Lieto (Turku)-FL,PZ 58 (Hagen)-DE,-0.0
+3329,Lieto (Turku)-FL,PZ 08 (Neumark)-DE,-0.0
+3330,Lieto (Turku)-FL,PZ 47 (Krefeld)-DE,0.0
+3331,Lieto (Turku)-FL,PZ 15 (Rüdersdorf)-DE,-0.0
+3332,Lieto (Turku)-FL,PZ 24 (Neumünster)-DE,-0.0
+3333,Lieto (Turku)-FL,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3334,Vantaa (Helsinki)-FL,PZ 67 (Speyer)-DE,-0.0
+3335,Vantaa (Helsinki)-FL,PZ 50 (Köln)-DE,-0.0
+3336,Vantaa (Helsinki)-FL,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3337,Vantaa (Helsinki)-FL,PZ 90 (Feucht/Nürnberg)-DE,0.0
+3338,Vantaa (Helsinki)-FL,PZ 77 (Lahr)-DE,-0.0
+3339,Vantaa (Helsinki)-FL,PZ 93 (Regensburg)-DE,0.0
+3340,Vantaa (Helsinki)-FL,PZ 21 (Hamburg)-DE,-0.0
+3341,Vantaa (Helsinki)-FL,PZ 46 (Dorsten)-DE,0.0
+3342,Vantaa (Helsinki)-FL,PZ 58 (Hagen)-DE,-0.0
+3343,Vantaa (Helsinki)-FL,PZ 08 (Neumark)-DE,-0.0
+3344,Vantaa (Helsinki)-FL,PZ 47 (Krefeld)-DE,0.0
+3345,Vantaa (Helsinki)-FL,PZ 15 (Rüdersdorf)-DE,-0.0
+3346,Vantaa (Helsinki)-FL,PZ 24 (Neumünster)-DE,-0.0
+3347,Vantaa (Helsinki)-FL,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3348,Lieto (Turku)-FL,Kolding-DK,2440.0
+3349,Vantaa (Helsinki)-FL,Kolding-DK,-0.0
+3350,Lieto (Turku)-FL,Barcelona-ES,-0.0
+3351,Lieto (Turku)-FL,Madrid-ES,-0.0
+3352,Lieto (Turku)-FL,Araba (Vitoria)-ES,0.0
+3353,Vantaa (Helsinki)-FL,Barcelona-ES,-0.0
+3354,Vantaa (Helsinki)-FL,Madrid-ES,-0.0
+3355,Vantaa (Helsinki)-FL,Araba (Vitoria)-ES,-0.0
+3356,Lieto (Turku)-FL,Budapest OLK-HU,-0.0
+3357,Lieto (Turku)-FL,Budapest NPKK (OE)-HU,-0.0
+3358,Vantaa (Helsinki)-FL,Budapest OLK-HU,-0.0
+3359,Vantaa (Helsinki)-FL,Budapest NPKK (OE)-HU,-0.0
+3360,Lieto (Turku)-FL,Bettembourg-LU,-0.0
+3361,Vantaa (Helsinki)-FL,Bettembourg-LU,0.0
+3362,Lieto (Turku)-FL,Eindhoven-Noord-NL,5055.0
+3363,Lieto (Turku)-FL,Zaltbommel-NL,0.0
+3364,Vantaa (Helsinki)-FL,Eindhoven-Noord-NL,-0.0
+3365,Vantaa (Helsinki)-FL,Zaltbommel-NL,-0.0
+3366,Lieto (Turku)-FL,Suwałki (Ełk)-PL,0.0
+3367,Lieto (Turku)-FL,Poznań-PL,-0.0
+3368,Lieto (Turku)-FL,Zabrze-PL,-0.0
+3369,Lieto (Turku)-FL,Koninko-PL,-0.0
+3370,Lieto (Turku)-FL,Wrocław-PL,-0.0
+3371,Lieto (Turku)-FL,Bydgoszcz (Solec Kujawski)-PL,-0.0
+3372,Vantaa (Helsinki)-FL,Suwałki (Ełk)-PL,3395.0
+3373,Vantaa (Helsinki)-FL,Poznań-PL,0.0
+3374,Vantaa (Helsinki)-FL,Zabrze-PL,-0.0
+3375,Vantaa (Helsinki)-FL,Koninko-PL,-0.0
+3376,Vantaa (Helsinki)-FL,Wrocław-PL,-0.0
+3377,Vantaa (Helsinki)-FL,Bydgoszcz (Solec Kujawski)-PL,-0.0
+3378,Lieto (Turku)-FL,Lisboa-PT,-0.0
+3379,Vantaa (Helsinki)-FL,Lisboa-PT,-0.0
+3380,Lieto (Turku)-FL,Göteborg-SE,-0.0
+3381,Lieto (Turku)-FL,Stockholm - Västberga-SE,116248.0
+3382,Lieto (Turku)-FL,Helsingborg-SE,1927.0
+3383,Lieto (Turku)-FL,Arlöv-SE,-0.0
+3384,Lieto (Turku)-FL,Malmö-SE,0.0
+3385,Vantaa (Helsinki)-FL,Göteborg-SE,0.0
+3386,Vantaa (Helsinki)-FL,Stockholm - Västberga-SE,0.0
+3387,Vantaa (Helsinki)-FL,Helsingborg-SE,-0.0
+3388,Vantaa (Helsinki)-FL,Arlöv-SE,0.0
+3389,Vantaa (Helsinki)-FL,Malmö-SE,0.0
+3390,Lieto (Turku)-FL,Ljubljana-SI,-0.0
+3391,Vantaa (Helsinki)-FL,Ljubljana-SI,-0.0
+3392,Lieto (Turku)-FL,Zilina- Strecno-SK,-0.0
+3393,Lieto (Turku)-FL,Ivanka pri Dunaji-SK,-0.0
+3394,Vantaa (Helsinki)-FL,Zilina- Strecno-SK,0.0
+3395,Vantaa (Helsinki)-FL,Ivanka pri Dunaji-SK,0.0
+3396,Slough-GB,Hub Wien I-AT,-0.0
+3397,Slough-GB,Hub Wien II-AT,-0.0
+3398,Slough-GB,Hub Graz-AT,-0.0
+3399,Slough-GB,Hagenbrunn-AT,-0.0
+3400,Slough-GB,Allhaming-AT,-0.0
+3401,Slough-GB,Enns-AT,0.0
+3402,Slough-GB,Wernberg-AT,-0.0
+3403,Slough-GB,Wals-AT,19434.0
+3404,Slough-GB,Hall in Tirol-AT,-0.0
+3405,Slough-GB,Liesing-AT,-0.0
+3406,Slough-GB,Wundschuh-AT,-0.0
+3407,Ryton Gateway-GB,Hub Wien I-AT,-0.0
+3408,Ryton Gateway-GB,Hub Wien II-AT,-0.0
+3409,Ryton Gateway-GB,Hub Graz-AT,-0.0
+3410,Ryton Gateway-GB,Hagenbrunn-AT,-0.0
+3411,Ryton Gateway-GB,Allhaming-AT,-0.0
+3412,Ryton Gateway-GB,Enns-AT,-0.0
+3413,Ryton Gateway-GB,Wernberg-AT,-0.0
+3414,Ryton Gateway-GB,Wals-AT,-0.0
+3415,Ryton Gateway-GB,Hall in Tirol-AT,-0.0
+3416,Ryton Gateway-GB,Liesing-AT,-0.0
+3417,Ryton Gateway-GB,Wundschuh-AT,-0.0
+3418,Slough-GB,Brüssel-BE,13568.0
+3419,Ryton Gateway-GB,Brüssel-BE,-0.0
+3420,Slough-GB,Sofia-BG,-0.0
+3421,Ryton Gateway-GB,Sofia-BG,-0.0
+3422,Slough-GB,Brno-CZ,-0.0
+3423,Slough-GB,Ostrava-CZ,-0.0
+3424,Slough-GB,Krupka 1-CZ,-0.0
+3425,Slough-GB,Plzen 1-CZ,0.0
+3426,Slough-GB,Hradec Kralove - Brezhrad-CZ,-0.0
+3427,Slough-GB,Ricany -CZ,-0.0
+3428,Slough-GB,Zlin-CZ,-0.0
+3429,Slough-GB,Olomouc-CZ,-0.0
+3430,Ryton Gateway-GB,Brno-CZ,-0.0
+3431,Ryton Gateway-GB,Ostrava-CZ,-0.0
+3432,Ryton Gateway-GB,Krupka 1-CZ,-0.0
+3433,Ryton Gateway-GB,Plzen 1-CZ,-0.0
+3434,Ryton Gateway-GB,Hradec Kralove - Brezhrad-CZ,-0.0
+3435,Ryton Gateway-GB,Ricany -CZ,-0.0
+3436,Ryton Gateway-GB,Zlin-CZ,-0.0
+3437,Ryton Gateway-GB,Olomouc-CZ,-0.0
+3438,Slough-GB,PZ 67 (Speyer)-DE,-0.0
+3439,Slough-GB,PZ 50 (Köln)-DE,0.0
+3440,Slough-GB,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3441,Slough-GB,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3442,Slough-GB,PZ 77 (Lahr)-DE,-0.0
+3443,Slough-GB,PZ 93 (Regensburg)-DE,-0.0
+3444,Slough-GB,PZ 21 (Hamburg)-DE,-0.0
+3445,Slough-GB,PZ 46 (Dorsten)-DE,-0.0
+3446,Slough-GB,PZ 58 (Hagen)-DE,-0.0
+3447,Slough-GB,PZ 08 (Neumark)-DE,-0.0
+3448,Slough-GB,PZ 47 (Krefeld)-DE,471880.0
+3449,Slough-GB,PZ 15 (Rüdersdorf)-DE,-0.0
+3450,Slough-GB,PZ 24 (Neumünster)-DE,-0.0
+3451,Slough-GB,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3452,Ryton Gateway-GB,PZ 67 (Speyer)-DE,-0.0
+3453,Ryton Gateway-GB,PZ 50 (Köln)-DE,-0.0
+3454,Ryton Gateway-GB,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3455,Ryton Gateway-GB,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3456,Ryton Gateway-GB,PZ 77 (Lahr)-DE,-0.0
+3457,Ryton Gateway-GB,PZ 93 (Regensburg)-DE,-0.0
+3458,Ryton Gateway-GB,PZ 21 (Hamburg)-DE,-0.0
+3459,Ryton Gateway-GB,PZ 46 (Dorsten)-DE,-0.0
+3460,Ryton Gateway-GB,PZ 58 (Hagen)-DE,-0.0
+3461,Ryton Gateway-GB,PZ 08 (Neumark)-DE,-0.0
+3462,Ryton Gateway-GB,PZ 47 (Krefeld)-DE,-0.0
+3463,Ryton Gateway-GB,PZ 15 (Rüdersdorf)-DE,-0.0
+3464,Ryton Gateway-GB,PZ 24 (Neumünster)-DE,-0.0
+3465,Ryton Gateway-GB,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3466,Slough-GB,Kolding-DK,0.0
+3467,Ryton Gateway-GB,Kolding-DK,-0.0
+3468,Slough-GB,Barcelona-ES,-0.0
+3469,Slough-GB,Madrid-ES,-0.0
+3470,Slough-GB,Araba (Vitoria)-ES,45765.0
+3471,Ryton Gateway-GB,Barcelona-ES,-0.0
+3472,Ryton Gateway-GB,Madrid-ES,-0.0
+3473,Ryton Gateway-GB,Araba (Vitoria)-ES,-0.0
+3474,Slough-GB,Lieto (Turku)-FL,-0.0
+3475,Slough-GB,Vantaa (Helsinki)-FL,-0.0
+3476,Ryton Gateway-GB,Lieto (Turku)-FL,-0.0
+3477,Ryton Gateway-GB,Vantaa (Helsinki)-FL,-0.0
+3478,Slough-GB,Combs la ville-FR,33992.0
+3479,Ryton Gateway-GB,Combs la ville-FR,-0.0
+3480,Slough-GB,Spata-GR,-0.0
+3481,Ryton Gateway-GB,Spata-GR,0.0
+3482,Slough-GB,Zagreb-HR,0.0
+3483,Ryton Gateway-GB,Zagreb-HR,-0.0
+3484,Slough-GB,Budapest OLK-HU,5055.0
+3485,Slough-GB,Budapest NPKK (OE)-HU,-0.0
+3486,Ryton Gateway-GB,Budapest OLK-HU,-0.0
+3487,Ryton Gateway-GB,Budapest NPKK (OE)-HU,-0.0
+3488,Slough-GB,Kaunas-LT,-0.0
+3489,Ryton Gateway-GB,Kaunas-LT,-0.0
+3490,Slough-GB,Bettembourg-LU,2668.0
+3491,Ryton Gateway-GB,Bettembourg-LU,-0.0
+3492,Slough-GB,Eindhoven-Noord-NL,73344.0
+3493,Slough-GB,Zaltbommel-NL,-0.0
+3494,Ryton Gateway-GB,Eindhoven-Noord-NL,-0.0
+3495,Ryton Gateway-GB,Zaltbommel-NL,-0.0
+3496,Slough-GB,Suwałki (Ełk)-PL,-0.0
+3497,Slough-GB,Poznań-PL,0.0
+3498,Slough-GB,Zabrze-PL,-0.0
+3499,Slough-GB,Koninko-PL,-0.0
+3500,Slough-GB,Wrocław-PL,-0.0
+3501,Slough-GB,Bydgoszcz (Solec Kujawski)-PL,-0.0
+3502,Ryton Gateway-GB,Suwałki (Ełk)-PL,-0.0
+3503,Ryton Gateway-GB,Poznań-PL,-0.0
+3504,Ryton Gateway-GB,Zabrze-PL,-0.0
+3505,Ryton Gateway-GB,Koninko-PL,-0.0
+3506,Ryton Gateway-GB,Wrocław-PL,-0.0
+3507,Ryton Gateway-GB,Bydgoszcz (Solec Kujawski)-PL,-0.0
+3508,Slough-GB,Lisboa-PT,0.0
+3509,Ryton Gateway-GB,Lisboa-PT,-0.0
+3510,Slough-GB,Oradea-RO,0.0
+3511,Ryton Gateway-GB,Oradea-RO,-0.0
+3512,Slough-GB,Ljubljana-SI,-0.0
+3513,Ryton Gateway-GB,Ljubljana-SI,-0.0
+3514,Slough-GB,Zilina- Strecno-SK,-0.0
+3515,Slough-GB,Ivanka pri Dunaji-SK,4128.0
+3516,Ryton Gateway-GB,Zilina- Strecno-SK,-0.0
+3517,Ryton Gateway-GB,Ivanka pri Dunaji-SK,-0.0
+3518,Budapest OLK-HU,Hub Wien I-AT,4572.0
+3519,Budapest OLK-HU,Hub Wien II-AT,0.0
+3520,Budapest OLK-HU,Hub Graz-AT,-0.0
+3521,Budapest OLK-HU,Hagenbrunn-AT,0.0
+3522,Budapest OLK-HU,Allhaming-AT,-0.0
+3523,Budapest OLK-HU,Enns-AT,-0.0
+3524,Budapest OLK-HU,Wernberg-AT,-0.0
+3525,Budapest OLK-HU,Wals-AT,0.0
+3526,Budapest OLK-HU,Hall in Tirol-AT,-0.0
+3527,Budapest OLK-HU,Liesing-AT,0.0
+3528,Budapest OLK-HU,Wundschuh-AT,-0.0
+3529,Budapest NPKK (OE)-HU,Hub Wien I-AT,-0.0
+3530,Budapest NPKK (OE)-HU,Hub Wien II-AT,-0.0
+3531,Budapest NPKK (OE)-HU,Hub Graz-AT,-0.0
+3532,Budapest NPKK (OE)-HU,Hagenbrunn-AT,-0.0
+3533,Budapest NPKK (OE)-HU,Allhaming-AT,-0.0
+3534,Budapest NPKK (OE)-HU,Enns-AT,-0.0
+3535,Budapest NPKK (OE)-HU,Wernberg-AT,-0.0
+3536,Budapest NPKK (OE)-HU,Wals-AT,0.0
+3537,Budapest NPKK (OE)-HU,Hall in Tirol-AT,-0.0
+3538,Budapest NPKK (OE)-HU,Liesing-AT,0.0
+3539,Budapest NPKK (OE)-HU,Wundschuh-AT,-0.0
+3540,Budapest OLK-HU,Brüssel-BE,-0.0
+3541,Budapest NPKK (OE)-HU,Brüssel-BE,-0.0
+3542,Budapest OLK-HU,Brno-CZ,496.0
+3543,Budapest OLK-HU,Ostrava-CZ,0.0
+3544,Budapest OLK-HU,Krupka 1-CZ,-0.0
+3545,Budapest OLK-HU,Plzen 1-CZ,-0.0
+3546,Budapest OLK-HU,Hradec Kralove - Brezhrad-CZ,-0.0
+3547,Budapest OLK-HU,Ricany -CZ,-0.0
+3548,Budapest OLK-HU,Zlin-CZ,0.0
+3549,Budapest OLK-HU,Olomouc-CZ,-0.0
+3550,Budapest NPKK (OE)-HU,Brno-CZ,-0.0
+3551,Budapest NPKK (OE)-HU,Ostrava-CZ,-0.0
+3552,Budapest NPKK (OE)-HU,Krupka 1-CZ,0.0
+3553,Budapest NPKK (OE)-HU,Plzen 1-CZ,-0.0
+3554,Budapest NPKK (OE)-HU,Hradec Kralove - Brezhrad-CZ,-0.0
+3555,Budapest NPKK (OE)-HU,Ricany -CZ,-0.0
+3556,Budapest NPKK (OE)-HU,Zlin-CZ,-0.0
+3557,Budapest NPKK (OE)-HU,Olomouc-CZ,-0.0
+3558,Budapest OLK-HU,PZ 67 (Speyer)-DE,-0.0
+3559,Budapest OLK-HU,PZ 50 (Köln)-DE,0.0
+3560,Budapest OLK-HU,PZ 04 (Radefeld/Leipzig)-DE,0.0
+3561,Budapest OLK-HU,PZ 90 (Feucht/Nürnberg)-DE,2635.0
+3562,Budapest OLK-HU,PZ 77 (Lahr)-DE,0.0
+3563,Budapest OLK-HU,PZ 93 (Regensburg)-DE,10730.0
+3564,Budapest OLK-HU,PZ 21 (Hamburg)-DE,0.0
+3565,Budapest OLK-HU,PZ 46 (Dorsten)-DE,-0.0
+3566,Budapest OLK-HU,PZ 58 (Hagen)-DE,-0.0
+3567,Budapest OLK-HU,PZ 08 (Neumark)-DE,-0.0
+3568,Budapest OLK-HU,PZ 47 (Krefeld)-DE,-0.0
+3569,Budapest OLK-HU,PZ 15 (Rüdersdorf)-DE,-0.0
+3570,Budapest OLK-HU,PZ 24 (Neumünster)-DE,-0.0
+3571,Budapest OLK-HU,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3572,Budapest NPKK (OE)-HU,PZ 67 (Speyer)-DE,0.0
+3573,Budapest NPKK (OE)-HU,PZ 50 (Köln)-DE,0.0
+3574,Budapest NPKK (OE)-HU,PZ 04 (Radefeld/Leipzig)-DE,0.0
+3575,Budapest NPKK (OE)-HU,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3576,Budapest NPKK (OE)-HU,PZ 77 (Lahr)-DE,0.0
+3577,Budapest NPKK (OE)-HU,PZ 93 (Regensburg)-DE,-0.0
+3578,Budapest NPKK (OE)-HU,PZ 21 (Hamburg)-DE,-0.0
+3579,Budapest NPKK (OE)-HU,PZ 46 (Dorsten)-DE,-0.0
+3580,Budapest NPKK (OE)-HU,PZ 58 (Hagen)-DE,-0.0
+3581,Budapest NPKK (OE)-HU,PZ 08 (Neumark)-DE,-0.0
+3582,Budapest NPKK (OE)-HU,PZ 47 (Krefeld)-DE,-0.0
+3583,Budapest NPKK (OE)-HU,PZ 15 (Rüdersdorf)-DE,-0.0
+3584,Budapest NPKK (OE)-HU,PZ 24 (Neumünster)-DE,-0.0
+3585,Budapest NPKK (OE)-HU,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3586,Budapest OLK-HU,Bettembourg-LU,-0.0
+3587,Budapest NPKK (OE)-HU,Bettembourg-LU,-0.0
+3588,Budapest OLK-HU,Eindhoven-Noord-NL,-0.0
+3589,Budapest OLK-HU,Zaltbommel-NL,-0.0
+3590,Budapest NPKK (OE)-HU,Eindhoven-Noord-NL,0.0
+3591,Budapest NPKK (OE)-HU,Zaltbommel-NL,-0.0
+3592,Budapest OLK-HU,Suwałki (Ełk)-PL,-0.0
+3593,Budapest OLK-HU,Poznań-PL,-0.0
+3594,Budapest OLK-HU,Zabrze-PL,-0.0
+3595,Budapest OLK-HU,Koninko-PL,-0.0
+3596,Budapest OLK-HU,Wrocław-PL,686.0
+3597,Budapest OLK-HU,Bydgoszcz (Solec Kujawski)-PL,-0.0
+3598,Budapest NPKK (OE)-HU,Suwałki (Ełk)-PL,-0.0
+3599,Budapest NPKK (OE)-HU,Poznań-PL,-0.0
+3600,Budapest NPKK (OE)-HU,Zabrze-PL,-0.0
+3601,Budapest NPKK (OE)-HU,Koninko-PL,-0.0
+3602,Budapest NPKK (OE)-HU,Wrocław-PL,-0.0
+3603,Budapest NPKK (OE)-HU,Bydgoszcz (Solec Kujawski)-PL,-0.0
+3604,Budapest OLK-HU,Ljubljana-SI,0.0
+3605,Budapest NPKK (OE)-HU,Ljubljana-SI,-0.0
+3606,Budapest OLK-HU,Zilina- Strecno-SK,-0.0
+3607,Budapest OLK-HU,Ivanka pri Dunaji-SK,1955.0
+3608,Budapest NPKK (OE)-HU,Zilina- Strecno-SK,-0.0
+3609,Budapest NPKK (OE)-HU,Ivanka pri Dunaji-SK,-0.0
+3610,Kaunas-LT,Göteborg-SE,-0.0
+3611,Kaunas-LT,Stockholm - Västberga-SE,-0.0
+3612,Kaunas-LT,Helsingborg-SE,-0.0
+3613,Kaunas-LT,Arlöv-SE,-0.0
+3614,Kaunas-LT,Malmö-SE,-0.0
+3615,Eindhoven-Noord-NL,Hub Wien I-AT,-0.0
+3616,Eindhoven-Noord-NL,Hub Wien II-AT,-0.0
+3617,Eindhoven-Noord-NL,Hub Graz-AT,0.0
+3618,Eindhoven-Noord-NL,Hagenbrunn-AT,-0.0
+3619,Eindhoven-Noord-NL,Allhaming-AT,0.0
+3620,Eindhoven-Noord-NL,Enns-AT,-0.0
+3621,Eindhoven-Noord-NL,Wernberg-AT,-0.0
+3622,Eindhoven-Noord-NL,Wals-AT,63784.0
+3623,Eindhoven-Noord-NL,Hall in Tirol-AT,0.0
+3624,Eindhoven-Noord-NL,Liesing-AT,0.0
+3625,Eindhoven-Noord-NL,Wundschuh-AT,0.0
+3626,Zaltbommel-NL,Hub Wien I-AT,-0.0
+3627,Zaltbommel-NL,Hub Wien II-AT,-0.0
+3628,Zaltbommel-NL,Hub Graz-AT,-0.0
+3629,Zaltbommel-NL,Hagenbrunn-AT,-0.0
+3630,Zaltbommel-NL,Allhaming-AT,-0.0
+3631,Zaltbommel-NL,Enns-AT,-0.0
+3632,Zaltbommel-NL,Wernberg-AT,-0.0
+3633,Zaltbommel-NL,Wals-AT,-0.0
+3634,Zaltbommel-NL,Hall in Tirol-AT,0.0
+3635,Zaltbommel-NL,Liesing-AT,-0.0
+3636,Zaltbommel-NL,Wundschuh-AT,0.0
+3637,Eindhoven-Noord-NL,Sofia-BG,-0.0
+3638,Zaltbommel-NL,Sofia-BG,0.0
+3639,Eindhoven-Noord-NL,Brno-CZ,-0.0
+3640,Eindhoven-Noord-NL,Ostrava-CZ,-0.0
+3641,Eindhoven-Noord-NL,Krupka 1-CZ,11768.0
+3642,Eindhoven-Noord-NL,Plzen 1-CZ,-0.0
+3643,Eindhoven-Noord-NL,Hradec Kralove - Brezhrad-CZ,-0.0
+3644,Eindhoven-Noord-NL,Ricany -CZ,0.0
+3645,Eindhoven-Noord-NL,Zlin-CZ,-0.0
+3646,Eindhoven-Noord-NL,Olomouc-CZ,-0.0
+3647,Zaltbommel-NL,Brno-CZ,-0.0
+3648,Zaltbommel-NL,Ostrava-CZ,-0.0
+3649,Zaltbommel-NL,Krupka 1-CZ,-0.0
+3650,Zaltbommel-NL,Plzen 1-CZ,-0.0
+3651,Zaltbommel-NL,Hradec Kralove - Brezhrad-CZ,-0.0
+3652,Zaltbommel-NL,Ricany -CZ,-0.0
+3653,Zaltbommel-NL,Zlin-CZ,-0.0
+3654,Zaltbommel-NL,Olomouc-CZ,-0.0
+3655,Eindhoven-Noord-NL,PZ 67 (Speyer)-DE,0.0
+3656,Eindhoven-Noord-NL,PZ 50 (Köln)-DE,0.0
+3657,Eindhoven-Noord-NL,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3658,Eindhoven-Noord-NL,PZ 90 (Feucht/Nürnberg)-DE,0.0
+3659,Eindhoven-Noord-NL,PZ 77 (Lahr)-DE,0.0
+3660,Eindhoven-Noord-NL,PZ 93 (Regensburg)-DE,0.0
+3661,Eindhoven-Noord-NL,PZ 21 (Hamburg)-DE,-0.0
+3662,Eindhoven-Noord-NL,PZ 46 (Dorsten)-DE,-0.0
+3663,Eindhoven-Noord-NL,PZ 58 (Hagen)-DE,-0.0
+3664,Eindhoven-Noord-NL,PZ 08 (Neumark)-DE,0.0
+3665,Eindhoven-Noord-NL,PZ 47 (Krefeld)-DE,1433385.0
+3666,Eindhoven-Noord-NL,PZ 15 (Rüdersdorf)-DE,-0.0
+3667,Eindhoven-Noord-NL,PZ 24 (Neumünster)-DE,0.0
+3668,Eindhoven-Noord-NL,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3669,Zaltbommel-NL,PZ 67 (Speyer)-DE,0.0
+3670,Zaltbommel-NL,PZ 50 (Köln)-DE,-0.0
+3671,Zaltbommel-NL,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3672,Zaltbommel-NL,PZ 90 (Feucht/Nürnberg)-DE,0.0
+3673,Zaltbommel-NL,PZ 77 (Lahr)-DE,0.0
+3674,Zaltbommel-NL,PZ 93 (Regensburg)-DE,0.0
+3675,Zaltbommel-NL,PZ 21 (Hamburg)-DE,-0.0
+3676,Zaltbommel-NL,PZ 46 (Dorsten)-DE,-0.0
+3677,Zaltbommel-NL,PZ 58 (Hagen)-DE,-0.0
+3678,Zaltbommel-NL,PZ 08 (Neumark)-DE,0.0
+3679,Zaltbommel-NL,PZ 47 (Krefeld)-DE,-0.0
+3680,Zaltbommel-NL,PZ 15 (Rüdersdorf)-DE,-0.0
+3681,Zaltbommel-NL,PZ 24 (Neumünster)-DE,0.0
+3682,Zaltbommel-NL,PZ 44 (Bochum) [im Bau]-DE,0.0
+3683,Eindhoven-Noord-NL,Kolding-DK,5223.0
+3684,Zaltbommel-NL,Kolding-DK,0.0
+3685,Eindhoven-Noord-NL,Barcelona-ES,-0.0
+3686,Eindhoven-Noord-NL,Madrid-ES,-0.0
+3687,Eindhoven-Noord-NL,Araba (Vitoria)-ES,38417.0
+3688,Zaltbommel-NL,Barcelona-ES,-0.0
+3689,Zaltbommel-NL,Madrid-ES,-0.0
+3690,Zaltbommel-NL,Araba (Vitoria)-ES,-0.0
+3691,Eindhoven-Noord-NL,Lieto (Turku)-FL,6421.0
+3692,Eindhoven-Noord-NL,Vantaa (Helsinki)-FL,-0.0
+3693,Zaltbommel-NL,Lieto (Turku)-FL,-0.0
+3694,Zaltbommel-NL,Vantaa (Helsinki)-FL,0.0
+3695,Eindhoven-Noord-NL,Combs la ville-FR,52929.0
+3696,Zaltbommel-NL,Combs la ville-FR,0.0
+3697,Eindhoven-Noord-NL,Slough-GB,35554.0
+3698,Eindhoven-Noord-NL,Ryton Gateway-GB,-0.0
+3699,Zaltbommel-NL,Slough-GB,-0.0
+3700,Zaltbommel-NL,Ryton Gateway-GB,-0.0
+3701,Eindhoven-Noord-NL,Spata-GR,3219.0
+3702,Zaltbommel-NL,Spata-GR,-0.0
+3703,Eindhoven-Noord-NL,Zagreb-HR,0.0
+3704,Zaltbommel-NL,Zagreb-HR,-0.0
+3705,Eindhoven-Noord-NL,Budapest OLK-HU,7236.0
+3706,Eindhoven-Noord-NL,Budapest NPKK (OE)-HU,-0.0
+3707,Zaltbommel-NL,Budapest OLK-HU,-0.0
+3708,Zaltbommel-NL,Budapest NPKK (OE)-HU,-0.0
+3709,Eindhoven-Noord-NL,Portlaoise-IE,0.0
+3710,Eindhoven-Noord-NL,Dublin-IE,25980.0
+3711,Zaltbommel-NL,Portlaoise-IE,-0.0
+3712,Zaltbommel-NL,Dublin-IE,0.0
+3713,Eindhoven-Noord-NL,Kaunas-LT,1959.0
+3714,Zaltbommel-NL,Kaunas-LT,-0.0
+3715,Eindhoven-Noord-NL,Suwałki (Ełk)-PL,-0.0
+3716,Eindhoven-Noord-NL,Poznań-PL,-0.0
+3717,Eindhoven-Noord-NL,Zabrze-PL,-0.0
+3718,Eindhoven-Noord-NL,Koninko-PL,0.0
+3719,Eindhoven-Noord-NL,Wrocław-PL,-0.0
+3720,Eindhoven-Noord-NL,Bydgoszcz (Solec Kujawski)-PL,-0.0
+3721,Zaltbommel-NL,Suwałki (Ełk)-PL,-0.0
+3722,Zaltbommel-NL,Poznań-PL,2966.0
+3723,Zaltbommel-NL,Zabrze-PL,-0.0
+3724,Zaltbommel-NL,Koninko-PL,-0.0
+3725,Zaltbommel-NL,Wrocław-PL,-0.0
+3726,Zaltbommel-NL,Bydgoszcz (Solec Kujawski)-PL,-0.0
+3727,Eindhoven-Noord-NL,Lisboa-PT,12735.0
+3728,Zaltbommel-NL,Lisboa-PT,-0.0
+3729,Eindhoven-Noord-NL,Oradea-RO,-0.0
+3730,Zaltbommel-NL,Oradea-RO,0.0
+3731,Eindhoven-Noord-NL,Göteborg-SE,-0.0
+3732,Eindhoven-Noord-NL,Stockholm - Västberga-SE,-0.0
+3733,Eindhoven-Noord-NL,Helsingborg-SE,-0.0
+3734,Eindhoven-Noord-NL,Arlöv-SE,0.0
+3735,Eindhoven-Noord-NL,Malmö-SE,-0.0
+3736,Zaltbommel-NL,Göteborg-SE,-0.0
+3737,Zaltbommel-NL,Stockholm - Västberga-SE,-0.0
+3738,Zaltbommel-NL,Helsingborg-SE,-0.0
+3739,Zaltbommel-NL,Arlöv-SE,0.0
+3740,Zaltbommel-NL,Malmö-SE,2708.0
+3741,Eindhoven-Noord-NL,Ljubljana-SI,4246.0
+3742,Zaltbommel-NL,Ljubljana-SI,-0.0
+3743,Eindhoven-Noord-NL,Zilina- Strecno-SK,-0.0
+3744,Eindhoven-Noord-NL,Ivanka pri Dunaji-SK,4731.0
+3745,Zaltbommel-NL,Zilina- Strecno-SK,-0.0
+3746,Zaltbommel-NL,Ivanka pri Dunaji-SK,0.0
+3747,Suwałki (Ełk)-PL,Hub Wien I-AT,-0.0
+3748,Suwałki (Ełk)-PL,Hub Wien II-AT,-0.0
+3749,Suwałki (Ełk)-PL,Hub Graz-AT,-0.0
+3750,Suwałki (Ełk)-PL,Hagenbrunn-AT,-0.0
+3751,Suwałki (Ełk)-PL,Allhaming-AT,-0.0
+3752,Suwałki (Ełk)-PL,Enns-AT,-0.0
+3753,Suwałki (Ełk)-PL,Wernberg-AT,-0.0
+3754,Suwałki (Ełk)-PL,Wals-AT,-0.0
+3755,Suwałki (Ełk)-PL,Hall in Tirol-AT,-0.0
+3756,Suwałki (Ełk)-PL,Liesing-AT,-0.0
+3757,Suwałki (Ełk)-PL,Wundschuh-AT,-0.0
+3758,Poznań-PL,Hub Wien I-AT,-0.0
+3759,Poznań-PL,Hub Wien II-AT,-0.0
+3760,Poznań-PL,Hub Graz-AT,-0.0
+3761,Poznań-PL,Hagenbrunn-AT,-0.0
+3762,Poznań-PL,Allhaming-AT,-0.0
+3763,Poznań-PL,Enns-AT,-0.0
+3764,Poznań-PL,Wernberg-AT,-0.0
+3765,Poznań-PL,Wals-AT,-0.0
+3766,Poznań-PL,Hall in Tirol-AT,-0.0
+3767,Poznań-PL,Liesing-AT,-0.0
+3768,Poznań-PL,Wundschuh-AT,-0.0
+3769,Zabrze-PL,Hub Wien I-AT,0.0
+3770,Zabrze-PL,Hub Wien II-AT,-0.0
+3771,Zabrze-PL,Hub Graz-AT,0.0
+3772,Zabrze-PL,Hagenbrunn-AT,28959.0
+3773,Zabrze-PL,Allhaming-AT,0.0
+3774,Zabrze-PL,Enns-AT,0.0
+3775,Zabrze-PL,Wernberg-AT,-0.0
+3776,Zabrze-PL,Wals-AT,0.0
+3777,Zabrze-PL,Hall in Tirol-AT,-0.0
+3778,Zabrze-PL,Liesing-AT,0.0
+3779,Zabrze-PL,Wundschuh-AT,0.0
+3780,Koninko-PL,Hub Wien I-AT,-0.0
+3781,Koninko-PL,Hub Wien II-AT,-0.0
+3782,Koninko-PL,Hub Graz-AT,-0.0
+3783,Koninko-PL,Hagenbrunn-AT,-0.0
+3784,Koninko-PL,Allhaming-AT,-0.0
+3785,Koninko-PL,Enns-AT,-0.0
+3786,Koninko-PL,Wernberg-AT,-0.0
+3787,Koninko-PL,Wals-AT,-0.0
+3788,Koninko-PL,Hall in Tirol-AT,-0.0
+3789,Koninko-PL,Liesing-AT,-0.0
+3790,Koninko-PL,Wundschuh-AT,-0.0
+3791,Wrocław-PL,Hub Wien I-AT,0.0
+3792,Wrocław-PL,Hub Wien II-AT,0.0
+3793,Wrocław-PL,Hub Graz-AT,-0.0
+3794,Wrocław-PL,Hagenbrunn-AT,0.0
+3795,Wrocław-PL,Allhaming-AT,0.0
+3796,Wrocław-PL,Enns-AT,0.0
+3797,Wrocław-PL,Wernberg-AT,-0.0
+3798,Wrocław-PL,Wals-AT,0.0
+3799,Wrocław-PL,Hall in Tirol-AT,-0.0
+3800,Wrocław-PL,Liesing-AT,0.0
+3801,Wrocław-PL,Wundschuh-AT,-0.0
+3802,Bydgoszcz (Solec Kujawski)-PL,Hub Wien I-AT,-0.0
+3803,Bydgoszcz (Solec Kujawski)-PL,Hub Wien II-AT,0.0
+3804,Bydgoszcz (Solec Kujawski)-PL,Hub Graz-AT,-0.0
+3805,Bydgoszcz (Solec Kujawski)-PL,Hagenbrunn-AT,0.0
+3806,Bydgoszcz (Solec Kujawski)-PL,Allhaming-AT,-0.0
+3807,Bydgoszcz (Solec Kujawski)-PL,Enns-AT,-0.0
+3808,Bydgoszcz (Solec Kujawski)-PL,Wernberg-AT,-0.0
+3809,Bydgoszcz (Solec Kujawski)-PL,Wals-AT,-0.0
+3810,Bydgoszcz (Solec Kujawski)-PL,Hall in Tirol-AT,-0.0
+3811,Bydgoszcz (Solec Kujawski)-PL,Liesing-AT,-0.0
+3812,Bydgoszcz (Solec Kujawski)-PL,Wundschuh-AT,-0.0
+3813,Suwałki (Ełk)-PL,Brüssel-BE,-0.0
+3814,Poznań-PL,Brüssel-BE,12766.0
+3815,Zabrze-PL,Brüssel-BE,-0.0
+3816,Koninko-PL,Brüssel-BE,0.0
+3817,Wrocław-PL,Brüssel-BE,-0.0
+3818,Bydgoszcz (Solec Kujawski)-PL,Brüssel-BE,-0.0
+3819,Suwałki (Ełk)-PL,Sofia-BG,-0.0
+3820,Poznań-PL,Sofia-BG,-0.0
+3821,Zabrze-PL,Sofia-BG,8321.0
+3822,Koninko-PL,Sofia-BG,-0.0
+3823,Wrocław-PL,Sofia-BG,-0.0
+3824,Bydgoszcz (Solec Kujawski)-PL,Sofia-BG,-0.0
+3825,Suwałki (Ełk)-PL,Brno-CZ,0.0
+3826,Suwałki (Ełk)-PL,Ostrava-CZ,1151.0
+3827,Suwałki (Ełk)-PL,Krupka 1-CZ,-0.0
+3828,Suwałki (Ełk)-PL,Plzen 1-CZ,-0.0
+3829,Suwałki (Ełk)-PL,Hradec Kralove - Brezhrad-CZ,-0.0
+3830,Suwałki (Ełk)-PL,Ricany -CZ,-0.0
+3831,Suwałki (Ełk)-PL,Zlin-CZ,0.0
+3832,Suwałki (Ełk)-PL,Olomouc-CZ,0.0
+3833,Poznań-PL,Brno-CZ,-0.0
+3834,Poznań-PL,Ostrava-CZ,-0.0
+3835,Poznań-PL,Krupka 1-CZ,-0.0
+3836,Poznań-PL,Plzen 1-CZ,-0.0
+3837,Poznań-PL,Hradec Kralove - Brezhrad-CZ,-0.0
+3838,Poznań-PL,Ricany -CZ,-0.0
+3839,Poznań-PL,Zlin-CZ,-0.0
+3840,Poznań-PL,Olomouc-CZ,-0.0
+3841,Zabrze-PL,Brno-CZ,-0.0
+3842,Zabrze-PL,Ostrava-CZ,128337.0
+3843,Zabrze-PL,Krupka 1-CZ,0.0
+3844,Zabrze-PL,Plzen 1-CZ,0.0
+3845,Zabrze-PL,Hradec Kralove - Brezhrad-CZ,0.0
+3846,Zabrze-PL,Ricany -CZ,0.0
+3847,Zabrze-PL,Zlin-CZ,-0.0
+3848,Zabrze-PL,Olomouc-CZ,-0.0
+3849,Koninko-PL,Brno-CZ,-0.0
+3850,Koninko-PL,Ostrava-CZ,-0.0
+3851,Koninko-PL,Krupka 1-CZ,-0.0
+3852,Koninko-PL,Plzen 1-CZ,-0.0
+3853,Koninko-PL,Hradec Kralove - Brezhrad-CZ,-0.0
+3854,Koninko-PL,Ricany -CZ,-0.0
+3855,Koninko-PL,Zlin-CZ,-0.0
+3856,Koninko-PL,Olomouc-CZ,-0.0
+3857,Wrocław-PL,Brno-CZ,-0.0
+3858,Wrocław-PL,Ostrava-CZ,-0.0
+3859,Wrocław-PL,Krupka 1-CZ,-0.0
+3860,Wrocław-PL,Plzen 1-CZ,-0.0
+3861,Wrocław-PL,Hradec Kralove - Brezhrad-CZ,-0.0
+3862,Wrocław-PL,Ricany -CZ,-0.0
+3863,Wrocław-PL,Zlin-CZ,-0.0
+3864,Wrocław-PL,Olomouc-CZ,-0.0
+3865,Bydgoszcz (Solec Kujawski)-PL,Brno-CZ,-0.0
+3866,Bydgoszcz (Solec Kujawski)-PL,Ostrava-CZ,-0.0
+3867,Bydgoszcz (Solec Kujawski)-PL,Krupka 1-CZ,-0.0
+3868,Bydgoszcz (Solec Kujawski)-PL,Plzen 1-CZ,-0.0
+3869,Bydgoszcz (Solec Kujawski)-PL,Hradec Kralove - Brezhrad-CZ,-0.0
+3870,Bydgoszcz (Solec Kujawski)-PL,Ricany -CZ,-0.0
+3871,Bydgoszcz (Solec Kujawski)-PL,Zlin-CZ,-0.0
+3872,Bydgoszcz (Solec Kujawski)-PL,Olomouc-CZ,-0.0
+3873,Suwałki (Ełk)-PL,PZ 67 (Speyer)-DE,-0.0
+3874,Suwałki (Ełk)-PL,PZ 50 (Köln)-DE,-0.0
+3875,Suwałki (Ełk)-PL,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3876,Suwałki (Ełk)-PL,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3877,Suwałki (Ełk)-PL,PZ 77 (Lahr)-DE,-0.0
+3878,Suwałki (Ełk)-PL,PZ 93 (Regensburg)-DE,-0.0
+3879,Suwałki (Ełk)-PL,PZ 21 (Hamburg)-DE,-0.0
+3880,Suwałki (Ełk)-PL,PZ 46 (Dorsten)-DE,-0.0
+3881,Suwałki (Ełk)-PL,PZ 58 (Hagen)-DE,-0.0
+3882,Suwałki (Ełk)-PL,PZ 08 (Neumark)-DE,-0.0
+3883,Suwałki (Ełk)-PL,PZ 47 (Krefeld)-DE,-0.0
+3884,Suwałki (Ełk)-PL,PZ 15 (Rüdersdorf)-DE,-0.0
+3885,Suwałki (Ełk)-PL,PZ 24 (Neumünster)-DE,-0.0
+3886,Suwałki (Ełk)-PL,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3887,Poznań-PL,PZ 67 (Speyer)-DE,-0.0
+3888,Poznań-PL,PZ 50 (Köln)-DE,-0.0
+3889,Poznań-PL,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3890,Poznań-PL,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3891,Poznań-PL,PZ 77 (Lahr)-DE,-0.0
+3892,Poznań-PL,PZ 93 (Regensburg)-DE,-0.0
+3893,Poznań-PL,PZ 21 (Hamburg)-DE,-0.0
+3894,Poznań-PL,PZ 46 (Dorsten)-DE,-0.0
+3895,Poznań-PL,PZ 58 (Hagen)-DE,-0.0
+3896,Poznań-PL,PZ 08 (Neumark)-DE,-0.0
+3897,Poznań-PL,PZ 47 (Krefeld)-DE,-0.0
+3898,Poznań-PL,PZ 15 (Rüdersdorf)-DE,777502.0
+3899,Poznań-PL,PZ 24 (Neumünster)-DE,-0.0
+3900,Poznań-PL,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3901,Zabrze-PL,PZ 67 (Speyer)-DE,-0.0
+3902,Zabrze-PL,PZ 50 (Köln)-DE,-0.0
+3903,Zabrze-PL,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3904,Zabrze-PL,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3905,Zabrze-PL,PZ 77 (Lahr)-DE,-0.0
+3906,Zabrze-PL,PZ 93 (Regensburg)-DE,-0.0
+3907,Zabrze-PL,PZ 21 (Hamburg)-DE,-0.0
+3908,Zabrze-PL,PZ 46 (Dorsten)-DE,-0.0
+3909,Zabrze-PL,PZ 58 (Hagen)-DE,-0.0
+3910,Zabrze-PL,PZ 08 (Neumark)-DE,-0.0
+3911,Zabrze-PL,PZ 47 (Krefeld)-DE,-0.0
+3912,Zabrze-PL,PZ 15 (Rüdersdorf)-DE,-0.0
+3913,Zabrze-PL,PZ 24 (Neumünster)-DE,-0.0
+3914,Zabrze-PL,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3915,Koninko-PL,PZ 67 (Speyer)-DE,-0.0
+3916,Koninko-PL,PZ 50 (Köln)-DE,-0.0
+3917,Koninko-PL,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3918,Koninko-PL,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3919,Koninko-PL,PZ 77 (Lahr)-DE,-0.0
+3920,Koninko-PL,PZ 93 (Regensburg)-DE,-0.0
+3921,Koninko-PL,PZ 21 (Hamburg)-DE,-0.0
+3922,Koninko-PL,PZ 46 (Dorsten)-DE,-0.0
+3923,Koninko-PL,PZ 58 (Hagen)-DE,-0.0
+3924,Koninko-PL,PZ 08 (Neumark)-DE,-0.0
+3925,Koninko-PL,PZ 47 (Krefeld)-DE,-0.0
+3926,Koninko-PL,PZ 15 (Rüdersdorf)-DE,-0.0
+3927,Koninko-PL,PZ 24 (Neumünster)-DE,-0.0
+3928,Koninko-PL,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3929,Wrocław-PL,PZ 67 (Speyer)-DE,-0.0
+3930,Wrocław-PL,PZ 50 (Köln)-DE,-0.0
+3931,Wrocław-PL,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3932,Wrocław-PL,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3933,Wrocław-PL,PZ 77 (Lahr)-DE,-0.0
+3934,Wrocław-PL,PZ 93 (Regensburg)-DE,-0.0
+3935,Wrocław-PL,PZ 21 (Hamburg)-DE,-0.0
+3936,Wrocław-PL,PZ 46 (Dorsten)-DE,-0.0
+3937,Wrocław-PL,PZ 58 (Hagen)-DE,-0.0
+3938,Wrocław-PL,PZ 08 (Neumark)-DE,-0.0
+3939,Wrocław-PL,PZ 47 (Krefeld)-DE,-0.0
+3940,Wrocław-PL,PZ 15 (Rüdersdorf)-DE,-0.0
+3941,Wrocław-PL,PZ 24 (Neumünster)-DE,-0.0
+3942,Wrocław-PL,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3943,Bydgoszcz (Solec Kujawski)-PL,PZ 67 (Speyer)-DE,-0.0
+3944,Bydgoszcz (Solec Kujawski)-PL,PZ 50 (Köln)-DE,-0.0
+3945,Bydgoszcz (Solec Kujawski)-PL,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+3946,Bydgoszcz (Solec Kujawski)-PL,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+3947,Bydgoszcz (Solec Kujawski)-PL,PZ 77 (Lahr)-DE,-0.0
+3948,Bydgoszcz (Solec Kujawski)-PL,PZ 93 (Regensburg)-DE,-0.0
+3949,Bydgoszcz (Solec Kujawski)-PL,PZ 21 (Hamburg)-DE,-0.0
+3950,Bydgoszcz (Solec Kujawski)-PL,PZ 46 (Dorsten)-DE,-0.0
+3951,Bydgoszcz (Solec Kujawski)-PL,PZ 58 (Hagen)-DE,-0.0
+3952,Bydgoszcz (Solec Kujawski)-PL,PZ 08 (Neumark)-DE,-0.0
+3953,Bydgoszcz (Solec Kujawski)-PL,PZ 47 (Krefeld)-DE,-0.0
+3954,Bydgoszcz (Solec Kujawski)-PL,PZ 15 (Rüdersdorf)-DE,-0.0
+3955,Bydgoszcz (Solec Kujawski)-PL,PZ 24 (Neumünster)-DE,-0.0
+3956,Bydgoszcz (Solec Kujawski)-PL,PZ 44 (Bochum) [im Bau]-DE,-0.0
+3957,Suwałki (Ełk)-PL,Kolding-DK,-0.0
+3958,Poznań-PL,Kolding-DK,2381.0
+3959,Zabrze-PL,Kolding-DK,-0.0
+3960,Koninko-PL,Kolding-DK,-0.0
+3961,Wrocław-PL,Kolding-DK,-0.0
+3962,Bydgoszcz (Solec Kujawski)-PL,Kolding-DK,-0.0
+3963,Suwałki (Ełk)-PL,Barcelona-ES,-0.0
+3964,Suwałki (Ełk)-PL,Madrid-ES,-0.0
+3965,Suwałki (Ełk)-PL,Araba (Vitoria)-ES,-0.0
+3966,Poznań-PL,Barcelona-ES,0.0
+3967,Poznań-PL,Madrid-ES,-0.0
+3968,Poznań-PL,Araba (Vitoria)-ES,-0.0
+3969,Zabrze-PL,Barcelona-ES,-0.0
+3970,Zabrze-PL,Madrid-ES,-0.0
+3971,Zabrze-PL,Araba (Vitoria)-ES,-0.0
+3972,Koninko-PL,Barcelona-ES,-0.0
+3973,Koninko-PL,Madrid-ES,-0.0
+3974,Koninko-PL,Araba (Vitoria)-ES,-0.0
+3975,Wrocław-PL,Barcelona-ES,37911.0
+3976,Wrocław-PL,Madrid-ES,-0.0
+3977,Wrocław-PL,Araba (Vitoria)-ES,-0.0
+3978,Bydgoszcz (Solec Kujawski)-PL,Barcelona-ES,-0.0
+3979,Bydgoszcz (Solec Kujawski)-PL,Madrid-ES,-0.0
+3980,Bydgoszcz (Solec Kujawski)-PL,Araba (Vitoria)-ES,-0.0
+3981,Suwałki (Ełk)-PL,Lieto (Turku)-FL,-0.0
+3982,Suwałki (Ełk)-PL,Vantaa (Helsinki)-FL,11173.0
+3983,Poznań-PL,Lieto (Turku)-FL,-0.0
+3984,Poznań-PL,Vantaa (Helsinki)-FL,-0.0
+3985,Zabrze-PL,Lieto (Turku)-FL,-0.0
+3986,Zabrze-PL,Vantaa (Helsinki)-FL,0.0
+3987,Koninko-PL,Lieto (Turku)-FL,-0.0
+3988,Koninko-PL,Vantaa (Helsinki)-FL,-0.0
+3989,Wrocław-PL,Lieto (Turku)-FL,-0.0
+3990,Wrocław-PL,Vantaa (Helsinki)-FL,-0.0
+3991,Bydgoszcz (Solec Kujawski)-PL,Lieto (Turku)-FL,-0.0
+3992,Bydgoszcz (Solec Kujawski)-PL,Vantaa (Helsinki)-FL,-0.0
+3993,Suwałki (Ełk)-PL,Slough-GB,-0.0
+3994,Suwałki (Ełk)-PL,Ryton Gateway-GB,-0.0
+3995,Poznań-PL,Slough-GB,67613.0
+3996,Poznań-PL,Ryton Gateway-GB,-0.0
+3997,Zabrze-PL,Slough-GB,-0.0
+3998,Zabrze-PL,Ryton Gateway-GB,-0.0
+3999,Koninko-PL,Slough-GB,0.0
+4000,Koninko-PL,Ryton Gateway-GB,-0.0
+4001,Wrocław-PL,Slough-GB,-0.0
+4002,Wrocław-PL,Ryton Gateway-GB,-0.0
+4003,Bydgoszcz (Solec Kujawski)-PL,Slough-GB,-0.0
+4004,Bydgoszcz (Solec Kujawski)-PL,Ryton Gateway-GB,-0.0
+4005,Suwałki (Ełk)-PL,Zagreb-HR,-0.0
+4006,Poznań-PL,Zagreb-HR,-0.0
+4007,Zabrze-PL,Zagreb-HR,3943.0
+4008,Koninko-PL,Zagreb-HR,-0.0
+4009,Wrocław-PL,Zagreb-HR,-0.0
+4010,Bydgoszcz (Solec Kujawski)-PL,Zagreb-HR,-0.0
+4011,Suwałki (Ełk)-PL,Budapest OLK-HU,-0.0
+4012,Suwałki (Ełk)-PL,Budapest NPKK (OE)-HU,0.0
+4013,Poznań-PL,Budapest OLK-HU,-0.0
+4014,Poznań-PL,Budapest NPKK (OE)-HU,-0.0
+4015,Zabrze-PL,Budapest OLK-HU,10217.0
+4016,Zabrze-PL,Budapest NPKK (OE)-HU,-0.0
+4017,Koninko-PL,Budapest OLK-HU,-0.0
+4018,Koninko-PL,Budapest NPKK (OE)-HU,-0.0
+4019,Wrocław-PL,Budapest OLK-HU,-0.0
+4020,Wrocław-PL,Budapest NPKK (OE)-HU,-0.0
+4021,Bydgoszcz (Solec Kujawski)-PL,Budapest OLK-HU,-0.0
+4022,Bydgoszcz (Solec Kujawski)-PL,Budapest NPKK (OE)-HU,-0.0
+4023,Suwałki (Ełk)-PL,Portlaoise-IE,-0.0
+4024,Suwałki (Ełk)-PL,Dublin-IE,-0.0
+4025,Poznań-PL,Portlaoise-IE,-0.0
+4026,Poznań-PL,Dublin-IE,10735.0
+4027,Zabrze-PL,Portlaoise-IE,-0.0
+4028,Zabrze-PL,Dublin-IE,-0.0
+4029,Koninko-PL,Portlaoise-IE,-0.0
+4030,Koninko-PL,Dublin-IE,-0.0
+4031,Wrocław-PL,Portlaoise-IE,-0.0
+4032,Wrocław-PL,Dublin-IE,-0.0
+4033,Bydgoszcz (Solec Kujawski)-PL,Portlaoise-IE,-0.0
+4034,Bydgoszcz (Solec Kujawski)-PL,Dublin-IE,-0.0
+4035,Suwałki (Ełk)-PL,Kaunas-LT,7053.0
+4036,Poznań-PL,Kaunas-LT,157.0
+4037,Zabrze-PL,Kaunas-LT,-0.0
+4038,Koninko-PL,Kaunas-LT,-0.0
+4039,Wrocław-PL,Kaunas-LT,0.0
+4040,Bydgoszcz (Solec Kujawski)-PL,Kaunas-LT,-0.0
+4041,Suwałki (Ełk)-PL,Bettembourg-LU,-0.0
+4042,Poznań-PL,Bettembourg-LU,-0.0
+4043,Zabrze-PL,Bettembourg-LU,-0.0
+4044,Koninko-PL,Bettembourg-LU,-0.0
+4045,Wrocław-PL,Bettembourg-LU,2154.0
+4046,Bydgoszcz (Solec Kujawski)-PL,Bettembourg-LU,-0.0
+4047,Suwałki (Ełk)-PL,Eindhoven-Noord-NL,-0.0
+4048,Suwałki (Ełk)-PL,Zaltbommel-NL,-0.0
+4049,Poznań-PL,Eindhoven-Noord-NL,25913.0
+4050,Poznań-PL,Zaltbommel-NL,-0.0
+4051,Zabrze-PL,Eindhoven-Noord-NL,-0.0
+4052,Zabrze-PL,Zaltbommel-NL,-0.0
+4053,Koninko-PL,Eindhoven-Noord-NL,-0.0
+4054,Koninko-PL,Zaltbommel-NL,-0.0
+4055,Wrocław-PL,Eindhoven-Noord-NL,-0.0
+4056,Wrocław-PL,Zaltbommel-NL,-0.0
+4057,Bydgoszcz (Solec Kujawski)-PL,Eindhoven-Noord-NL,-0.0
+4058,Bydgoszcz (Solec Kujawski)-PL,Zaltbommel-NL,-0.0
+4059,Suwałki (Ełk)-PL,Lisboa-PT,-0.0
+4060,Poznań-PL,Lisboa-PT,0.0
+4061,Zabrze-PL,Lisboa-PT,-0.0
+4062,Koninko-PL,Lisboa-PT,0.0
+4063,Wrocław-PL,Lisboa-PT,16411.0
+4064,Bydgoszcz (Solec Kujawski)-PL,Lisboa-PT,-0.0
+4065,Suwałki (Ełk)-PL,Oradea-RO,0.0
+4066,Poznań-PL,Oradea-RO,0.0
+4067,Zabrze-PL,Oradea-RO,5630.0
+4068,Koninko-PL,Oradea-RO,0.0
+4069,Wrocław-PL,Oradea-RO,0.0
+4070,Bydgoszcz (Solec Kujawski)-PL,Oradea-RO,0.0
+4071,Suwałki (Ełk)-PL,Göteborg-SE,-0.0
+4072,Suwałki (Ełk)-PL,Stockholm - Västberga-SE,-0.0
+4073,Suwałki (Ełk)-PL,Helsingborg-SE,-0.0
+4074,Suwałki (Ełk)-PL,Arlöv-SE,-0.0
+4075,Suwałki (Ełk)-PL,Malmö-SE,-0.0
+4076,Poznań-PL,Göteborg-SE,-0.0
+4077,Poznań-PL,Stockholm - Västberga-SE,-0.0
+4078,Poznań-PL,Helsingborg-SE,-0.0
+4079,Poznań-PL,Arlöv-SE,-0.0
+4080,Poznań-PL,Malmö-SE,8494.0
+4081,Zabrze-PL,Göteborg-SE,-0.0
+4082,Zabrze-PL,Stockholm - Västberga-SE,-0.0
+4083,Zabrze-PL,Helsingborg-SE,-0.0
+4084,Zabrze-PL,Arlöv-SE,-0.0
+4085,Zabrze-PL,Malmö-SE,-0.0
+4086,Koninko-PL,Göteborg-SE,-0.0
+4087,Koninko-PL,Stockholm - Västberga-SE,-0.0
+4088,Koninko-PL,Helsingborg-SE,-0.0
+4089,Koninko-PL,Arlöv-SE,-0.0
+4090,Koninko-PL,Malmö-SE,0.0
+4091,Wrocław-PL,Göteborg-SE,-0.0
+4092,Wrocław-PL,Stockholm - Västberga-SE,-0.0
+4093,Wrocław-PL,Helsingborg-SE,-0.0
+4094,Wrocław-PL,Arlöv-SE,-0.0
+4095,Wrocław-PL,Malmö-SE,-0.0
+4096,Bydgoszcz (Solec Kujawski)-PL,Göteborg-SE,-0.0
+4097,Bydgoszcz (Solec Kujawski)-PL,Stockholm - Västberga-SE,-0.0
+4098,Bydgoszcz (Solec Kujawski)-PL,Helsingborg-SE,-0.0
+4099,Bydgoszcz (Solec Kujawski)-PL,Arlöv-SE,-0.0
+4100,Bydgoszcz (Solec Kujawski)-PL,Malmö-SE,-0.0
+4101,Suwałki (Ełk)-PL,Ljubljana-SI,0.0
+4102,Poznań-PL,Ljubljana-SI,-0.0
+4103,Zabrze-PL,Ljubljana-SI,4064.0
+4104,Koninko-PL,Ljubljana-SI,-0.0
+4105,Wrocław-PL,Ljubljana-SI,-0.0
+4106,Bydgoszcz (Solec Kujawski)-PL,Ljubljana-SI,0.0
+4107,Suwałki (Ełk)-PL,Zilina- Strecno-SK,-0.0
+4108,Suwałki (Ełk)-PL,Ivanka pri Dunaji-SK,-0.0
+4109,Poznań-PL,Zilina- Strecno-SK,-0.0
+4110,Poznań-PL,Ivanka pri Dunaji-SK,0.0
+4111,Zabrze-PL,Zilina- Strecno-SK,98453.0
+4112,Zabrze-PL,Ivanka pri Dunaji-SK,-0.0
+4113,Koninko-PL,Zilina- Strecno-SK,0.0
+4114,Koninko-PL,Ivanka pri Dunaji-SK,-0.0
+4115,Wrocław-PL,Zilina- Strecno-SK,-0.0
+4116,Wrocław-PL,Ivanka pri Dunaji-SK,-0.0
+4117,Bydgoszcz (Solec Kujawski)-PL,Zilina- Strecno-SK,-0.0
+4118,Bydgoszcz (Solec Kujawski)-PL,Ivanka pri Dunaji-SK,-0.0
+4119,Lisboa-PT,Hub Wien I-AT,0.0
+4120,Lisboa-PT,Hub Wien II-AT,0.0
+4121,Lisboa-PT,Hub Graz-AT,-0.0
+4122,Lisboa-PT,Hagenbrunn-AT,-0.0
+4123,Lisboa-PT,Allhaming-AT,-0.0
+4124,Lisboa-PT,Enns-AT,-0.0
+4125,Lisboa-PT,Wernberg-AT,-0.0
+4126,Lisboa-PT,Wals-AT,-0.0
+4127,Lisboa-PT,Hall in Tirol-AT,-0.0
+4128,Lisboa-PT,Liesing-AT,-0.0
+4129,Lisboa-PT,Wundschuh-AT,-0.0
+4130,Lisboa-PT,Brüssel-BE,0.0
+4131,Lisboa-PT,Sofia-BG,-0.0
+4132,Lisboa-PT,Brno-CZ,0.0
+4133,Lisboa-PT,Ostrava-CZ,0.0
+4134,Lisboa-PT,Krupka 1-CZ,-0.0
+4135,Lisboa-PT,Plzen 1-CZ,0.0
+4136,Lisboa-PT,Hradec Kralove - Brezhrad-CZ,-0.0
+4137,Lisboa-PT,Ricany -CZ,-0.0
+4138,Lisboa-PT,Zlin-CZ,-0.0
+4139,Lisboa-PT,Olomouc-CZ,0.0
+4140,Lisboa-PT,PZ 67 (Speyer)-DE,-0.0
+4141,Lisboa-PT,PZ 50 (Köln)-DE,54.0
+4142,Lisboa-PT,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+4143,Lisboa-PT,PZ 90 (Feucht/Nürnberg)-DE,926.0
+4144,Lisboa-PT,PZ 77 (Lahr)-DE,10770.0
+4145,Lisboa-PT,PZ 93 (Regensburg)-DE,-0.0
+4146,Lisboa-PT,PZ 21 (Hamburg)-DE,0.0
+4147,Lisboa-PT,PZ 46 (Dorsten)-DE,0.0
+4148,Lisboa-PT,PZ 58 (Hagen)-DE,-0.0
+4149,Lisboa-PT,PZ 08 (Neumark)-DE,0.0
+4150,Lisboa-PT,PZ 47 (Krefeld)-DE,-0.0
+4151,Lisboa-PT,PZ 15 (Rüdersdorf)-DE,0.0
+4152,Lisboa-PT,PZ 24 (Neumünster)-DE,-0.0
+4153,Lisboa-PT,PZ 44 (Bochum) [im Bau]-DE,-0.0
+4154,Lisboa-PT,Kolding-DK,0.0
+4155,Lisboa-PT,Lieto (Turku)-FL,-0.0
+4156,Lisboa-PT,Vantaa (Helsinki)-FL,0.0
+4157,Lisboa-PT,Slough-GB,13058.0
+4158,Lisboa-PT,Ryton Gateway-GB,-0.0
+4159,Lisboa-PT,Spata-GR,-0.0
+4160,Lisboa-PT,Zagreb-HR,-0.0
+4161,Lisboa-PT,Budapest OLK-HU,0.0
+4162,Lisboa-PT,Budapest NPKK (OE)-HU,-0.0
+4163,Lisboa-PT,Portlaoise-IE,0.0
+4164,Lisboa-PT,Dublin-IE,0.0
+4165,Lisboa-PT,Kaunas-LT,-0.0
+4166,Lisboa-PT,Bettembourg-LU,-0.0
+4167,Lisboa-PT,Eindhoven-Noord-NL,2580.0
+4168,Lisboa-PT,Zaltbommel-NL,-0.0
+4169,Lisboa-PT,Suwałki (Ełk)-PL,-0.0
+4170,Lisboa-PT,Poznań-PL,-0.0
+4171,Lisboa-PT,Zabrze-PL,-0.0
+4172,Lisboa-PT,Koninko-PL,-0.0
+4173,Lisboa-PT,Wrocław-PL,0.0
+4174,Lisboa-PT,Bydgoszcz (Solec Kujawski)-PL,0.0
+4175,Lisboa-PT,Oradea-RO,-0.0
+4176,Lisboa-PT,Göteborg-SE,-0.0
+4177,Lisboa-PT,Stockholm - Västberga-SE,-0.0
+4178,Lisboa-PT,Helsingborg-SE,-0.0
+4179,Lisboa-PT,Arlöv-SE,-0.0
+4180,Lisboa-PT,Malmö-SE,-0.0
+4181,Lisboa-PT,Ljubljana-SI,0.0
+4182,Lisboa-PT,Zilina- Strecno-SK,-0.0
+4183,Lisboa-PT,Ivanka pri Dunaji-SK,-0.0
+4184,Göteborg-SE,Hub Wien I-AT,-0.0
+4185,Göteborg-SE,Hub Wien II-AT,-0.0
+4186,Göteborg-SE,Hub Graz-AT,-0.0
+4187,Göteborg-SE,Hagenbrunn-AT,-0.0
+4188,Göteborg-SE,Allhaming-AT,-0.0
+4189,Göteborg-SE,Enns-AT,-0.0
+4190,Göteborg-SE,Wernberg-AT,-0.0
+4191,Göteborg-SE,Wals-AT,-0.0
+4192,Göteborg-SE,Hall in Tirol-AT,-0.0
+4193,Göteborg-SE,Liesing-AT,-0.0
+4194,Göteborg-SE,Wundschuh-AT,-0.0
+4195,Stockholm - Västberga-SE,Hub Wien I-AT,-0.0
+4196,Stockholm - Västberga-SE,Hub Wien II-AT,-0.0
+4197,Stockholm - Västberga-SE,Hub Graz-AT,-0.0
+4198,Stockholm - Västberga-SE,Hagenbrunn-AT,-0.0
+4199,Stockholm - Västberga-SE,Allhaming-AT,-0.0
+4200,Stockholm - Västberga-SE,Enns-AT,-0.0
+4201,Stockholm - Västberga-SE,Wernberg-AT,-0.0
+4202,Stockholm - Västberga-SE,Wals-AT,-0.0
+4203,Stockholm - Västberga-SE,Hall in Tirol-AT,-0.0
+4204,Stockholm - Västberga-SE,Liesing-AT,-0.0
+4205,Stockholm - Västberga-SE,Wundschuh-AT,-0.0
+4206,Helsingborg-SE,Hub Wien I-AT,0.0
+4207,Helsingborg-SE,Hub Wien II-AT,-0.0
+4208,Helsingborg-SE,Hub Graz-AT,-0.0
+4209,Helsingborg-SE,Hagenbrunn-AT,-0.0
+4210,Helsingborg-SE,Allhaming-AT,-0.0
+4211,Helsingborg-SE,Enns-AT,-0.0
+4212,Helsingborg-SE,Wernberg-AT,0.0
+4213,Helsingborg-SE,Wals-AT,0.0
+4214,Helsingborg-SE,Hall in Tirol-AT,-0.0
+4215,Helsingborg-SE,Liesing-AT,0.0
+4216,Helsingborg-SE,Wundschuh-AT,-0.0
+4217,Arlöv-SE,Hub Wien I-AT,-0.0
+4218,Arlöv-SE,Hub Wien II-AT,-0.0
+4219,Arlöv-SE,Hub Graz-AT,-0.0
+4220,Arlöv-SE,Hagenbrunn-AT,0.0
+4221,Arlöv-SE,Allhaming-AT,0.0
+4222,Arlöv-SE,Enns-AT,-0.0
+4223,Arlöv-SE,Wernberg-AT,-0.0
+4224,Arlöv-SE,Wals-AT,-0.0
+4225,Arlöv-SE,Hall in Tirol-AT,-0.0
+4226,Arlöv-SE,Liesing-AT,0.0
+4227,Arlöv-SE,Wundschuh-AT,0.0
+4228,Malmö-SE,Hub Wien I-AT,0.0
+4229,Malmö-SE,Hub Wien II-AT,-0.0
+4230,Malmö-SE,Hub Graz-AT,-0.0
+4231,Malmö-SE,Hagenbrunn-AT,-0.0
+4232,Malmö-SE,Allhaming-AT,0.0
+4233,Malmö-SE,Enns-AT,-0.0
+4234,Malmö-SE,Wernberg-AT,0.0
+4235,Malmö-SE,Wals-AT,64027.0
+4236,Malmö-SE,Hall in Tirol-AT,-0.0
+4237,Malmö-SE,Liesing-AT,-0.0
+4238,Malmö-SE,Wundschuh-AT,0.0
+4239,Göteborg-SE,Brüssel-BE,-0.0
+4240,Stockholm - Västberga-SE,Brüssel-BE,-0.0
+4241,Helsingborg-SE,Brüssel-BE,-0.0
+4242,Arlöv-SE,Brüssel-BE,-0.0
+4243,Malmö-SE,Brüssel-BE,-0.0
+4244,Göteborg-SE,Sofia-BG,-0.0
+4245,Stockholm - Västberga-SE,Sofia-BG,-0.0
+4246,Helsingborg-SE,Sofia-BG,-0.0
+4247,Arlöv-SE,Sofia-BG,-0.0
+4248,Malmö-SE,Sofia-BG,-0.0
+4249,Göteborg-SE,Brno-CZ,-0.0
+4250,Göteborg-SE,Ostrava-CZ,-0.0
+4251,Göteborg-SE,Krupka 1-CZ,-0.0
+4252,Göteborg-SE,Plzen 1-CZ,-0.0
+4253,Göteborg-SE,Hradec Kralove - Brezhrad-CZ,-0.0
+4254,Göteborg-SE,Ricany -CZ,-0.0
+4255,Göteborg-SE,Zlin-CZ,-0.0
+4256,Göteborg-SE,Olomouc-CZ,-0.0
+4257,Stockholm - Västberga-SE,Brno-CZ,-0.0
+4258,Stockholm - Västberga-SE,Ostrava-CZ,-0.0
+4259,Stockholm - Västberga-SE,Krupka 1-CZ,-0.0
+4260,Stockholm - Västberga-SE,Plzen 1-CZ,-0.0
+4261,Stockholm - Västberga-SE,Hradec Kralove - Brezhrad-CZ,-0.0
+4262,Stockholm - Västberga-SE,Ricany -CZ,-0.0
+4263,Stockholm - Västberga-SE,Zlin-CZ,-0.0
+4264,Stockholm - Västberga-SE,Olomouc-CZ,-0.0
+4265,Helsingborg-SE,Brno-CZ,729.0
+4266,Helsingborg-SE,Ostrava-CZ,-0.0
+4267,Helsingborg-SE,Krupka 1-CZ,-0.0
+4268,Helsingborg-SE,Plzen 1-CZ,-0.0
+4269,Helsingborg-SE,Hradec Kralove - Brezhrad-CZ,-0.0
+4270,Helsingborg-SE,Ricany -CZ,0.0
+4271,Helsingborg-SE,Zlin-CZ,-0.0
+4272,Helsingborg-SE,Olomouc-CZ,-0.0
+4273,Arlöv-SE,Brno-CZ,-0.0
+4274,Arlöv-SE,Ostrava-CZ,-0.0
+4275,Arlöv-SE,Krupka 1-CZ,-0.0
+4276,Arlöv-SE,Plzen 1-CZ,0.0
+4277,Arlöv-SE,Hradec Kralove - Brezhrad-CZ,-0.0
+4278,Arlöv-SE,Ricany -CZ,-0.0
+4279,Arlöv-SE,Zlin-CZ,-0.0
+4280,Arlöv-SE,Olomouc-CZ,0.0
+4281,Malmö-SE,Brno-CZ,0.0
+4282,Malmö-SE,Ostrava-CZ,-0.0
+4283,Malmö-SE,Krupka 1-CZ,579.0
+4284,Malmö-SE,Plzen 1-CZ,0.0
+4285,Malmö-SE,Hradec Kralove - Brezhrad-CZ,-0.0
+4286,Malmö-SE,Ricany -CZ,-0.0
+4287,Malmö-SE,Zlin-CZ,-0.0
+4288,Malmö-SE,Olomouc-CZ,0.0
+4289,Göteborg-SE,PZ 67 (Speyer)-DE,-0.0
+4290,Göteborg-SE,PZ 50 (Köln)-DE,-0.0
+4291,Göteborg-SE,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+4292,Göteborg-SE,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+4293,Göteborg-SE,PZ 77 (Lahr)-DE,-0.0
+4294,Göteborg-SE,PZ 93 (Regensburg)-DE,-0.0
+4295,Göteborg-SE,PZ 21 (Hamburg)-DE,-0.0
+4296,Göteborg-SE,PZ 46 (Dorsten)-DE,-0.0
+4297,Göteborg-SE,PZ 58 (Hagen)-DE,-0.0
+4298,Göteborg-SE,PZ 08 (Neumark)-DE,-0.0
+4299,Göteborg-SE,PZ 47 (Krefeld)-DE,-0.0
+4300,Göteborg-SE,PZ 15 (Rüdersdorf)-DE,0.0
+4301,Göteborg-SE,PZ 24 (Neumünster)-DE,-0.0
+4302,Göteborg-SE,PZ 44 (Bochum) [im Bau]-DE,-0.0
+4303,Stockholm - Västberga-SE,PZ 67 (Speyer)-DE,-0.0
+4304,Stockholm - Västberga-SE,PZ 50 (Köln)-DE,-0.0
+4305,Stockholm - Västberga-SE,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+4306,Stockholm - Västberga-SE,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+4307,Stockholm - Västberga-SE,PZ 77 (Lahr)-DE,-0.0
+4308,Stockholm - Västberga-SE,PZ 93 (Regensburg)-DE,-0.0
+4309,Stockholm - Västberga-SE,PZ 21 (Hamburg)-DE,-0.0
+4310,Stockholm - Västberga-SE,PZ 46 (Dorsten)-DE,-0.0
+4311,Stockholm - Västberga-SE,PZ 58 (Hagen)-DE,-0.0
+4312,Stockholm - Västberga-SE,PZ 08 (Neumark)-DE,-0.0
+4313,Stockholm - Västberga-SE,PZ 47 (Krefeld)-DE,-0.0
+4314,Stockholm - Västberga-SE,PZ 15 (Rüdersdorf)-DE,-0.0
+4315,Stockholm - Västberga-SE,PZ 24 (Neumünster)-DE,-0.0
+4316,Stockholm - Västberga-SE,PZ 44 (Bochum) [im Bau]-DE,-0.0
+4317,Helsingborg-SE,PZ 67 (Speyer)-DE,0.0
+4318,Helsingborg-SE,PZ 50 (Köln)-DE,0.0
+4319,Helsingborg-SE,PZ 04 (Radefeld/Leipzig)-DE,0.0
+4320,Helsingborg-SE,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+4321,Helsingborg-SE,PZ 77 (Lahr)-DE,-0.0
+4322,Helsingborg-SE,PZ 93 (Regensburg)-DE,-0.0
+4323,Helsingborg-SE,PZ 21 (Hamburg)-DE,-0.0
+4324,Helsingborg-SE,PZ 46 (Dorsten)-DE,-0.0
+4325,Helsingborg-SE,PZ 58 (Hagen)-DE,-0.0
+4326,Helsingborg-SE,PZ 08 (Neumark)-DE,-0.0
+4327,Helsingborg-SE,PZ 47 (Krefeld)-DE,-0.0
+4328,Helsingborg-SE,PZ 15 (Rüdersdorf)-DE,-0.0
+4329,Helsingborg-SE,PZ 24 (Neumünster)-DE,-0.0
+4330,Helsingborg-SE,PZ 44 (Bochum) [im Bau]-DE,-0.0
+4331,Arlöv-SE,PZ 67 (Speyer)-DE,-0.0
+4332,Arlöv-SE,PZ 50 (Köln)-DE,0.0
+4333,Arlöv-SE,PZ 04 (Radefeld/Leipzig)-DE,0.0
+4334,Arlöv-SE,PZ 90 (Feucht/Nürnberg)-DE,-0.0
+4335,Arlöv-SE,PZ 77 (Lahr)-DE,-0.0
+4336,Arlöv-SE,PZ 93 (Regensburg)-DE,-0.0
+4337,Arlöv-SE,PZ 21 (Hamburg)-DE,0.0
+4338,Arlöv-SE,PZ 46 (Dorsten)-DE,-0.0
+4339,Arlöv-SE,PZ 58 (Hagen)-DE,-0.0
+4340,Arlöv-SE,PZ 08 (Neumark)-DE,-0.0
+4341,Arlöv-SE,PZ 47 (Krefeld)-DE,0.0
+4342,Arlöv-SE,PZ 15 (Rüdersdorf)-DE,-0.0
+4343,Arlöv-SE,PZ 24 (Neumünster)-DE,-0.0
+4344,Arlöv-SE,PZ 44 (Bochum) [im Bau]-DE,0.0
+4345,Malmö-SE,PZ 67 (Speyer)-DE,-0.0
+4346,Malmö-SE,PZ 50 (Köln)-DE,-0.0
+4347,Malmö-SE,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+4348,Malmö-SE,PZ 90 (Feucht/Nürnberg)-DE,0.0
+4349,Malmö-SE,PZ 77 (Lahr)-DE,-0.0
+4350,Malmö-SE,PZ 93 (Regensburg)-DE,-0.0
+4351,Malmö-SE,PZ 21 (Hamburg)-DE,48234.0
+4352,Malmö-SE,PZ 46 (Dorsten)-DE,-0.0
+4353,Malmö-SE,PZ 58 (Hagen)-DE,0.0
+4354,Malmö-SE,PZ 08 (Neumark)-DE,0.0
+4355,Malmö-SE,PZ 47 (Krefeld)-DE,-0.0
+4356,Malmö-SE,PZ 15 (Rüdersdorf)-DE,-0.0
+4357,Malmö-SE,PZ 24 (Neumünster)-DE,-0.0
+4358,Malmö-SE,PZ 44 (Bochum) [im Bau]-DE,-0.0
+4359,Göteborg-SE,Kolding-DK,-0.0
+4360,Stockholm - Västberga-SE,Kolding-DK,-0.0
+4361,Helsingborg-SE,Kolding-DK,-0.0
+4362,Arlöv-SE,Kolding-DK,-0.0
+4363,Malmö-SE,Kolding-DK,35084.0
+4364,Göteborg-SE,Barcelona-ES,-0.0
+4365,Göteborg-SE,Madrid-ES,-0.0
+4366,Göteborg-SE,Araba (Vitoria)-ES,-0.0
+4367,Stockholm - Västberga-SE,Barcelona-ES,-0.0
+4368,Stockholm - Västberga-SE,Madrid-ES,-0.0
+4369,Stockholm - Västberga-SE,Araba (Vitoria)-ES,-0.0
+4370,Helsingborg-SE,Barcelona-ES,3768.0
+4371,Helsingborg-SE,Madrid-ES,0.0
+4372,Helsingborg-SE,Araba (Vitoria)-ES,-0.0
+4373,Arlöv-SE,Barcelona-ES,0.0
+4374,Arlöv-SE,Madrid-ES,-0.0
+4375,Arlöv-SE,Araba (Vitoria)-ES,-0.0
+4376,Malmö-SE,Barcelona-ES,-0.0
+4377,Malmö-SE,Madrid-ES,-0.0
+4378,Malmö-SE,Araba (Vitoria)-ES,-0.0
+4379,Göteborg-SE,Lieto (Turku)-FL,-0.0
+4380,Göteborg-SE,Vantaa (Helsinki)-FL,-0.0
+4381,Stockholm - Västberga-SE,Lieto (Turku)-FL,50491.0
+4382,Stockholm - Västberga-SE,Vantaa (Helsinki)-FL,0.0
+4383,Helsingborg-SE,Lieto (Turku)-FL,-0.0
+4384,Helsingborg-SE,Vantaa (Helsinki)-FL,0.0
+4385,Arlöv-SE,Lieto (Turku)-FL,-0.0
+4386,Arlöv-SE,Vantaa (Helsinki)-FL,-0.0
+4387,Malmö-SE,Lieto (Turku)-FL,0.0
+4388,Malmö-SE,Vantaa (Helsinki)-FL,0.0
+4389,Göteborg-SE,Combs la ville-FR,-0.0
+4390,Stockholm - Västberga-SE,Combs la ville-FR,-0.0
+4391,Helsingborg-SE,Combs la ville-FR,-0.0
+4392,Arlöv-SE,Combs la ville-FR,0.0
+4393,Malmö-SE,Combs la ville-FR,-0.0
+4394,Göteborg-SE,Slough-GB,-0.0
+4395,Göteborg-SE,Ryton Gateway-GB,-0.0
+4396,Stockholm - Västberga-SE,Slough-GB,-0.0
+4397,Stockholm - Västberga-SE,Ryton Gateway-GB,-0.0
+4398,Helsingborg-SE,Slough-GB,-0.0
+4399,Helsingborg-SE,Ryton Gateway-GB,-0.0
+4400,Arlöv-SE,Slough-GB,-0.0
+4401,Arlöv-SE,Ryton Gateway-GB,-0.0
+4402,Malmö-SE,Slough-GB,6045.0
+4403,Malmö-SE,Ryton Gateway-GB,-0.0
+4404,Göteborg-SE,Zagreb-HR,-0.0
+4405,Stockholm - Västberga-SE,Zagreb-HR,-0.0
+4406,Helsingborg-SE,Zagreb-HR,0.0
+4407,Arlöv-SE,Zagreb-HR,-0.0
+4408,Malmö-SE,Zagreb-HR,0.0
+4409,Göteborg-SE,Budapest OLK-HU,0.0
+4410,Göteborg-SE,Budapest NPKK (OE)-HU,-0.0
+4411,Stockholm - Västberga-SE,Budapest OLK-HU,-0.0
+4412,Stockholm - Västberga-SE,Budapest NPKK (OE)-HU,-0.0
+4413,Helsingborg-SE,Budapest OLK-HU,-0.0
+4414,Helsingborg-SE,Budapest NPKK (OE)-HU,-0.0
+4415,Arlöv-SE,Budapest OLK-HU,0.0
+4416,Arlöv-SE,Budapest NPKK (OE)-HU,0.0
+4417,Malmö-SE,Budapest OLK-HU,-0.0
+4418,Malmö-SE,Budapest NPKK (OE)-HU,0.0
+4419,Göteborg-SE,Portlaoise-IE,-0.0
+4420,Göteborg-SE,Dublin-IE,0.0
+4421,Stockholm - Västberga-SE,Portlaoise-IE,-0.0
+4422,Stockholm - Västberga-SE,Dublin-IE,-0.0
+4423,Helsingborg-SE,Portlaoise-IE,-0.0
+4424,Helsingborg-SE,Dublin-IE,-0.0
+4425,Arlöv-SE,Portlaoise-IE,-0.0
+4426,Arlöv-SE,Dublin-IE,-0.0
+4427,Malmö-SE,Portlaoise-IE,-0.0
+4428,Malmö-SE,Dublin-IE,0.0
+4429,Göteborg-SE,Bettembourg-LU,-0.0
+4430,Stockholm - Västberga-SE,Bettembourg-LU,-0.0
+4431,Helsingborg-SE,Bettembourg-LU,-0.0
+4432,Arlöv-SE,Bettembourg-LU,-0.0
+4433,Malmö-SE,Bettembourg-LU,0.0
+4434,Göteborg-SE,Eindhoven-Noord-NL,-0.0
+4435,Göteborg-SE,Zaltbommel-NL,-0.0
+4436,Stockholm - Västberga-SE,Eindhoven-Noord-NL,-0.0
+4437,Stockholm - Västberga-SE,Zaltbommel-NL,-0.0
+4438,Helsingborg-SE,Eindhoven-Noord-NL,-0.0
+4439,Helsingborg-SE,Zaltbommel-NL,0.0
+4440,Arlöv-SE,Eindhoven-Noord-NL,-0.0
+4441,Arlöv-SE,Zaltbommel-NL,-0.0
+4442,Malmö-SE,Eindhoven-Noord-NL,13897.0
+4443,Malmö-SE,Zaltbommel-NL,0.0
+4444,Göteborg-SE,Oslo-NO,92346.0
+4445,Stockholm - Västberga-SE,Oslo-NO,-0.0
+4446,Helsingborg-SE,Oslo-NO,0.0
+4447,Arlöv-SE,Oslo-NO,0.0
+4448,Malmö-SE,Oslo-NO,0.0
+4449,Göteborg-SE,Suwałki (Ełk)-PL,-0.0
+4450,Göteborg-SE,Poznań-PL,-0.0
+4451,Göteborg-SE,Zabrze-PL,-0.0
+4452,Göteborg-SE,Koninko-PL,-0.0
+4453,Göteborg-SE,Wrocław-PL,-0.0
+4454,Göteborg-SE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+4455,Stockholm - Västberga-SE,Suwałki (Ełk)-PL,-0.0
+4456,Stockholm - Västberga-SE,Poznań-PL,-0.0
+4457,Stockholm - Västberga-SE,Zabrze-PL,-0.0
+4458,Stockholm - Västberga-SE,Koninko-PL,-0.0
+4459,Stockholm - Västberga-SE,Wrocław-PL,-0.0
+4460,Stockholm - Västberga-SE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+4461,Helsingborg-SE,Suwałki (Ełk)-PL,-0.0
+4462,Helsingborg-SE,Poznań-PL,1041.0
+4463,Helsingborg-SE,Zabrze-PL,-0.0
+4464,Helsingborg-SE,Koninko-PL,-0.0
+4465,Helsingborg-SE,Wrocław-PL,-0.0
+4466,Helsingborg-SE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+4467,Arlöv-SE,Suwałki (Ełk)-PL,-0.0
+4468,Arlöv-SE,Poznań-PL,-0.0
+4469,Arlöv-SE,Zabrze-PL,-0.0
+4470,Arlöv-SE,Koninko-PL,-0.0
+4471,Arlöv-SE,Wrocław-PL,-0.0
+4472,Arlöv-SE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+4473,Malmö-SE,Suwałki (Ełk)-PL,-0.0
+4474,Malmö-SE,Poznań-PL,0.0
+4475,Malmö-SE,Zabrze-PL,0.0
+4476,Malmö-SE,Koninko-PL,0.0
+4477,Malmö-SE,Wrocław-PL,-0.0
+4478,Malmö-SE,Bydgoszcz (Solec Kujawski)-PL,-0.0
+4479,Göteborg-SE,Lisboa-PT,-0.0
+4480,Stockholm - Västberga-SE,Lisboa-PT,-0.0
+4481,Helsingborg-SE,Lisboa-PT,-0.0
+4482,Arlöv-SE,Lisboa-PT,-0.0
+4483,Malmö-SE,Lisboa-PT,-0.0
+4484,Göteborg-SE,Oradea-RO,0.0
+4485,Stockholm - Västberga-SE,Oradea-RO,-0.0
+4486,Helsingborg-SE,Oradea-RO,0.0
+4487,Arlöv-SE,Oradea-RO,-0.0
+4488,Malmö-SE,Oradea-RO,-0.0
+4489,Göteborg-SE,Ljubljana-SI,-0.0
+4490,Stockholm - Västberga-SE,Ljubljana-SI,-0.0
+4491,Helsingborg-SE,Ljubljana-SI,-0.0
+4492,Arlöv-SE,Ljubljana-SI,-0.0
+4493,Malmö-SE,Ljubljana-SI,-0.0
+4494,Göteborg-SE,Zilina- Strecno-SK,-0.0
+4495,Göteborg-SE,Ivanka pri Dunaji-SK,-0.0
+4496,Stockholm - Västberga-SE,Zilina- Strecno-SK,-0.0
+4497,Stockholm - Västberga-SE,Ivanka pri Dunaji-SK,-0.0
+4498,Helsingborg-SE,Zilina- Strecno-SK,-0.0
+4499,Helsingborg-SE,Ivanka pri Dunaji-SK,-0.0
+4500,Arlöv-SE,Zilina- Strecno-SK,-0.0
+4501,Arlöv-SE,Ivanka pri Dunaji-SK,-0.0
+4502,Malmö-SE,Zilina- Strecno-SK,-0.0
+4503,Malmö-SE,Ivanka pri Dunaji-SK,0.0
+4504,Ljubljana-SI,Hub Wien I-AT,-0.0
+4505,Ljubljana-SI,Hub Wien II-AT,-0.0
+4506,Ljubljana-SI,Hub Graz-AT,-0.0
+4507,Ljubljana-SI,Hagenbrunn-AT,0.0
+4508,Ljubljana-SI,Allhaming-AT,-0.0
+4509,Ljubljana-SI,Enns-AT,-0.0
+4510,Ljubljana-SI,Wernberg-AT,392.0
+4511,Ljubljana-SI,Wals-AT,0.0
+4512,Ljubljana-SI,Hall in Tirol-AT,-0.0
+4513,Ljubljana-SI,Liesing-AT,-0.0
+4514,Ljubljana-SI,Wundschuh-AT,-0.0
+4515,Ljubljana-SI,Brüssel-BE,0.0
+4516,Ljubljana-SI,PZ 67 (Speyer)-DE,-0.0
+4517,Ljubljana-SI,PZ 50 (Köln)-DE,-0.0
+4518,Ljubljana-SI,PZ 04 (Radefeld/Leipzig)-DE,-0.0
+4519,Ljubljana-SI,PZ 90 (Feucht/Nürnberg)-DE,3480.0
+4520,Ljubljana-SI,PZ 77 (Lahr)-DE,-0.0
+4521,Ljubljana-SI,PZ 93 (Regensburg)-DE,-0.0
+4522,Ljubljana-SI,PZ 21 (Hamburg)-DE,-0.0
+4523,Ljubljana-SI,PZ 46 (Dorsten)-DE,-0.0
+4524,Ljubljana-SI,PZ 58 (Hagen)-DE,-0.0
+4525,Ljubljana-SI,PZ 08 (Neumark)-DE,-0.0
+4526,Ljubljana-SI,PZ 47 (Krefeld)-DE,-0.0
+4527,Ljubljana-SI,PZ 15 (Rüdersdorf)-DE,-0.0
+4528,Ljubljana-SI,PZ 24 (Neumünster)-DE,-0.0
+4529,Ljubljana-SI,PZ 44 (Bochum) [im Bau]-DE,-0.0
+4530,Ljubljana-SI,Eindhoven-Noord-NL,-0.0
+4531,Ljubljana-SI,Zaltbommel-NL,-0.0
+4532,Ljubljana-SI,Suwałki (Ełk)-PL,-0.0
+4533,Ljubljana-SI,Poznań-PL,-0.0
+4534,Ljubljana-SI,Zabrze-PL,0.0
+4535,Ljubljana-SI,Koninko-PL,-0.0
+4536,Ljubljana-SI,Wrocław-PL,0.0
+4537,Ljubljana-SI,Bydgoszcz (Solec Kujawski)-PL,-0.0
+4538,Zilina- Strecno-SK,Brno-CZ,-0.0
+4539,Zilina- Strecno-SK,Ostrava-CZ,-0.0
+4540,Zilina- Strecno-SK,Krupka 1-CZ,0.0
+4541,Zilina- Strecno-SK,Plzen 1-CZ,0.0
+4542,Zilina- Strecno-SK,Hradec Kralove - Brezhrad-CZ,-0.0
+4543,Zilina- Strecno-SK,Ricany -CZ,-0.0
+4544,Zilina- Strecno-SK,Zlin-CZ,-0.0
+4545,Zilina- Strecno-SK,Olomouc-CZ,-0.0
+4546,Ivanka pri Dunaji-SK,Brno-CZ,201434.0
+4547,Ivanka pri Dunaji-SK,Ostrava-CZ,-0.0
+4548,Ivanka pri Dunaji-SK,Krupka 1-CZ,-0.0
+4549,Ivanka pri Dunaji-SK,Plzen 1-CZ,-0.0
+4550,Ivanka pri Dunaji-SK,Hradec Kralove - Brezhrad-CZ,-0.0
+4551,Ivanka pri Dunaji-SK,Ricany -CZ,-0.0
+4552,Ivanka pri Dunaji-SK,Zlin-CZ,-0.0
+4553,Ivanka pri Dunaji-SK,Olomouc-CZ,-0.0

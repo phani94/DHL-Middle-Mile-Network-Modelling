@@ -1,0 +1,469 @@
+,City,Ref_City,Country
+0,Wien 1,Hub Wien I,AT
+1,Wien 2,Hub Wien II,AT
+2,Hub Linz,Hub Linz,AT
+3,Hub Graz,Hub Graz,AT
+4,Meiningen,Meiningen,AT
+5,Wels,Wels,AT
+6,Herzogenburg,Herzogenburg,AT
+7,Siggerwiesen,Siggerwiesen,AT
+8,Wien Percostraße,Wien Percostraße,AT
+9,Klagenfurt,Klagenfurt,AT
+10,St. Michael,St. Michael,AT
+11,St Florian,St Florian,AT
+12,Peggau,Peggau,AT
+13,Althofen,Althofen,AT
+14,St Andrä,St Andrä,AT
+15,Enzersdorf an der Fischa,Enzersdorf an der Fischa,AT
+16,Wolkersdorf,Wolkersdorf,AT
+17,Jenbach,Jenbach,AT
+18,Bad Fischau,Bad Fischau,AT
+19,Hallein,Hallein,AT
+20,Mötz,Mötz,AT
+21,Spittal an der Drau,Spittal an der Drau,AT
+22,Ried im Innkreis,Ried im Innkreis,AT
+23,Oberwart,Oberwart,AT
+24,Linz,Linz,AT
+25,Zwettl,Zwettl,AT
+26,Ottensheim,Ottensheim,AT
+27,Gablitz,Gablitz,AT
+28,Hagenbrunn,Hagenbrunn,AT
+29,Allhaming,Allhaming,AT
+30,Enns,Enns,AT
+31,Wernberg,Wernberg,AT
+32,Wals,Wals,AT
+33,Hall,Hall in Tirol,AT
+34,Kalsdorf,Hub Graz,AT
+35,Liesing,Liesing,AT
+36,Wundschuh,Wundschuh,AT
+37,Brüssel,Brüssel,BE
+38,BE,Ternat,BE
+39,Sofia,Sofia,BG
+40,Brno,Brno,CZ
+41,Ostrava,Ostrava,CZ
+42,Krupka,Krupka 1,CZ
+43,Plzen,Plzen 1,CZ
+44,Hradec Kralove - Brezhrad,Hradec Kralove - Brezhrad,CZ
+45,Ricany - Jazlovice,Ricany,CZ
+46,Ceske Budejovice,Ceske Budejovice,CZ
+47,Pilsen,Pilsen,CZ
+48,Teplice,Teplice,CZ
+49,Hradec Kralove,Hradec Kralove - Brezhrad,CZ
+50,Zlin,Zlin,CZ
+51,Olomouc,Olomouc,CZ
+52,Praha - Reporyje,Praha,CZ
+53,Liberec,Liberec,CZ
+54,Humpolec,Humpolec,CZ
+55,Karlovy Vary,Karlovy Vary,CZ
+56,Praha - Malesice,Praha,CZ
+57,Pecky,Pecky,CZ
+58,Ricany - Jazlovice (Pallet),Ricany,CZ
+59,Ceske Budejovice (Pallet),Ceske Budejovice (Pallet),CZ
+60,Brno (Pallet),Brno (Pallet),CZ
+61,Liberec (Pallet),Liberec (Pallet),CZ
+62,Pribram,Pribram,CZ
+63,Ceske Budejovice - Vrbenska,Ceske Budejovice,CZ
+64,Namest nad Oslavou,Namest nad Oslavou,CZ
+65,Vsetin,Vsetin,CZ
+66,Jesenik,Jesenik,CZ
+67,Kladno,Kladno,CZ
+68,Blucina,Blucina,CZ
+69,Dubec,Dubec,CZ
+70,Nove Modlany,Nove Modlany,CZ
+71,Speyer,PZ 67 (Speyer),DE
+72,Köln,PZ 50 (Köln),DE
+73,Radefeld,PZ 04 (Radefeld/Leipzig),DE
+74,Feucht,PZ 90 (Feucht/Nürnberg),DE
+75,Lahr,PZ 77 (Lahr),DE
+76,Regensburg,PZ 93 (Regensburg),DE
+77,Hamburg,PZ 21 (Hamburg),DE
+78,Dorsten,PZ 46 (Dorsten),DE
+79,Hagen,PZ 58 (Hagen),DE
+80,Neuwied,PZ 08 (Neumark),DE
+81,Krefeld,PZ 47 (Krefeld),DE
+82,Rüdersdorf,PZ 15 (Rüdersdorf),DE
+83,PZ 01 (Ottendorf-Okrilla),PZ 01 (Ottendorf,DE
+84,PZ 14 (Börnicke),PZ 14 (Börnicke),DE
+85,PZ 17 (Neustrelitz),PZ 17 (Neustrelitz),DE
+86,Neumünster,PZ 24 (Neumünster),DE
+87,PZ 28 (Bremen GVZ),PZ 28 (Bremen GVZ),DE
+88,PZ 28 (Bremen),PZ 28 (Bremen),DE
+89,PZ 30 (Hannover),PZ 30 (Hannover),DE
+90,PZ 33 (Bielefeld),PZ 33 (Bielefeld),DE
+91,PZ 34 (Staufenberg),PZ 34 (Staufenberg),DE
+92,PZ 39 (Osterweddingen/Sülzetal),PZ 39 (Osterweddingen/Sülzetal),DE
+93,PZ 48 (Greven),PZ 48 (Greven),DE
+94,PZ 55 (Saulheim),PZ 55 (Saulheim),DE
+95,PZ 56 (Neuwied),PZ 56 (Neuwied),DE
+96,PZ 63 (Rodgau),PZ 63 (Rodgau),DE
+97,PZ 63 (Obertshausen),PZ 63 (Obertshausen),DE
+98,PZ 72 (Eutingen im Gäu),PZ 72 (Eutingen im Gäu),DE
+99,PZ 73 (Köngen),PZ 73 (Köngen),DE
+100,PZ 76 (Bruchsal),PZ 76 (Bruchsal),DE
+101,PZ 85 (Aschheim),PZ 85 (Aschheim),DE
+102,PZ 86 (Augsburg),PZ 86 (Augsburg),DE
+103,PZ 89 (Günzburg),PZ 89 (Günzburg),DE
+104,PZ 97 (Kitzingen),PZ 97 (Kitzingen),DE
+105,PZ 99 (Nohra),PZ 99 (Nohra),DE
+106,Bochum,PZ 44 (Bochum) [im Bau],DE
+107,Kolding,Kolding,DK
+108,Hägersten/ Kastrup,Hägersten/ Kastrup,DK
+109,Brøndby,Brøndby,DK
+110,Barcelona,Barcelona,ES
+111,Madrid,Madrid,ES
+112,Vitoria,Araba (Vitoria),ES
+113,Albacete,Albacete,ES
+114,Almeria,Almeria,ES
+115,Ávila,Ávila,ES
+116,Badajoz,Badajoz,ES
+117,Burgos,Burgos,ES
+118,Navalmoral,Navalmoral,ES
+119,Cádiz,Cádiz,ES
+120,Córdoba,Córdoba,ES
+121,Cuenca,Cuenca,ES
+122,Granada,Granada,ES
+123,Huesca,Huesca,ES
+124,Las Palmas,Las Palmas,ES
+125,León,León,ES
+126,Lleida,Lleida,ES
+127,Logroño,Logroño,ES
+128,Mahon,Mahon,ES
+129,Mérida,Mérida,ES
+130,Murcia,Murcia,ES
+131,Oviedo,Oviedo,ES
+132,Palencia,Palencia,ES
+133,Salamanca,Salamanca,ES
+134,Segovia,Segovia,ES
+135,Soria,Soria,ES
+136,Tenerife,Tenerife,ES
+137,Teruel,Teruel,ES
+138,Toledo,Toledo,ES
+139,Zamora,Zamora,ES
+140,Alcoy,Alcoy,ES
+141,Cáceres,Cáceres,ES
+142,Puerto Real,Puerto Real,ES
+143,Ponferrada,Ponferrada,ES
+144,Talavera,Talavera,ES
+145,Gandía,Gandía,ES
+146,Onteniente,Onteniente,ES
+147,Alicante,Alicante,ES
+148,Barcelona (Satellite; Manresa),Barcelona (Satellite; Manresa),ES
+149,Barcelona (Satellite; Pineda),Barcelona (Satellite; Pineda),ES
+150,Barcelona (Satellite; Vic),Barcelona (Satellite; Vic),ES
+151,Barcelona (Satellite; Igualada),Barcelona (Satellite; Igualada),ES
+152,Barcelona (Satellite; Vilafranca),Barcelona (Satellite; Vilafranca),ES
+153,Gipuzkoa (Bergara),Gipuzkoa (Bergara),ES
+154,Bizkaia (Bilbao),Bizkaia (Bilbao),ES
+155,Cantabria (Santander),Cantabria (Santander),ES
+156,Castellón,Castellón,ES
+157,Ciudad Real,Ciudad Real,ES
+158,"Coruña, A","Coruña, A",ES
+159,Girona,Girona,ES
+160,Madrid (Satellite; Guadalajara),Madrid (Satellite; Guadalajara),ES
+161,Huelva,Huelva,ES
+162,Illes Balears (Ibiza),Illes Balears (Ibiza),ES
+163,Jaén,Jaén,ES
+164,Lugo,Lugo,ES
+165,Madrid (Satellite; Villalba),Madrid (Satellite; Villalba),ES
+166,Málaga,Málaga,ES
+167,Ourense,Ourense,ES
+168,Illes Balears (Mallorca),Illes Balears (Mallorca),ES
+169,Navarra (Pamplona),Navarra (Pamplona),ES
+170,Gipuzkoa (San Sebastián),Gipuzkoa (San Sebastián),ES
+171,Santiago (Coruña satellite),Santiago (Coruña satellite),ES
+172,Sevilla,Sevilla,ES
+173,Tarragona,Tarragona,ES
+174,Valencia,Valencia,ES
+175,Valladolid,Valladolid,ES
+176,Pontevedra (Vigo),Pontevedra (Vigo),ES
+177,Zaragoza,Zaragoza,ES
+178,Turku (Lieto),Lieto (Turku),FL
+179,Vantaa,Vantaa (Helsinki),FL
+180,Combs-la-Ville,Combs la ville,FR
+,Combs la ville,Combs la ville,FR
+,COMBS LA VILLE,Combs la ville,FR
+181,BRIE COMTE ROBERT,BRIE COMTE ROBERT,FR
+182,REIMS,REIMS,FR
+183,ST OUEN,ST OUEN,FR
+184,PLAISIR,PLAISIR,FR
+185,MITRY,MITRY,FR
+186,METZ,METZ,FR
+187,STRASBOURG,STRASBOURG,FR
+188,BESANCON,BESANCON,FR
+189,ROUEN,ROUEN,FR
+190,CAEN,CAEN,FR
+191,ARRAS,ARRAS,FR
+192,LOMME,LOMME,FR
+193,TOULOUSE,TOULOUSE,FR
+194,BORDEAUX,BORDEAUX,FR
+195,LIMOGES,LIMOGES,FR
+196,NANTES,NANTES,FR
+197,RENNES,RENNES,FR
+198,TOURS,TOURS,FR
+199,QUIMPER,QUIMPER,FR
+200,LYON,LYON,FR
+201,CHAMBERY,CHAMBERY,FR
+202,CLERMONT FD,CLERMONT FD,FR
+203,VITROLLES,VITROLLES,FR
+204,NICE,NICE,FR
+205,BRIGNOLES,BRIGNOLES,FR
+206,ORANGE,ORANGE,FR
+207,BASTIA,BASTIA,FR
+208,GRENOBLE,GRENOBLE,FR
+209,BEZIERS,BEZIERS,FR
+210,Paris,Paris,FR
+211,Slough,Slough,GB
+212,Ryton,Ryton Gateway,GB
+213,Spata,Spata,GR
+214,Zagreb,Zagreb,HR
+215,OLK,Budapest OLK,HU
+216,Budapest,Budapest NPKK (OE),HU
+,Budapest NPKK (OE),Budapest NPKK (OE),HU
+217,Portlaoise,Portlaoise,IE
+218,Dublin,Dublin,IE
+219,Kaunas,Kaunas,LT
+220,Bettembourg,Bettembourg,LU
+221,EINDHOVEN,Eindhoven-Noord,NL
+222,Utrecht,Utrecht,NL
+223,Zaltbommel,Zaltbommel,NL
+224,Alkmaar,Alkmaar,NL
+225,Amersfoort,Amersfoort,NL
+226,Amsterdam,Amsterdam,NL
+227,Arnhem,Arnhem,NL
+228,Den Haag,Den Haag,NL
+229,Drachten,Drachten,NL
+230,Eindhoven,Eindhoven-Noord,NL
+231,Hengelo,Hengelo,NL
+232,Beek,Beek,NL
+233,Roosendaal,Roosendaal,NL
+234,Rotterdam,Rotterdam,NL
+235,Den Bosch,Den Bosch,NL
+236,Zwolle,Zwolle,NL
+237,Utrecht SVC,Utrecht SVC,NL
+238,New Amsterdam,New Amsterdam,NL
+239,New Den Bosch,New Den Bosch,NL
+240,Dedemsvaart,Dedemsvaart,NL
+241,Wehkamp,Wehkamp,NL
+242,Aalsmeer,Aalsmeer,NL
+243,Abcoude,Abcoude,NL
+244,Almelo,Almelo,NL
+245,Almere-Noord,Almere,NL
+246,Alphen,Alphen,NL
+247,Almere-Zuid,Almere,NL
+248,Amsterdam Centrum,Amsterdam Centrum,NL
+249,Amsterdam-Duivendrecht,Amsterdam,NL
+250,Amsterdam Hemweg,Amsterdam Hemweg,NL
+251,Amsterdam-Noord,Amsterdam,NL
+252,Amsterdam Diemen,Amsterdam Diemen,NL
+253,Amsterdam-Zuid,Amsterdam,NL
+254,Apeldoorn,Apeldoorn,NL
+255,Appingedam,Appingedam,NL
+256,Assen,Assen,NL
+257,Asten,Asten,NL
+258,A'dam Westpoort / Zaandam,A'dam Westpoort / Zaandam,NL
+259,Baarlo,Baarlo,NL
+260,Barneveld,Barneveld,NL
+261,Berkel,Berkel,NL
+262,Beverwijk,Beverwijk,NL
+263,De Bilt,De Bilt,NL
+264,Bergen op Zoom,Bergen op Zoom,NL
+265,Breda,Breda,NL
+266,Brunssum,Brunssum,NL
+267,Chaam,Chaam,NL
+268,Delft,Delft,NL
+269,Deventer,Deventer,NL
+270,Dokkum,Dokkum,NL
+271,Dongen,Dongen,NL
+272,Doorn,Doorn,NL
+273,Dordrecht,Dordrecht,NL
+274,Doesburg,Doesburg,NL
+275,Drunen,Drunen,NL
+276,Ede-Veenendaal,Ede,NL
+277,Eersel,Eersel,NL
+278,Eindhoven-Zuid,Eindhoven-Noord,NL
+279,Emmeloord,Emmeloord,NL
+280,Emmen,Emmen,NL
+281,Enschede,Enschede,NL
+282,Epe,Epe,NL
+283,Ermelo,Ermelo,NL
+284,Doetinchem-Etten,Doetinchem,NL
+285,Goes,Goes,NL
+286,Goor,Goor,NL
+287,Gravenhage Centrum,Gravenhage Centrum,NL
+288,Groningen,Groningen,NL
+289,Grave,Grave,NL
+290,Groningen-West,Groningen,NL
+291,Groesbeek,Groesbeek,NL
+292,Gravenhage-Zuid,Gravenhage,NL
+293,Harlingen,Harlingen,NL
+294,Haarlem-Noord,Haarlem,NL
+295,Hardenberg,Hardenberg,NL
+296,s-Hertogenbosch,s,NL
+297,Hoogeveen,Hoogeveen,NL
+298,Hoofddorp,Hoofddorp,NL
+299,Heerhugowaard,Heerhugowaard,NL
+300,Hilversum,Hilversum,NL
+301,Hellevoetsluis,Hellevoetsluis,NL
+302,Horn,Horn,NL
+303,Houten,Houten,NL
+304,Heerenveen,Heerenveen,NL
+305,Kampen,Kampen,NL
+306,Kerkrade,Kerkrade,NL
+307,Krimpen aan de Lek,Krimpen aan de Lek,NL
+308,Krommenie,Krommenie,NL
+309,Leeuwarden,Leeuwarden,NL
+310,Leiden,Leiden,NL
+311,Lelystad,Lelystad,NL
+312,Leusden,Leusden,NL
+313,Lichtenvoorde,Lichtenvoorde,NL
+314,Lisse,Lisse,NL
+315,Loosdrecht,Loosdrecht,NL
+316,Maastricht-Centrum,Maastricht,NL
+317,Maastricht,Maastricht,NL
+318,Maarssen,Maarssen,NL
+319,Middelburg,Middelburg,NL
+320,Middelharnis,Middelharnis,NL
+321,Mijnsheerenland,Mijnsheerenland,NL
+322,Naaldwijk,Naaldwijk,NL
+323,Nuenen,Nuenen,NL
+324,Nijmegen,Nijmegen,NL
+325,Opperdoes,Opperdoes,NL
+326,Oss,Oss,NL
+327,Zevenbergen,Zevenbergen,NL
+328,Purmerend,Purmerend,NL
+329,Raalte,Raalte,NL
+330,Venray,Venray,NL
+331,Ridderkerk,Ridderkerk,NL
+332,Rotterdam-Kralingen,Rotterdam,NL
+333,Rotterdam Noord,Rotterdam Noord,NL
+334,Rotterdam-Pendrecht,Rotterdam,NL
+335,Rosmalen,Rosmalen,NL
+336,Rotterdam-Centrum,Rotterdam,NL
+337,Rotterdam-Zuid,Rotterdam,NL
+338,Rijswijk,Rijswijk,NL
+339,Schoondijke,Schoondijke,NL
+340,Schagen,Schagen,NL
+341,Sittard,Sittard,NL
+342,Sliedrecht,Sliedrecht,NL
+343,Sneek,Sneek,NL
+344,Soest,Soest,NL
+345,Spijkenisse,Spijkenisse,NL
+346,Stadskanaal,Stadskanaal,NL
+347,Steenwijk,Steenwijk,NL
+348,Terneuzen,Terneuzen,NL
+349,Texel,Texel,NL
+350,Tiel,Tiel,NL
+351,Tilburg-Noord,Tilburg,NL
+352,Tilburg-Zuid,Tilburg,NL
+353,Tolbert,Tolbert,NL
+354,Uden,Uden,NL
+355,Uithoorn,Uithoorn,NL
+356,Veendam,Veendam,NL
+357,Vianen,Vianen,NL
+358,Vlaardingen,Vlaardingen,NL
+359,Voorburg,Voorburg,NL
+360,Voorschoten,Voorschoten,NL
+361,Vught,Vught,NL
+362,Wageningen,Wageningen,NL
+363,Weert,Weert,NL
+364,Winschoten,Winschoten,NL
+365,Woerden,Woerden,NL
+366,IJsselstein,IJsselstein,NL
+367,Zevenhuizen,Zevenhuizen,NL
+368,Zoetermeer,Zoetermeer,NL
+369,Zutphen,Zutphen,NL
+370,Zwanenburg,Zwanenburg,NL
+371,Oslo,Oslo,NO
+372,Ełk,Suwałki (Ełk),PL
+373,Poznań,Poznań,PL
+374,Zabrze,Zabrze,PL
+375,Koninko,Koninko,PL
+376,Wroclaw,Wrocław,PL
+377,Bydgoszcz,Bydgoszcz (Solec Kujawski),PL
+378,Białystok,Białystok,PL
+379,Bielsko-Biała,Bielsko,PL
+380,Ciechanów,Ciechanów,PL
+381,Częstochowa,Częstochowa,PL
+382,Gdańsk,Gdańsk,PL
+383,Gorzów Wielkopolski,Gorzów Wielkopolski,PL
+384,Jelenia Góra,Jelenia Góra,PL
+385,Kalisz,Kalisz,PL
+386,Kielce,Kielce,PL
+387,Konin,Konin,PL
+388,Koszalin,Koszalin,PL
+389,Kraków (Niepołomice),Kraków (Niepołomice),PL
+390,Legnica,Legnica,PL
+391,Łódź,Łódź,PL
+392,Łomża,Łomża,PL
+393,Lublin,Lublin,PL
+394,Moszna Parcela,Moszna Parcela,PL
+395,Nowy Sącz,Nowy Sącz,PL
+396,Olsztyn,Olsztyn,PL
+397,Opole,Opole,PL
+398,Piła,Piła,PL
+399,Piotrków Trybunalski,Piotrków Trybunalski,PL
+400,Płock,Płock,PL
+401,Radom,Radom,PL
+402,Rzeszów,Rzeszów,PL
+403,Siedlce,Siedlce,PL
+404,Słupsk (Kobylnica),Słupsk (Kobylnica),PL
+405,Szczecin,Szczecin,PL
+406,Tarnobrzeg (Sandomierz),Tarnobrzeg (Sandomierz),PL
+407,Tarnów,Tarnów,PL
+408,Tychy,Tychy,PL
+409,Wałbrzych,Wałbrzych,PL
+410,Warszawa,Warszawa,PL
+411,Włocławek,Włocławek,PL
+412,Zielona Góra,Zielona Góra,PL
+413,Lisbon,Lisboa,PT
+414,Coimbra,Coimbra,PT
+415,Évora,Évora,PT
+416,Faro,Faro,PT
+417,Porto,Porto,PT
+418,Vila Real,Vila Real,PT
+419,Oradea,Oradea,RO
+420,Bucuresti,Bucuresti,RO
+421,Göteborg,Göteborg,SE
+422,Stockholm,Stockholm - Västberga,SE
+423,Helsingborg,Helsingborg,SE
+424,ARLÖV,Arlöv,SE
+425,Malmö,Malmö,SE
+426,Växjö,Växjö,SE
+427,Stockholm - Rosersberg,Stockholm - Västberga,SE
+428,Borlänge,Borlänge,SE
+429,Borås,Borås,SE
+430,Eskilstuna,Eskilstuna,SE
+431,Gävle,Gävle,SE
+432,Halmstad,Halmstad,SE
+433,Jönköping,Jönköping,SE
+434,Karlstad,Karlstad,SE
+435,Norrköping,Norrköping,SE
+436,Oskarshamn,Oskarshamn,SE
+437,Sundsvall,Sundsvall,SE
+438,Tibro,Tibro,SE
+439,Uppsala,Uppsala,SE
+440,Värnamo,Värnamo,SE
+441,Örebro,Örebro,SE
+442,Luleå,Luleå,SE
+443,Skellefteå,Skellefteå,SE
+444,Umeå,Umeå,SE
+445,Visby,Visby,SE
+446,Östersund,Östersund,SE
+447,Hisings Backa,Hisings Backa,SE
+448,HÄGERSTEN,HÄGERSTEN,SE
+449,Ljubljana,Ljubljana,SI
+450,Bratislava Rača,Bratislava,SK
+451,Bratislava Petržalka,Bratislava,SK
+452,Strečno,Zilina- Strecno,SK
+453,Nitra,Nitra,SK
+454,Banska Bystrica,Banska Bystrica,SK
+455,Kosice,Kosice,SK
+456,Poprad,Poprad,SK
+457,Ivanka pri Dunaji,Ivanka pri Dunaji,SK
+458,Riga,Riga,LV
+459,Piacenza,Piacenza,IT
+460,Milan,Milan,IT
+461,Verona,Verona,IT
+462,Napoli,Napoli,IT
+463,Pesaro,Pesaro,IT
+464,Tallinn,Tallinn,EE

@@ -1,0 +1,196 @@
+,Unnamed: 0,Ori. ,Dest.,Connect movement,Org. GTW,Dst. GTW,Mo,Tu,We,Th,Fr,Sa,Su,Truck type,index,Frequency,From,To
+0,0,CZ,PL,Y,Ostrava,Zabrze,X,X,X,X,X,,,Trailer,0,5,Ostrava-CZ,Zabrze-PL
+1,1,CZ,DE,Y,Plzen,Feucht,X,X,X,X,X,,,2 swap bodies,1,5,Plzen-CZ,PZ 90 (Feucht/Nürnberg)-DE
+2,2,DE,ES,Y,Speyer,Barcelona,,X,X,X,X,X,,Trailer,2,5,PZ 67 (Speyer)-DE,Barcelona-ES
+3,3,DE,ES,Y,Speyer,Barcelona,,X,X,X,X,,,Trailer,3,4,PZ 67 (Speyer)-DE,Barcelona-ES
+4,4,DE,ES,Y,Speyer,Barcelona,,,,,,X,,Trailer,4,1,PZ 67 (Speyer)-DE,Barcelona-ES
+5,5,DE,ES,Y,Speyer,Madrid,,,,,X,,,Trailer,5,1,PZ 67 (Speyer)-DE,Madrid-ES
+6,6,DE,ES,Y,Speyer,Madrid,,,,,,X,,Trailer,6,1,PZ 67 (Speyer)-DE,Madrid-ES
+7,7,DE,ES,Y,Speyer,Madrid,,X,X,X,,,,Trailer,7,3,PZ 67 (Speyer)-DE,Madrid-ES
+8,8,DE,ES,Y,Speyer,Vitoria,,,,,,X,,Trailer,8,1,PZ 67 (Speyer)-DE,Araba (Vitoria)-ES
+9,9,DE,PT,Y,Speyer,Lisbon,X,X,X,X,,,,Trailer,9,4,PZ 67 (Speyer)-DE,Lisboa-PT
+10,10,DE,PT,Y,Speyer,Lisbon,,,,,X,,,Trailer,10,1,PZ 67 (Speyer)-DE,Lisboa-PT
+11,11,ES,DE,Y,Barcelona,Speyer,X,X,X,X,X,,,Trailer,11,5,Barcelona-ES,PZ 67 (Speyer)-DE
+12,12,ES,DE,Y,Barcelona,Speyer,X,,,,,,,Trailer,12,1,Barcelona-ES,PZ 67 (Speyer)-DE
+13,13,FR,DE,Y,Combs-la-Ville,Lahr,,,,,X,,,Trailer,13,1,Combs la ville-FR,PZ 77 (Lahr)-DE
+14,14,GB,DE,Y,Slough,Köln,,X,X,X,X,,,SEMI TRAILER,14,4,Slough-GB,PZ 50 (Köln)-DE
+15,15,GB,DE,Y,Slough,Köln,,,,,,X,,SEMI TRAILER,15,1,Slough-GB,PZ 50 (Köln)-DE
+16,16,GB,DE,Y,Slough,Köln,,X,X,X,X,,,SEMI TRAILER,16,4,Slough-GB,PZ 50 (Köln)-DE
+17,17,GB,DE,Y,Slough,Köln,,,,,,X,,SEMI TRAILER,17,1,Slough-GB,PZ 50 (Köln)-DE
+18,18,GB,DE,Y,Slough,Köln,,,X,,,,,SEMI TRAILER,18,1,Slough-GB,PZ 50 (Köln)-DE
+19,19,GB,DE,Y,Ryton,Köln,,X,X,X,X,,X,SEMI TRAILER,19,5,Ryton Gateway-GB,PZ 50 (Köln)-DE
+20,20,NL,DE,Y,Zaltbommel,Bochum,,X,,,,,,Trailer,20,1,Zaltbommel-NL,PZ 44 (Bochum) [im Bau]-DE
+21,21,NL,DE,Y,Zaltbommel,Krefeld,,,,,,X,,Trailer,21,1,Zaltbommel-NL,PZ 47 (Krefeld)-DE
+22,22,NL,DE,Y,Zaltbommel,Krefeld,,,,,,X,,Trailer,22,1,Zaltbommel-NL,PZ 47 (Krefeld)-DE
+23,23,NL,DE,Y,Zaltbommel,Köln,X,X,X,X,X,,,1 swap body,23,5,Zaltbommel-NL,PZ 50 (Köln)-DE
+24,24,NL,DE,Y,Zaltbommel,Neuwied,X,X,X,X,X,,,1 swap body,24,5,Zaltbommel-NL,PZ 08 (Neumark)-DE
+25,25,NL,DE,Y,Zaltbommel,Regensburg,X,X,X,X,X,,,1 swap body,25,5,Zaltbommel-NL,PZ 93 (Regensburg)-DE
+26,26,NL,DE,Y,Zaltbommel,Krefeld,X,X,X,X,X,,,1 swap body,26,5,Zaltbommel-NL,PZ 47 (Krefeld)-DE
+27,27,NL,ES,Y,EINDHOVEN,Barcelona,,X,X,X,X,,,Trailer,27,4,Eindhoven-Noord-NL,Barcelona-ES
+28,28,NL,ES,Y,EINDHOVEN,Barcelona,,,,,,X,,Trailer,28,1,Eindhoven-Noord-NL,Barcelona-ES
+29,29,NL,ES,Y,EINDHOVEN,Madrid,,X,X,X,,,,Trailer,29,3,Eindhoven-Noord-NL,Madrid-ES
+30,30,NL,ES,Y,EINDHOVEN,Madrid,,,,,,X,,Trailer,30,1,Eindhoven-Noord-NL,Madrid-ES
+31,31,NL,ES,Y,EINDHOVEN,Madrid,,,,,X,,,Trailer,31,1,Eindhoven-Noord-NL,Madrid-ES
+32,32,NL,ES,Y,EINDHOVEN,Vitoria,,,,,,X,,Trailer,32,1,Eindhoven-Noord-NL,Araba (Vitoria)-ES
+33,33,NL,ES,Y,EINDHOVEN,Vitoria,X,X,X,X,,,,Trailer,33,4,Eindhoven-Noord-NL,Araba (Vitoria)-ES
+34,34,NL,ES,Y,EINDHOVEN,Vitoria,,X,X,X,X,,,Trailer,34,4,Eindhoven-Noord-NL,Araba (Vitoria)-ES
+35,35,NL,ES,Y,EINDHOVEN,Vitoria,,,,,,X,,Trailer,35,1,Eindhoven-Noord-NL,Araba (Vitoria)-ES
+36,36,NL,FR,Y,EINDHOVEN,COMBS LA VILLE,,X,X,X,X,,,Trailer,36,4,Eindhoven-Noord-NL,COMBS LA VILLE
+37,37,NL,FR,Y,EINDHOVEN,COMBS LA VILLE,,,,,,X,,Trailer,37,1,Eindhoven-Noord-NL,COMBS LA VILLE
+38,38,NL,GB,Y,Zaltbommel,Ryton,,X,X,X,X,,,Trailer,38,4,Zaltbommel-NL,Ryton Gateway-GB
+39,39,NL,GB,Y,Zaltbommel,Ryton,,,,,,X,,Trailer,39,1,Zaltbommel-NL,Ryton Gateway-GB
+40,40,NL,GB,Y,EINDHOVEN,Ryton,X,X,X,X,,,,Trailer,40,4,Eindhoven-Noord-NL,Ryton Gateway-GB
+41,41,NL,GB,Y,EINDHOVEN,Ryton,,,,,X,,,Trailer,41,1,Eindhoven-Noord-NL,Ryton Gateway-GB
+42,42,NL,GB,Y,EINDHOVEN,Ryton,,X,X,X,X,,,Trailer,42,4,Eindhoven-Noord-NL,Ryton Gateway-GB
+43,43,NL,GB,Y,EINDHOVEN,Ryton,,,,,,X,,Trailer,43,1,Eindhoven-Noord-NL,Ryton Gateway-GB
+44,44,NL,GB,Y,EINDHOVEN,Ryton,,X,X,X,X,,,Trailer,44,4,Eindhoven-Noord-NL,Ryton Gateway-GB
+45,45,NL,GB,Y,EINDHOVEN,Ryton,,,,,,X,,Trailer,45,1,Eindhoven-Noord-NL,Ryton Gateway-GB
+46,46,NL,PL,Y,EINDHOVEN,Koninko,,X,X,X,X,,,Trailer,46,4,Eindhoven-Noord-NL,Koninko-PL
+47,47,NL,PL,Y,EINDHOVEN,Koninko,,,,,,X,,Trailer,47,1,Eindhoven-Noord-NL,Koninko-PL
+48,48,NL,PL,Y,EINDHOVEN,Poznań,,X,X,X,X,,,Trailer,48,4,Eindhoven-Noord-NL,Poznań-PL
+49,49,NL,PL,Y,EINDHOVEN,Poznań,,,,,,X,,Trailer,49,1,Eindhoven-Noord-NL,Poznań-PL
+50,50,NL,SE,Y,EINDHOVEN,ARLÖV,,X,X,X,X,,,Trailer,50,4,Eindhoven-Noord-NL,Arlöv-SE
+51,51,NL,SE,Y,EINDHOVEN,ARLÖV,,,,,,X,,Trailer,51,1,Eindhoven-Noord-NL,Arlöv-SE
+52,52,NL,SE,Y,EINDHOVEN,ARLÖV,,X,X,X,X,,,Trailer,52,4,Eindhoven-Noord-NL,Arlöv-SE
+53,53,NL,SE,Y,EINDHOVEN,ARLÖV,,,,,,X,,Trailer,53,1,Eindhoven-Noord-NL,Arlöv-SE
+54,54,PL,LT,Y,Ełk,Kaunas,X,X,X,X,X,,,van,54,5,Suwałki (Ełk)-PL,Kaunas-LT
+55,55,PL,DE,Y,Poznań,Rüdersdorf,X,X,X,X,X,,,2 swap bodies,55,5,Poznań-PL,PZ 15 (Rüdersdorf)-DE
+56,56,PL,DE,Y,Poznań,Rüdersdorf,X,X,X,X,X,,,2 swap bodies,56,5,Poznań-PL,PZ 15 (Rüdersdorf)-DE
+57,57,PL,DE,Y,Poznań,Rüdersdorf,X,X,X,X,X,,,2 swap bodies,57,5,Poznań-PL,PZ 15 (Rüdersdorf)-DE
+58,58,PL,CZ,Y,Zabrze,Ostrava,X,X,X,X,X,,,trailer,58,5,Zabrze-PL,Ostrava-CZ
+59,59,SE,NO,Y,Göteborg,Oslo,X,X,X,X,,,,trailer,59,4,Göteborg-SE,Oslo-NO
+60,60,SE,NO,Y,Göteborg,Oslo,,,,,X,,,trailer,60,1,Göteborg-SE,Oslo-NO
+61,61,SE,NO,Y,Göteborg,Oslo,X,X,X,X,X,,,trailer,61,5,Göteborg-SE,Oslo-NO
+62,62,SE,FI,Y,Stockholm,Turku (Lieto),X,X,X,X,X,,,trailer,62,5,Stockholm - Västberga-SE,Lieto (Turku)-FI
+63,63,SE,FI,Y,Stockholm,Turku (Lieto),X,X,X,X,X,,,trailer,63,5,Stockholm - Västberga-SE,Lieto (Turku)-FI
+64,64,SE,NL,Y,Helsingborg,Eindhoven,X,X,X,X,,,,trailer,64,4,Helsingborg-SE,Eindhoven-NL
+65,65,SE,NL,Y,Helsingborg,Eindhoven,,,,,,X,,trailer,65,1,Helsingborg-SE,Eindhoven-NL
+66,66,FI,SE,Y,Turku (Lieto),Stockholm,,X,X,X,X,,,trailer,66,4,Lieto (Turku)-FI,Stockholm - Västberga-SE
+67,67,FI,SE,Y,Turku (Lieto),Stockholm,X,X,X,X,,,,trailer,67,4,Lieto (Turku)-FI,Stockholm - Västberga-SE
+68,68,DE,BE,Y,Köln,Brüssel,X,X,X,X,X,,,Trailer,68,5,PZ 50 (Köln)-DE,Brüssel-BE
+69,69,DE,BE,Y,Köln,Brüssel,X,X,X,X,X,X,,Trailer,69,6,PZ 50 (Köln)-DE,Brüssel-BE
+70,70,DE,BE,Y,Köln,Brüssel,X,X,X,X,X,,,Trailer,70,5,PZ 50 (Köln)-DE,Brüssel-BE
+71,71,DE,NL,Y,Dorsten,Zaltbommel,X,X,X,X,X,,,2 swap bodies,71,5,PZ 46 (Dorsten)-DE,Zaltbommel-NL
+72,72,DE,NL,Y,Dorsten,Zaltbommel,X,X,X,X,X,,,2 swap bodies,72,5,PZ 46 (Dorsten)-DE,Zaltbommel-NL
+73,73,DE,NL,Y,Dorsten,Zaltbommel,X,X,X,X,X,,,2 swap bodies,73,5,PZ 46 (Dorsten)-DE,Zaltbommel-NL
+74,74,DE,NL,Y,Dorsten,Zaltbommel,X,X,X,X,X,,,2 swap bodies,74,5,PZ 46 (Dorsten)-DE,Zaltbommel-NL
+75,75,DE,NL,Y,Dorsten,Zaltbommel,X,X,X,X,X,,,2 swap bodies,75,5,PZ 46 (Dorsten)-DE,Zaltbommel-NL
+76,76,DE,NL,Y,Dorsten,Zaltbommel,X,X,X,X,X,,,2 swap bodies,76,5,PZ 46 (Dorsten)-DE,Zaltbommel-NL
+77,77,DE,NL,Y,Dorsten,Zaltbommel,X,X,X,X,X,,,2 swap bodies,77,5,PZ 46 (Dorsten)-DE,Zaltbommel-NL
+78,78,DE,NL,Y,Dorsten,Zaltbommel,X,X,X,X,X,,,2 swap bodies,78,5,PZ 46 (Dorsten)-DE,Zaltbommel-NL
+79,79,DE,NL,Y,Dorsten,Zaltbommel,X,X,X,X,X,,,2 swap bodies,79,5,PZ 46 (Dorsten)-DE,Zaltbommel-NL
+80,80,DE,LU,Y,Köln,Bettembourg,X,X,X,X,X,,,Trailer,80,5,PZ 50 (Köln)-DE,Bettembourg-LU
+81,81,DE,LU,Y,Köln,Bettembourg,X,X,X,X,,,,Trailer,81,4,PZ 50 (Köln)-DE,Bettembourg-LU
+82,82,DE,LU,Y,Köln,Bettembourg,X,,,,X,,,Trailer,82,2,PZ 50 (Köln)-DE,Bettembourg-LU
+83,83,DE,GB,Y,Dorsten,Ryton,,X,X,X,X,X,,Trailer,83,5,PZ 46 (Dorsten)-DE,Ryton Gateway-GB
+84,84,DE,GB,Y,Dorsten,Ryton,X,X,X,X,X,,,Trailer,84,5,PZ 46 (Dorsten)-DE,Ryton Gateway-GB
+85,85,AT,PL (via CZ),Y,Hagenbrunn,Zabrze,X,X,X,X,X,,,Trailer,85,5,Hagenbrunn-AT,Zabrze-PL
+86,86,AT,CZ,Y,Hagenbrunn,Brno,X,X,X,X,X,,,Trailer,86,5,Hagenbrunn-AT,Brno-CZ
+87,87,DE,PL,Y,Radefeld,Wroclaw,X,X,X,X,X,,,2 swap bodies,87,5,PZ 04 (Radefeld/Leipzig)-DE,Wrocław-PL
+88,88,DE,PL,Y,Radefeld,Koninko,X,X,X,X,X,X,,2 swap bodies,88,6,PZ 04 (Radefeld/Leipzig)-DE,Koninko-PL
+89,89,DE,PL,Y,Radefeld,Bydgoszcz,X,,X,,X,,,2 swap bodies,89,3,PZ 04 (Radefeld/Leipzig)-DE,Bydgoszcz (Solec Kujawski)-PL
+90,90,DE,IE,Y,Köln,Dublin,X,X,X,X,X,X,,Trailer,90,6,PZ 50 (Köln)-DE,Dublin-IE
+91,91,DE,IE,Y,Köln,Dublin,,X,X,X,X,,,Trailer,91,4,PZ 50 (Köln)-DE,Dublin-IE
+92,92,NL,IE,Y,Zaltbommel,Dublin,,X,X,X,,,,Trailer,92,3,Zaltbommel-NL,Dublin-IE
+93,93,NL,CZ,Y,EINDHOVEN,Plzen,,X,X,X,X,,,Trailer,93,4,Eindhoven-Noord-NL,Plzen-CZ
+94,94,NL,CZ,Y,EINDHOVEN,Plzen,,,,,,X,,Trailer,94,1,Eindhoven-Noord-NL,Plzen-CZ
+95,95,NL,GB,Y,EINDHOVEN,Ryton,,X,X,X,X,,,Trailer,95,4,Eindhoven-Noord-NL,Ryton Gateway-GB
+96,96,NL,GB,Y,EINDHOVEN,Ryton,,,,,,X,,Trailer,96,1,Eindhoven-Noord-NL,Ryton Gateway-GB
+97,97,DE,GR,Y,Feucht,Spata,X,X,X,X,X,,,Trailer,97,5,PZ 90 (Feucht/Nürnberg)-DE,Spata-GR
+98,98,DE,RO,Y,Feucht,Oradea,,X,X,X,X,X,,Trailer,98,5,PZ 90 (Feucht/Nürnberg)-DE,Oradea-RO
+99,99,DE,HU,Y,Feucht,Budapest,,X,X,X,X,X,,Trailer,99,5,PZ 90 (Feucht/Nürnberg)-DE,Budapest NPKK (OE)-HU
+100,100,DE,BG,Y,Feucht,Sofia,,X,X,X,X,X,,Trailer,100,5,PZ 90 (Feucht/Nürnberg)-DE,Sofia-BG
+101,101,DE,ES,N,Speyer,Barcelona,X,X,X,X,X,X,,Trailer,101,6,PZ 67 (Speyer)-DE,Barcelona-ES
+102,102,DE,ES,N,Speyer,Barcelona,,X,X,X,X,X,,Trailer,102,5,PZ 67 (Speyer)-DE,Barcelona-ES
+103,103,DE,ES,N,Speyer,Barcelona,,X,X,X,X,X,,Trailer,103,5,PZ 67 (Speyer)-DE,Barcelona-ES
+104,104,DE,ES,N,Speyer,Madrid,X,X,X,X,X,X,,Trailer,104,6,PZ 67 (Speyer)-DE,Madrid-ES
+105,105,DE,ES,N,Speyer,Madrid,,X,X,X,X,X,,Trailer,105,5,PZ 67 (Speyer)-DE,Madrid-ES
+106,106,DE,ES,N,Speyer,Madrid,,X,X,X,X,X,,Trailer,106,5,PZ 67 (Speyer)-DE,Madrid-ES
+107,107,DE,PT,N,Speyer,Lisbon,,X,,X,,X,,Trailer,107,3,PZ 67 (Speyer)-DE,Lisboa-PT
+108,108,DE,FR,Y,Lahr,COMBS LA VILLE,,X,,,X,,,Trailer,108,2,PZ 77 (Lahr)-DE,COMBS LA VILLE
+109,109,DE,HR,Y,Feucht,Zagreb,,X,X,X,X,X,,Van,109,5,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR
+110,110,DE,HR,Y,Feucht,Zagreb,X,X,X,X,X,,,Van,110,5,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR
+111,111,DE,HR,Y,Feucht,Zagreb,X,X,X,X,X,X,,Van,111,6,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR
+112,112,DE,HR,Y,Feucht,Zagreb,,X,X,X,X,X,,Van,112,5,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR
+113,113,DE,HR,Y,Feucht,Zagreb,,X,X,X,X,X,,Van,113,5,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR
+114,114,DE,HR,Y,Feucht,Zagreb,,,,,,X,,Van,114,1,PZ 90 (Feucht/Nürnberg)-DE,Zagreb-HR
+115,115,DE,SI,Y,Regensburg,Ljubljana,X,X,X,X,X,,,Trailer,115,5,PZ 93 (Regensburg)-DE,Ljubljana-SI
+116,116,DE,SK,Y,Regensburg,Ivanka pri Dunaji,X,X,X,X,X,,,Trailer,116,5,PZ 93 (Regensburg)-DE,Ivanka pri Dunaji-SK
+117,117,DE,CZ,Y,Radefeld,Krupka,X,X,X,X,X,,,2 swap bodies,117,5,PZ 04 (Radefeld/Leipzig)-DE,Krupka 1-CZ
+118,118,DE,FI,Y,Hamburg,Vantaa,X,X,X,X,X,,,Sea Container,118,5,PZ 21 (Hamburg)-DE,Vantaa (Helsinki)-FI
+119,119,DE,SE,Y,Hamburg,Malmö,X,X,X,X,X,,,Trailer,119,5,PZ 21 (Hamburg)-DE,Malmö-SE
+120,120,DE,NO,Y,Hamburg,Oslo,X,X,X,X,X,,,Trailer,120,5,PZ 21 (Hamburg)-DE,Oslo-NO
+121,121,DE,DK,Y,Hamburg,Kolding,X,X,X,X,X,,,Trailer,121,5,PZ 21 (Hamburg)-DE,Kolding-DK
+122,122,DE,LT,Y,Radefeld,Kaunas,X,X,X,X,X,,,Trailer,122,5,PZ 04 (Radefeld/Leipzig)-DE,Kaunas-LT
+123,123,SI,DE,Y,Ljubljana,Feucht,,X,X,X,X,X,,Van,123,5,Ljubljana-SI,PZ 90 (Feucht/Nürnberg)-DE
+124,124,NL,DE,Y,Zaltbommel,Dorsten,X,X,X,X,X,,,2 swap bodies,124,5,Zaltbommel-NL,PZ 46 (Dorsten)-DE
+125,125,NL,DE,Y,Zaltbommel,Dorsten,X,X,X,X,X,,,2 swap bodies,125,5,Zaltbommel-NL,PZ 46 (Dorsten)-DE
+126,126,NL,DE,Y,Zaltbommel,Dorsten,X,X,X,X,X,,,2 swap bodies,126,5,Zaltbommel-NL,PZ 46 (Dorsten)-DE
+127,127,NL,DE,Y,Zaltbommel,Dorsten,X,X,X,X,X,,,2 swap bodies,127,5,Zaltbommel-NL,PZ 46 (Dorsten)-DE
+128,128,NL,DE,Y,Zaltbommel,Dorsten,X,X,X,X,X,,,2 swap bodies,128,5,Zaltbommel-NL,PZ 46 (Dorsten)-DE
+129,129,NL,DE,Y,Zaltbommel,Dorsten,X,X,X,X,X,,,2 swap bodies,129,5,Zaltbommel-NL,PZ 46 (Dorsten)-DE
+130,130,NL,DE,Y,Zaltbommel,Dorsten,X,X,X,X,X,,,2 swap bodies,130,5,Zaltbommel-NL,PZ 46 (Dorsten)-DE
+131,131,NL,DE,Y,Zaltbommel,Dorsten,X,X,X,X,X,,,2 swap bodies,131,5,Zaltbommel-NL,PZ 46 (Dorsten)-DE
+132,132,DE,GB,Y,Dorsten,Ryton,,X,X,X,X,X,,Trailer,132,5,PZ 46 (Dorsten)-DE,Ryton Gateway-GB
+133,133,DE,GB,Y,Dorsten,Ryton,X,X,X,X,X,X,,Trailer,133,6,PZ 46 (Dorsten)-DE,Ryton Gateway-GB
+134,134,DE,GB,Y,Dorsten,Ryton,X,X,X,X,X,,,Trailer,134,5,PZ 46 (Dorsten)-DE,Ryton Gateway-GB
+135,135,AT,DE,Y,Wien 1,Regensburg,X,X,X,X,X,,,2 swap bodies,135,5,Hub Wien I-AT,PZ 93 (Regensburg)-DE
+136,136,AT,DE,Y,Wien 1,Regensburg,X,X,X,X,X,,,2 swap bodies,136,5,Hub Wien I-AT,PZ 93 (Regensburg)-DE
+137,137,AT,DE,Y,Hagenbrunn,Regensburg,X,X,X,X,X,,,2 swap bodies,137,5,Hagenbrunn-AT,PZ 93 (Regensburg)-DE
+138,138,AT,DE,Y,Allhaming,Regensburg,X,X,X,X,X,,,2 swap bodies,138,5,Allhaming-AT,PZ 93 (Regensburg)-DE
+139,139,AT,DE,Y,Allhaming,Regensburg,X,X,X,X,X,,,2 swap bodies,139,5,Allhaming-AT,PZ 93 (Regensburg)-DE
+140,140,AT,DE,Y,Allhaming,Regensburg,X,X,X,X,X,,,2 swap bodies,140,5,Allhaming-AT,PZ 93 (Regensburg)-DE
+141,141,AT,DE,Y,Allhaming,Regensburg,X,X,X,X,X,,,2 swap bodies,141,5,Allhaming-AT,PZ 93 (Regensburg)-DE
+142,142,AT,DE,Y,Allhaming,Regensburg,X,X,X,X,X,,,2 swap bodies,142,5,Allhaming-AT,PZ 93 (Regensburg)-DE
+143,143,AT,DE,Y,Enns,Regensburg,X,X,X,X,X,,,2 swap bodies,143,5,Enns-AT,PZ 93 (Regensburg)-DE
+144,144,AT,DE,Y,Wernberg,Regensburg,X,X,X,X,X,,,2 swap bodies,144,5,Wernberg-AT,PZ 93 (Regensburg)-DE
+145,145,DE,AT,Y,Regensburg,Wien 1,X,X,X,X,X,,,2 swap bodies,145,5,PZ 93 (Regensburg)-DE,Hub Wien I-AT
+146,146,DE,AT,Y,Regensburg,Wien 1,X,X,X,X,X,,,2 swap bodies,146,5,PZ 93 (Regensburg)-DE,Hub Wien I-AT
+147,147,DE,AT,Y,Regensburg,Wien 1,X,X,X,X,X,,,2 swap bodies,147,5,PZ 93 (Regensburg)-DE,Hub Wien I-AT
+148,148,DE,AT,Y,Regensburg,Wien 1,X,X,X,X,X,,,2 swap bodies,148,5,PZ 93 (Regensburg)-DE,Hub Wien I-AT
+149,149,DE,AT,Y,Regensburg,Wien 1,X,X,X,X,X,,,2 swap bodies,149,5,PZ 93 (Regensburg)-DE,Hub Wien I-AT
+150,150,DE,AT,Y,Regensburg,Liesing,X,X,X,X,X,,,2 swap bodies,150,5,PZ 93 (Regensburg)-DE,Liesing-AT
+151,151,DE,AT,Y,Regensburg,Liesing,X,X,X,X,X,,,2 swap bodies,151,5,PZ 93 (Regensburg)-DE,Liesing-AT
+152,152,DE,AT,Y,Regensburg,Hagenbrunn,X,X,X,X,X,,,2 swap bodies,152,5,PZ 93 (Regensburg)-DE,Hagenbrunn-AT
+153,153,DE,AT,Y,Regensburg,Hagenbrunn,X,X,X,X,X,,,2 swap bodies,153,5,PZ 93 (Regensburg)-DE,Hagenbrunn-AT
+154,154,DE,AT,Y,Regensburg,Hagenbrunn,X,X,X,X,X,,,2 swap bodies,154,5,PZ 93 (Regensburg)-DE,Hagenbrunn-AT
+155,155,DE,AT,Y,Regensburg,Hagenbrunn,X,X,X,X,X,,,2 swap bodies,155,5,PZ 93 (Regensburg)-DE,Hagenbrunn-AT
+156,156,DE,AT,Y,Regensburg,Hagenbrunn,X,X,X,X,X,,,2 swap bodies,156,5,PZ 93 (Regensburg)-DE,Hagenbrunn-AT
+157,157,DE,AT,Y,Regensburg,Hagenbrunn,,,,,,X,,2 swap bodies,157,1,PZ 93 (Regensburg)-DE,Hagenbrunn-AT
+158,158,DE,AT,Y,Regensburg,Wien 2,X,X,X,X,X,,,2 swap bodies,158,5,PZ 93 (Regensburg)-DE,Hub Wien II-AT
+159,159,DE,AT,Y,Regensburg,Wien 2,X,X,X,X,X,,,2 swap bodies,159,5,PZ 93 (Regensburg)-DE,Hub Wien II-AT
+160,160,DE,AT,Y,Regensburg,Allhaming,X,X,X,X,X,,,2 swap bodies,160,5,PZ 93 (Regensburg)-DE,Allhaming-AT
+161,161,DE,AT,Y,Regensburg,Allhaming,X,X,X,X,X,,,2 swap bodies,161,5,PZ 93 (Regensburg)-DE,Allhaming-AT
+162,162,DE,AT,Y,Regensburg,Allhaming,X,X,X,X,X,,,2 swap bodies,162,5,PZ 93 (Regensburg)-DE,Allhaming-AT
+163,163,DE,AT,Y,Regensburg,Allhaming,X,X,X,X,X,,,2 swap bodies,163,5,PZ 93 (Regensburg)-DE,Allhaming-AT
+164,164,DE,AT,Y,Regensburg,Allhaming,X,X,X,X,X,,,2 swap bodies,164,5,PZ 93 (Regensburg)-DE,Allhaming-AT
+165,165,DE,AT,Y,Regensburg,Wals,X,X,X,X,X,,,2 swap bodies,165,5,PZ 93 (Regensburg)-DE,Wals-Siezenheim-AT
+166,166,DE,AT,Y,Regensburg,Wals,X,X,X,X,X,,,2 swap bodies,166,5,PZ 93 (Regensburg)-DE,Wals-Siezenheim-AT
+167,167,DE,AT,Y,Regensburg,Enns,X,X,X,X,X,,,2 swap bodies,167,5,PZ 93 (Regensburg)-DE,Enns-AT
+168,168,DE,AT,Y,Regensburg,Enns,X,X,X,X,X,,,2 swap bodies,168,5,PZ 93 (Regensburg)-DE,Enns-AT
+169,169,DE,AT,Y,Regensburg,Enns,X,X,X,X,X,,,2 swap bodies,169,5,PZ 93 (Regensburg)-DE,Enns-AT
+170,170,DE,AT,Y,Regensburg,Kalsdorf,X,X,X,X,X,,,2 swap bodies,170,5,PZ 93 (Regensburg)-DE,Kalsdorf bei Graz-AT
+171,171,DE,AT,Y,Regensburg,Kalsdorf,X,X,X,X,X,,,2 swap bodies,171,5,PZ 93 (Regensburg)-DE,Kalsdorf bei Graz-AT
+172,172,DE,AT,Y,Regensburg,Kalsdorf,X,X,X,X,X,,,2 swap bodies,172,5,PZ 93 (Regensburg)-DE,Kalsdorf bei Graz-AT
+173,173,DE,AT,Y,Regensburg,Kalsdorf,,,,,,X,,2 swap bodies,173,1,PZ 93 (Regensburg)-DE,Kalsdorf bei Graz-AT
+174,174,DE,AT,Y,Regensburg,Wundschuh,X,X,X,X,X,,,2 swap bodies,174,5,PZ 93 (Regensburg)-DE,Wundschuh-AT
+175,175,DE,AT,Y,Regensburg,Wundschuh,X,X,X,X,X,,,2 swap bodies,175,5,PZ 93 (Regensburg)-DE,Wundschuh-AT
+176,176,DE,AT,Y,Regensburg,Wernberg,X,X,X,X,X,,,2 swap bodies,176,5,PZ 93 (Regensburg)-DE,Wernberg-AT
+177,177,DE,AT,Y,Regensburg,Wernberg,X,X,X,X,X,,,2 swap bodies,177,5,PZ 93 (Regensburg)-DE,Wernberg-AT
+178,178,DE,AT,Y,Regensburg,Hall,X,X,X,X,X,,,2 swap bodies,178,5,PZ 93 (Regensburg)-DE,Hall in Tirol-AT
+179,179,DE,AT,Y,Regensburg,Hall,X,,,X,,,,2 swap bodies,179,2,PZ 93 (Regensburg)-DE,Hall in Tirol-AT
+180,180,PL,AT (via CZ),Y,Zabrze,Hagenbrunn,X,X,X,X,X,,,Trailer,180,5,Zabrze-PL,Hagenbrunn-AT
+181,181,CZ,AT,Y,Brno,Hagenbrunn,X,X,X,X,X,,,Trailer,181,5,Brno-CZ,Hagenbrunn-AT
+182,182,CZ,SK,Y,Brno,Ivanka pri Dunaji,X,X,X,X,X,,,Cargo 50 m3,182,5,Brno-CZ,Ivanka pri Dunaji-SK
+183,183,CZ,SK,Y,Hradec Kralove - Brezhrad,Strečno,X,X,X,X,X,,,2 swap bodies,183,5,Hradec Kralove - Brezhrad-CZ,Zilina- Strecno-SK
+184,184,CZ,SK,Y,Olomouc,Strečno,X,X,X,X,X,,,2 swap bodies,184,5,Olomouc-CZ,Zilina- Strecno-SK
+185,185,CZ,SK,Y,Ostrava,Strečno,X,X,X,X,X,,,Cargo 50 m3,185,5,Ostrava-CZ,Zilina- Strecno-SK
+186,186,CZ,SK,Y,Ostrava,Strečno,X,X,X,X,X,,,Cargo 50 m3,186,5,Ostrava-CZ,Zilina- Strecno-SK
+187,187,CZ,SK,Y,Ostrava,Strečno,X,X,X,X,X,,,Van 22m3,187,5,Ostrava-CZ,Zilina- Strecno-SK
+188,188,CZ,SK,Y,Ricany - Jazlovice,Ivanka pri Dunaji,X,X,X,X,X,,,4 swap bodies,188,5,Ricany - Jazlovice-CZ,Ivanka pri Dunaji-SK
+189,189,CZ,SK,Y,Zlin,Strečno,X,X,X,X,X,,,Van 15 m3,189,5,Zlin-CZ,Zilina- Strecno-SK
+190,190,SK,CZ,Y,Ivanka pri Dunaji,Ricany - Jazlovice,X,X,X,X,X,,,Trailer,190,5,Ivanka pri Dunaji-SK,Ricany - Jazlovice-CZ
+191,191,CZ,HU,Y,Brno,OLK,X,X,X,X,X,,,Van 15 m3,191,5,Brno-CZ,Budapest OLK-HU
+192,192,HU,DE,Y,Budapest NPKK (OE),Regensburg,X,X,X,X,X,X,,Van,192,6,Budapest NPKK (OE),PZ 93 (Regensburg)-DE
+193,193,SE,DE,Y,Helsingborg,Neumünster,,X,X,X,X,X,,Trailer,193,5,Helsingborg-SE,PZ 24 (Neumünster)-DE
+194,194,LT,DE,Y,Kaunas,Radefeld,X,X,X,,,X,,Trailer,194,4,Kaunas-LT,PZ 04 (Radefeld/Leipzig)-DE
